@@ -5,7 +5,7 @@ Pentru 2025, Urban.Zebra a selectat cinci orașe europene care merită explorate
 {id:2,title:"Călătorii sustenabile: cum să explorezi responsabil",date:"18 Octombrie 2025",image:"https://wsrv.nl/?url=https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1&auto=format&fit=crop&w=1400&q=80",excerpt:"Află cum poți explora lumea responsabil, fără să renunți la confort — de la transport verde la cazare eco și gastronomie locală.",content:`Trăim într-o epocă în care călătoria nu mai înseamnă doar destinația — ci și impactul pe care îl lăsăm în urma noastră.
 
 Călătoria sustenabilă este mai mult decât o tendință...`},
-{id:3,title:"City-break-uri în România: 5 orașe care surprind",date:"05 Octombrie 2025",image:"/images/romania.jpg",excerpt:"Cluj, Timișoara, Iași, Brașov și Oradea — redefiniri urbane surprinzătoare în România modernă.",content:`România nu mai înseamnă doar tradiție și sate pitorești — ci și orașe care pulsează de viață, gastronomie, arhitectură și creativitate.
+{id:3,title:"City-break-uri în România: 5 orașe care surprind",date:"05 Octombrie 2025",image:"/images/Romania.jpg",excerpt:"Cluj, Timișoara, Iași, Brașov și Oradea — redefiniri urbane surprinzătoare în România modernă.",content:`România nu mai înseamnă doar tradiție și sate pitorești — ci și orașe care pulsează de viață, gastronomie, arhitectură și creativitate.
 
 Urban.Zebra ți-a pregătit cinci destinații care te vor surprinde prin energia lor modernă și autentică.`}
 ];export default blogPosts;

@@ -313,58 +313,85 @@ Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania
   title: "🌍 Ce tip de călător ești?",
   date: "28 Octombrie 2025",
   image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80",
-  excerpt: "Ești planificatorul perfect, aventurierul spontan, exploratorul relaxat sau iubitorul de confort? Află ce tip de călător ești. 🌍",
+  excerpt: "Planificatorul, aventurierul, exploratorul relaxat sau iubitorul de confort — care e stilul tău de călătorie? Află cu un zâmbet. 😎",
   content: `
-Sunt oameni care își fac bagajul cu o săptămână înainte și alții care îl fac cu 10 minute înainte să plece.  
-Unii se trezesc devreme să prindă răsăritul pe plajă, alții dorm până la prânz și jură că asta e adevărata relaxare.  
-Adevărul e că nu există o rețetă corectă de a călători — doar stilul care ți se potrivește.  
+🌍 **Ce tip de călător ești?**  
+*Ghid semi-serios pentru toți cei care au făcut cel puțin o poză cu valiza*  
 
-Hai să vedem… tu în ce categorie te regăsești? 😊  
+Să fim sinceri: călătoriile sunt un sport național.  
+Unii pleacă să descopere lumea, alții doar să fugă de notificări.  
+Unii își fac bagajul cu o săptămână înainte, alții aruncă trei haine și o periuță în rucsac cu 10 minute înainte de plecare („ce poate merge prost?”).  
 
-💼 **1. Planificatorul perfect**  
+Și totuși, indiferent cât de diferiți suntem, toți avem un stil de călătorie.  
+Unul care ne definește — și, uneori, ne bagă și-n belele amuzante. 😅  
 
-Ești genul care are un Excel pentru fiecare vacanță — cu zboruri, cazări, buget, chiar și pauze de cafea notate la minut.  
-Ai o satisfacție reală când bifezi obiectivele din listă și îți place să știi mereu ce urmează.  
+Hai să vedem unde te încadrezi 👇  
 
-👉 Avantaj: vezi tot ce ți-ai propus și profiți la maximum de timp.  
-😅 Dezavantaj: uneori, planurile perfecte nu lasă loc surprizelor… iar ele sunt adesea partea cea mai frumoasă a călătoriei.  
+---
 
-🎒 **2. Aventurierul spontan**  
+💼 **Planificatorul perfect – campionul listelor**  
 
-Tu ești cel/cea care își ia un bilet dus și vede la fața locului ce se întâmplă.  
-Nu ai nevoie de itinerarii, ci doar de curiozitate și de o pereche bună de pantofi.  
-Ți se pot întâmpla cele mai neașteptate lucruri — și exact asta cauți: povești.  
+Pentru tine, vacanța începe cu un Excel și se termină cu un review detaliat pe Google Maps.  
+Ai itinerariul făcut pe ore, știi ce metrou iei, la ce oră apune soarele și ce mănânci în ziua a treia, la prânz.  
+Ești sufletul oricărei excursii — și coșmarul oricărui prieten care întârzie la tren. 😂  
 
-👉 Avantaj: trăiești experiențe autentice, uneori magice.  
-😅 Dezavantaj: când nu găsești cazare la 2 noaptea, îți amintești că planificarea nu e chiar așa rea.  
+🟢 *Avantaj:* vezi TOT. Faci poze la răsărit, muzee, piețe și apusuri.  
+🔴 *Dezavantaj:* uneori te relaxezi doar când te întorci acasă.  
 
-📸 **3. Exploratorul relaxat**  
+📍 *Fun fact:* ai fi un ghid turistic excelent. Sau un controlor de trafic aerian.  
 
-Îți place să descoperi locuri noi, dar fără stres.  
-Nu-ți faci programul la secundă, dar îți alegi câteva locuri „de bifat” și restul zilelor le lași să curgă.  
-Ești echilibrul perfect între plan și spontaneitate.  
+---
 
-👉 Avantaj: te bucuri de tot — de loc, de oameni, de vibe.  
-😅 Dezavantaj: uneori ratezi atracții pentru că te-ai pierdut într-o conversație frumoasă sau într-o cafenea mică și primitoare.  
+🎒 **Aventurierul spontan – „merge și-așa” personificat**  
 
-🏖️ **4. Iubitorul de confort**  
+Tu nu ai nevoie de planuri. Tu ai nevoie de Wi-Fi ca să vezi unde ești.  
+Cumperi bilete la promoție și te decizi ce vizitezi după ce ajungi.  
+Ești genul care ajunge la Roma și zice: „wow, e aproape și Vaticanul, hai și acolo!”  
 
-Pentru tine, vacanța nu e despre „a vedea cât mai mult”, ci despre a te simți bine.  
-Șezlong, cocktail, apus pe plajă — și zero griji.  
-Călătoria e, mai presus de toate, o pauză binemeritată.  
+🟢 *Avantaj:* ai cele mai bune povești — genul de aventuri care încep cu „nu o să mă credeți, dar…”  
+🔴 *Dezavantaj:* uneori, spontaneitatea ta înseamnă să dormi pe o bancă pentru că „era mai autentic”.  
 
-👉 Avantaj: te întorci cu adevărat odihnit.  
-😅 Dezavantaj: uneori simți că locul în care ai fost ți-a scăpat printre degete.  
+📍 *Fun fact:* ai fost aproape de un templu budist, dar te-ai oprit pentru o shaorma locală.  
 
-🧭 **Concluzie**  
+---
 
-Indiferent ce tip de călător ești, călătoria e despre ce trăiești, nu doar ce vezi.  
-Despre povești care rămân cu tine, despre emoții, despre oameni.  
-Nu contează dacă alegi o vacanță planificată sau una spontană — contează să-ți încarci sufletul.  
+📸 **Exploratorul relaxat – zen, dar cu filtru bun**  
+
+Tu ești echilibrul întruchipat.  
+Îți place să descoperi locuri noi, dar fără stres. Ai o listă scurtă de „must-see”, restul e după vibe.  
+Nu alergi după poze, dar când le faci… ies perfecte.  
+
+🟢 *Avantaj:* te bucuri de tot — locuri, oameni, mâncare, timp pentru tine.  
+🔴 *Dezavantaj:* uneori ești atât de relaxat, încât pierzi trenul. Sau două.  
+
+📍 *Fun fact:* tu ai descoperit „slow travel” înainte să fie cool.  
+
+---
+
+🏖️ **Iubitorul de confort – specialist în all inclusive**  
+
+Tu pleci în vacanță ca să NU faci nimic.  
+Pentru tine, „descoperă cultura locală” înseamnă să încerci trei tipuri de cocktailuri diferite la barul hotelului.  
+Ai un ritual: somn, piscină, masă, somn, apus, repeat.  
+
+🟢 *Avantaj:* te întorci din vacanță arătând odihnit, nu epuizat.  
+🔴 *Dezavantaj:* dacă cineva te întreabă ce ai vizitat… schimbi subiectul. 😂  
+
+📍 *Fun fact:* ai dus prosopul la piscină la 7 dimineața „ca să prinzi loc”.  
+
+---
+
+🧭 **Concluzie – nu contează cum călătorești, ci cât de tare te distrezi**  
+
+Poți fi planificator, aventurier, relaxat sau confortabil — important e să te bucuri de drum (chiar dacă Google Maps zice că trebuia să faci dreapta acum 2 km).  
+
+Călătoria nu e doar despre destinație.  
+E despre cine devii pe drum — mai ales după ce ți se pierde valiza sau pierzi trenul spre „experiența vieții tale”. 😅  
 
 Așa că te întreb: **tu ce tip de călător ești?** 💬
   `
 },
+
 
 
 ];

@@ -1,0 +1,1 @@
+# Urban.Zebra — React + Vite + Tailwind (Clean Build)\n\n- Dev: `npm run dev`\n- Build: `npm run build`\n- Deploy: Vercel (Output `dist`)\n- Posts: `src/blogData.js`\n- Local images: `public/images`, use `/images/filename.jpg`\n

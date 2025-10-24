@@ -234,7 +234,7 @@ Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷�
 {
   id: 4,
   title: "Top 10 resorturi de lux din Creta în 2025",
-  date: "25 Octombrie 2025",
+  date: "23 Octombrie 2025",
   image: "/images/creta.jpg",
   excerpt: "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
   content: `
@@ -311,7 +311,7 @@ Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania
 {
   id: 5,
   title: "🌍 Ce tip de călător ești?",
-  date: "28 Octombrie 2025",
+  date: "24 Octombrie 2025",
   image: "/images/friends.jpg",
   excerpt: "Planificatorul, aventurierul, exploratorul relaxat sau iubitorul de confort — care e stilul tău de călătorie? Află cu un zâmbet. 😎",
   content: `

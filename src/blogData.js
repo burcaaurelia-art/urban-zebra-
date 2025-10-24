@@ -308,6 +308,63 @@ Fiecare dintre aceste resorturi redefinește luxul mediteranean prin servicii pe
 Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania, Creta rămâne în 2025 sinonimă cu evadarea perfectă.  
 `
 },
+{
+  id: 5,
+  title: "🌍 Ce tip de călător ești?",
+  date: "28 Octombrie 2025",
+  image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80",
+  excerpt: "Ești planificatorul perfect, aventurierul spontan, exploratorul relaxat sau iubitorul de confort? Află ce tip de călător ești. 🌍",
+  content: `
+Sunt oameni care își fac bagajul cu o săptămână înainte și alții care îl fac cu 10 minute înainte să plece.  
+Unii se trezesc devreme să prindă răsăritul pe plajă, alții dorm până la prânz și jură că asta e adevărata relaxare.  
+Adevărul e că nu există o rețetă corectă de a călători — doar stilul care ți se potrivește.  
+
+Hai să vedem… tu în ce categorie te regăsești? 😊  
+
+💼 **1. Planificatorul perfect**  
+
+Ești genul care are un Excel pentru fiecare vacanță — cu zboruri, cazări, buget, chiar și pauze de cafea notate la minut.  
+Ai o satisfacție reală când bifezi obiectivele din listă și îți place să știi mereu ce urmează.  
+
+👉 Avantaj: vezi tot ce ți-ai propus și profiți la maximum de timp.  
+😅 Dezavantaj: uneori, planurile perfecte nu lasă loc surprizelor… iar ele sunt adesea partea cea mai frumoasă a călătoriei.  
+
+🎒 **2. Aventurierul spontan**  
+
+Tu ești cel/cea care își ia un bilet dus și vede la fața locului ce se întâmplă.  
+Nu ai nevoie de itinerarii, ci doar de curiozitate și de o pereche bună de pantofi.  
+Ți se pot întâmpla cele mai neașteptate lucruri — și exact asta cauți: povești.  
+
+👉 Avantaj: trăiești experiențe autentice, uneori magice.  
+😅 Dezavantaj: când nu găsești cazare la 2 noaptea, îți amintești că planificarea nu e chiar așa rea.  
+
+📸 **3. Exploratorul relaxat**  
+
+Îți place să descoperi locuri noi, dar fără stres.  
+Nu-ți faci programul la secundă, dar îți alegi câteva locuri „de bifat” și restul zilelor le lași să curgă.  
+Ești echilibrul perfect între plan și spontaneitate.  
+
+👉 Avantaj: te bucuri de tot — de loc, de oameni, de vibe.  
+😅 Dezavantaj: uneori ratezi atracții pentru că te-ai pierdut într-o conversație frumoasă sau într-o cafenea mică și primitoare.  
+
+🏖️ **4. Iubitorul de confort**  
+
+Pentru tine, vacanța nu e despre „a vedea cât mai mult”, ci despre a te simți bine.  
+Șezlong, cocktail, apus pe plajă — și zero griji.  
+Călătoria e, mai presus de toate, o pauză binemeritată.  
+
+👉 Avantaj: te întorci cu adevărat odihnit.  
+😅 Dezavantaj: uneori simți că locul în care ai fost ți-a scăpat printre degete.  
+
+🧭 **Concluzie**  
+
+Indiferent ce tip de călător ești, călătoria e despre ce trăiești, nu doar ce vezi.  
+Despre povești care rămân cu tine, despre emoții, despre oameni.  
+Nu contează dacă alegi o vacanță planificată sau una spontană — contează să-ți încarci sufletul.  
+
+Așa că te întreb: **tu ce tip de călător ești?** 💬
+  `
+},
 
 
 ];

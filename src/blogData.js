@@ -229,7 +229,87 @@ România urbană trăiește un moment de renaștere.
 Fiecare oraș îți oferă o versiune nouă a ta însuți.
 Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷🇴
   `
-}
+},
+
+  {
+  id: 4,
+  title: "Top 10 resorturi din Creta de explorat în 2025",
+  date: "24 Octombrie 2025",
+  image: "/images/creta.jpg",
+  excerpt: "Cele mai apreciate resorturi din Creta pentru 2025 — o combinație de lux, gastronomie și priveliști spectaculoase asupra Mării Egee.",
+  content: `
+Creta rămâne una dintre cele mai iubite insule grecești: plaje largi, gastronomie fantastică, sate autentice și resorturi cu un nivel de ospitalitate greu de egalat. Iată **10 resorturi remarcabile** care definesc experiența de lux pe insulă în 2025.
+
+---
+
+## 🏖️ 1. Daios Cove Luxury Resort & Villas — Vathi
+Unul dintre cele mai spectaculoase resorturi din Grecia. Vile suspendate deasupra golfului, piscină infinity și un design care redefinește luxul mediteranean.  
+🔗 [www.daioscovecrete.com](https://www.daioscovecrete.com/)
+
+---
+
+## 🌅 2. Ikos Kissamos — Kissamos
+All-inclusive de ultimă generație, cu restaurante semnate de chefi renumiți și vinuri premium incluse. Perfect pentru cupluri și familii.  
+🔗 [ikosresorts.com/resorts/ikos-kissamos](https://ikosresorts.com/resorts/ikos-kissamos/)
+
+---
+
+## 🏛️ 3. Minoa Palace Resort & Spa — Chania
+Eleganță clasică și atmosferă autentic cretană. Resort spațios, cu acces direct la plajă și restaurante mediteraneene rafinate.  
+🔗 [www.minoapalace.gr](https://www.minoapalace.gr/)
+
+---
+
+## 🌴 4. Stella Island Luxury Resort & Spa — Hersonissos
+Un colț de Maldive în inima Greciei. Adults-only, bungalouri peste apă, lagune albastre și servicii personalizate.  
+🔗 [stellaisland.gr](https://stellaisland.gr/)
+
+---
+
+## 👨‍👩‍👧 5. Grecotel Creta Palace — Rethymno
+Un resort clasic care rămâne mereu actual. Ideal pentru familii, cu activități pentru copii și o plajă lungă, curată.  
+🔗 [www.cretapalace.com](https://www.cretapalace.com/)
+
+---
+
+## 💎 6. JW Marriott Crete Resort & Spa — Chania
+Noul star internațional al insulei. Brand de top, arhitectură modernă și un spa de clasă mondială.  
+🔗 [JW Marriott Crete](https://www.marriott.com/en-us/hotels/chqmj-jw-marriott-crete-resort-and-spa/overview/)
+
+---
+
+## 🏊‍♀️ 7. Creta Maris Resort — Hersonissos
+Complex uriaș cu peste 15 piscine, parc acvatic și opțiuni all-inclusive flexibile. Excelent pentru familii și grupuri.  
+🔗 [www.cretamaris.gr](https://www.cretamaris.gr/)
+
+---
+
+## 🌾 8. Lyttos Beach Resort — Hersonissos
+Cunoscut pentru calitatea serviciilor și atmosfera prietenoasă. Terenuri de sport, piscine, restaurante tematice.  
+🔗 [www.lyttosbeach.gr](https://www.lyttosbeach.gr/)
+
+---
+
+## ✨ 9. Nana Princess Suites Villas & Spa — Hersonissos
+Un resort boutique, cu vile private și atenție la fiecare detaliu. Piscine cu apă sărată și servicii de concierge exclusiviste.  
+🔗 [www.nanaprincess.com](https://www.nanaprincess.com/)
+
+---
+
+## 🌺 10. Castello Boutique Resort & Spa — Sissi
+O alegere elegantă și liniștită, cu design contemporan și un spa premiat. Potrivit pentru o evadare romantică.  
+🔗 [www.castelloresort.gr](https://www.castelloresort.gr/)
+
+---
+
+### 🌍 Concluzie
+Fiecare resort din această listă spune o poveste despre rafinament, natură și ospitalitate grecească.  
+Indiferent ce alegi, Creta te va cuceri prin contraste: mare și munte, lux și autenticitate, modernitate și tradiție.
+
+> *Urban.Zebra te inspiră să descoperi insula soarelui cu ochii unui călător modern. În 2025, Creta este mai mult decât o destinație — e o experiență de trăit.*
+  `
+},
+
 ];
 
 export default blogPosts;

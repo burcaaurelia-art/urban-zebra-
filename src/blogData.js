@@ -241,19 +241,19 @@ Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷�
 🏝️ Creta rămâne una dintre cele mai iubite destinații mediteraneene, iar în 2025, insula grecească își consolidează reputația de paradis al rafinamentului și ospitalității.  
 Am selectat cele mai apreciate 10 resorturi de lux care combină arhitectura spectaculoasă, gastronomia de top și priveliștile ireal de frumoase ale mării Egee.  
 
----
+
 
 🌅 **1️⃣ Daios Cove Luxury Resort & Villas – Agios Nikolaos**  
 Un sanctuar modern sculptat în stâncă, cu priveliști uimitoare asupra golfului privat.  
 🔗 <a href="https://www.daioscovecrete.com/" target="_blank" rel="noopener noreferrer">www.daioscovecrete.com</a>
 
----
+
 
 🌴 **2️⃣ Blue Palace Elounda, a Luxury Collection Resort**  
 Simbol al luxului discret și al rafinamentului elen, cu vile private și lift panoramic către plajă.  
 🔗 <a href="https://www.bluepalacecrete.com/" target="_blank" rel="noopener noreferrer">www.bluepalacecrete.com</a>
 
----
+
 
 🌊 **3️⃣ Domes of Elounda, Autograph Collection**  
 Design contemporan, piscine infinite și gastronomie premiată — una dintre destinațiile-legendă ale Greciei.  
@@ -265,43 +265,43 @@ Design contemporan, piscine infinite și gastronomie premiată — una dintre de
 Resort adults-only cu bungalouri deasupra apei și o atmosferă balineză rafinată.  
 🔗 <a href="https://www.stellaisland.gr/" target="_blank" rel="noopener noreferrer">www.stellaisland.gr</a>
 
----
+
 
 🍸 **5️⃣ Nana Princess Suites, Villas & Spa – Hersonissos**  
 Lux modern, plajă privată și servicii de concierge personalizat pentru o experiență exclusivă.  
 🔗 <a href="https://www.nanaprincess.com/" target="_blank" rel="noopener noreferrer">www.nanaprincess.com</a>
 
----
+
 
 🌅 **6️⃣ Abaton Island Resort & Spa – Hersonissos**  
 Un mix sofisticat între design contemporan și liniștea mării — perfect pentru escapade romantice.  
 🔗 <a href="https://www.abaton.com.gr/" target="_blank" rel="noopener noreferrer">www.abaton.com.gr</a>
 
----
+
 
 🌿 **7️⃣ Cayo Exclusive Resort & Spa – Elounda**  
 Eco-lux și panorame amețitoare — un resort sustenabil, inspirat de arhitectura cicladică.  
 🔗 <a href="https://www.cayoexclusive.com/" target="_blank" rel="noopener noreferrer">www.cayoexclusive.com</a>
 
----
+
 
 💎 **8️⃣ Amirandes Grecotel Boutique Resort – Gouves**  
 Un palat pe malul mării, inspirat de arhitectura minoică, cu restaurante de top și servicii impecabile.  
 🔗 <a href="https://www.grecotel.com/hotels/amirandes" target="_blank" rel="noopener noreferrer">www.grecotel.com/hotels/amirandes</a>
 
----
+
 
 🌞 **9️⃣ Minos Beach Art Hotel – Agios Nikolaos**  
 O oază artistică cu vile albe pe malul apei, ideală pentru iubitorii de design și artă contemporană.  
 🔗 <a href="https://www.minosbeach.com/" target="_blank" rel="noopener noreferrer">www.minosbeach.com</a>
 
----
+
 
 ✨ **🔟 Domes Noruz Chania, Autograph Collection**  
 Un resort vibrant, destinat adulților, care îmbină atmosfera boemă a Chaniei cu luxul modern.  
 🔗 <a href="https://www.domesnoruz.com/" target="_blank" rel="noopener noreferrer">www.domesnoruz.com</a>
 
----
+
 
 🌍 **Concluzie**  
 Fiecare dintre aceste resorturi redefinește luxul mediteranean prin servicii personalizate, atenție la detalii și o estetică aparte.  

@@ -231,84 +231,84 @@ Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷�
   `
 },
 
-  {
+{
   id: 4,
-  title: "Top 10 resorturi din Creta de explorat în 2025",
-  date: "24 Octombrie 2025",
-  image: "/images/creta.jpg",
-  excerpt: "Cele mai apreciate resorturi din Creta pentru 2025 — o combinație de lux, gastronomie și priveliști spectaculoase asupra Mării Egee.",
+  title: "Top 10 resorturi de lux din Creta în 2025",
+  date: "25 Octombrie 2025",
+  image: "/creta.jpg",
+  excerpt: "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
   content: `
-Creta rămâne una dintre cele mai iubite insule grecești: plaje largi, gastronomie fantastică, sate autentice și resorturi cu un nivel de ospitalitate greu de egalat. Iată **10 resorturi remarcabile** care definesc experiența de lux pe insulă în 2025.
+🏝️ Creta rămâne una dintre cele mai iubite destinații mediteraneene, iar în 2025, insula grecească își consolidează reputația de paradis al rafinamentului și ospitalității.  
+Am selectat cele mai apreciate 10 resorturi de lux care combină arhitectura spectaculoasă, gastronomia de top și priveliștile ireal de frumoase ale mării Egee.  
 
 ---
 
-## 🏖️ 1. Daios Cove Luxury Resort & Villas — Vathi
-Unul dintre cele mai spectaculoase resorturi din Grecia. Vile suspendate deasupra golfului, piscină infinity și un design care redefinește luxul mediteranean.  
-🔗 [www.daioscovecrete.com](https://www.daioscovecrete.com/)
+🌅 **1️⃣ Daios Cove Luxury Resort & Villas – Agios Nikolaos**  
+Un sanctuar modern sculptat în stâncă, cu priveliști uimitoare asupra golfului privat.  
+🔗 <a href="https://www.daioscovecrete.com/" target="_blank" rel="noopener noreferrer">www.daioscovecrete.com</a>
 
 ---
 
-## 🌅 2. Ikos Kissamos — Kissamos
-All-inclusive de ultimă generație, cu restaurante semnate de chefi renumiți și vinuri premium incluse. Perfect pentru cupluri și familii.  
-🔗 [ikosresorts.com/resorts/ikos-kissamos](https://ikosresorts.com/resorts/ikos-kissamos/)
+🌴 **2️⃣ Blue Palace Elounda, a Luxury Collection Resort**  
+Simbol al luxului discret și al rafinamentului elen, cu vile private și lift panoramic către plajă.  
+🔗 <a href="https://www.bluepalacecrete.com/" target="_blank" rel="noopener noreferrer">www.bluepalacecrete.com</a>
 
 ---
 
-## 🏛️ 3. Minoa Palace Resort & Spa — Chania
-Eleganță clasică și atmosferă autentic cretană. Resort spațios, cu acces direct la plajă și restaurante mediteraneene rafinate.  
-🔗 [www.minoapalace.gr](https://www.minoapalace.gr/)
+🌊 **3️⃣ Domes of Elounda, Autograph Collection**  
+Design contemporan, piscine infinite și gastronomie premiată — una dintre destinațiile-legendă ale Greciei.  
+🔗 <a href="https://www.domeselounda.com/" target="_blank" rel="noopener noreferrer">www.domeselounda.com</a>
 
 ---
 
-## 🌴 4. Stella Island Luxury Resort & Spa — Hersonissos
-Un colț de Maldive în inima Greciei. Adults-only, bungalouri peste apă, lagune albastre și servicii personalizate.  
-🔗 [stellaisland.gr](https://stellaisland.gr/)
+🏖️ **4️⃣ Stella Island Luxury Resort & Spa – Hersonissos**  
+Resort adults-only cu bungalouri deasupra apei și o atmosferă balineză rafinată.  
+🔗 <a href="https://www.stellaisland.gr/" target="_blank" rel="noopener noreferrer">www.stellaisland.gr</a>
 
 ---
 
-## 👨‍👩‍👧 5. Grecotel Creta Palace — Rethymno
-Un resort clasic care rămâne mereu actual. Ideal pentru familii, cu activități pentru copii și o plajă lungă, curată.  
-🔗 [www.cretapalace.com](https://www.cretapalace.com/)
+🍸 **5️⃣ Nana Princess Suites, Villas & Spa – Hersonissos**  
+Lux modern, plajă privată și servicii de concierge personalizat pentru o experiență exclusivă.  
+🔗 <a href="https://www.nanaprincess.com/" target="_blank" rel="noopener noreferrer">www.nanaprincess.com</a>
 
 ---
 
-## 💎 6. JW Marriott Crete Resort & Spa — Chania
-Noul star internațional al insulei. Brand de top, arhitectură modernă și un spa de clasă mondială.  
-🔗 [JW Marriott Crete](https://www.marriott.com/en-us/hotels/chqmj-jw-marriott-crete-resort-and-spa/overview/)
+🌅 **6️⃣ Abaton Island Resort & Spa – Hersonissos**  
+Un mix sofisticat între design contemporan și liniștea mării — perfect pentru escapade romantice.  
+🔗 <a href="https://www.abaton.com.gr/" target="_blank" rel="noopener noreferrer">www.abaton.com.gr</a>
 
 ---
 
-## 🏊‍♀️ 7. Creta Maris Resort — Hersonissos
-Complex uriaș cu peste 15 piscine, parc acvatic și opțiuni all-inclusive flexibile. Excelent pentru familii și grupuri.  
-🔗 [www.cretamaris.gr](https://www.cretamaris.gr/)
+🌿 **7️⃣ Cayo Exclusive Resort & Spa – Elounda**  
+Eco-lux și panorame amețitoare — un resort sustenabil, inspirat de arhitectura cicladică.  
+🔗 <a href="https://www.cayoexclusive.com/" target="_blank" rel="noopener noreferrer">www.cayoexclusive.com</a>
 
 ---
 
-## 🌾 8. Lyttos Beach Resort — Hersonissos
-Cunoscut pentru calitatea serviciilor și atmosfera prietenoasă. Terenuri de sport, piscine, restaurante tematice.  
-🔗 [www.lyttosbeach.gr](https://www.lyttosbeach.gr/)
+💎 **8️⃣ Amirandes Grecotel Boutique Resort – Gouves**  
+Un palat pe malul mării, inspirat de arhitectura minoică, cu restaurante de top și servicii impecabile.  
+🔗 <a href="https://www.grecotel.com/hotels/amirandes" target="_blank" rel="noopener noreferrer">www.grecotel.com/hotels/amirandes</a>
 
 ---
 
-## ✨ 9. Nana Princess Suites Villas & Spa — Hersonissos
-Un resort boutique, cu vile private și atenție la fiecare detaliu. Piscine cu apă sărată și servicii de concierge exclusiviste.  
-🔗 [www.nanaprincess.com](https://www.nanaprincess.com/)
+🌞 **9️⃣ Minos Beach Art Hotel – Agios Nikolaos**  
+O oază artistică cu vile albe pe malul apei, ideală pentru iubitorii de design și artă contemporană.  
+🔗 <a href="https://www.minosbeach.com/" target="_blank" rel="noopener noreferrer">www.minosbeach.com</a>
 
 ---
 
-## 🌺 10. Castello Boutique Resort & Spa — Sissi
-O alegere elegantă și liniștită, cu design contemporan și un spa premiat. Potrivit pentru o evadare romantică.  
-🔗 [www.castelloresort.gr](https://www.castelloresort.gr/)
+✨ **🔟 Domes Noruz Chania, Autograph Collection**  
+Un resort vibrant, destinat adulților, care îmbină atmosfera boemă a Chaniei cu luxul modern.  
+🔗 <a href="https://www.domesnoruz.com/" target="_blank" rel="noopener noreferrer">www.domesnoruz.com</a>
 
 ---
 
-### 🌍 Concluzie
-Fiecare resort din această listă spune o poveste despre rafinament, natură și ospitalitate grecească.  
-Indiferent ce alegi, Creta te va cuceri prin contraste: mare și munte, lux și autenticitate, modernitate și tradiție.
-
-> *Urban.Zebra te inspiră să descoperi insula soarelui cu ochii unui călător modern. În 2025, Creta este mai mult decât o destinație — e o experiență de trăit.*
-  `
+🌍 **Concluzie**  
+Fiecare dintre aceste resorturi redefinește luxul mediteranean prin servicii personalizate, atenție la detalii și o estetică aparte.  
+Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania, Creta rămâne în 2025 sinonimă cu evadarea perfectă.  
+`
 },
+
 
 ];
 

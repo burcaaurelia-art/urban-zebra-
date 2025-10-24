@@ -316,24 +316,24 @@ Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania
   excerpt: "Planificatorul, aventurierul, exploratorul relaxat sau iubitorul de confort — care e stilul tău de călătorie? Află cu un zâmbet. 😎",
   content: `
 🌍 **Ce tip de călător ești?**  
-*Ghid semi-serios pentru toți cei care au făcut cel puțin o poză cu valiza*  
+*Ghid semi-serios pentru toți cei care au făcut cel puțin o valiză*  
 
 Să fim sinceri: călătoriile sunt un sport național.  
 Unii pleacă să descopere lumea, alții doar să fugă de notificări.  
 Unii își fac bagajul cu o săptămână înainte, alții aruncă trei haine și o periuță în rucsac cu 10 minute înainte de plecare („ce poate merge prost?”).  
 
 Și totuși, indiferent cât de diferiți suntem, toți avem un stil de călătorie.  
-Unul care ne definește — și, uneori, ne bagă și-n belele amuzante. 😅  
+Unul care ne definește — și, uneori, ne bagă și-n belele amuzante.   
 
 Hai să vedem unde te încadrezi 👇  
 
 ---
 
-💼 **Planificatorul perfect – campionul listelor**  
+ **Planificatorul perfect – campionul listelor**  
 
 Pentru tine, vacanța începe cu un Excel și se termină cu un review detaliat pe Google Maps.  
 Ai itinerariul făcut pe ore, știi ce metrou iei, la ce oră apune soarele și ce mănânci în ziua a treia, la prânz.  
-Ești sufletul oricărei excursii — și coșmarul oricărui prieten care întârzie la tren. 😂  
+Ești sufletul oricărei excursii — și coșmarul oricărui prieten care întârzie la tren.   
 
 🟢 *Avantaj:* vezi TOT. Faci poze la răsărit, muzee, piețe și apusuri.  
 🔴 *Dezavantaj:* uneori te relaxezi doar când te întorci acasă.  
@@ -342,7 +342,7 @@ Ești sufletul oricărei excursii — și coșmarul oricărui prieten care înt�
 
 ---
 
-🎒 **Aventurierul spontan – „merge și-așa” personificat**  
+ **Aventurierul spontan – „merge și-așa” personificat**  
 
 Tu nu ai nevoie de planuri. Tu ai nevoie de Wi-Fi ca să vezi unde ești.  
 Cumperi bilete la promoție și te decizi ce vizitezi după ce ajungi.  
@@ -355,7 +355,7 @@ Ești genul care ajunge la Roma și zice: „wow, e aproape și Vaticanul, hai �
 
 ---
 
-📸 **Exploratorul relaxat – zen, dar cu filtru bun**  
+ **Exploratorul relaxat – zen, dar cu filtru bun**  
 
 Tu ești echilibrul întruchipat.  
 Îți place să descoperi locuri noi, dar fără stres. Ai o listă scurtă de „must-see”, restul e după vibe.  
@@ -368,25 +368,25 @@ Nu alergi după poze, dar când le faci… ies perfecte.
 
 ---
 
-🏖️ **Iubitorul de confort – specialist în all inclusive**  
+ **Iubitorul de confort – specialist în all inclusive**  
 
 Tu pleci în vacanță ca să NU faci nimic.  
 Pentru tine, „descoperă cultura locală” înseamnă să încerci trei tipuri de cocktailuri diferite la barul hotelului.  
 Ai un ritual: somn, piscină, masă, somn, apus, repeat.  
 
 🟢 *Avantaj:* te întorci din vacanță arătând odihnit, nu epuizat.  
-🔴 *Dezavantaj:* dacă cineva te întreabă ce ai vizitat… schimbi subiectul. 😂  
+🔴 *Dezavantaj:* dacă cineva te întreabă ce ai vizitat… schimbi subiectul.  
 
 📍 *Fun fact:* ai dus prosopul la piscină la 7 dimineața „ca să prinzi loc”.  
 
 ---
 
-🧭 **Concluzie – nu contează cum călătorești, ci cât de tare te distrezi**  
+ **Concluzie – nu contează cum călătorești, ci cât de tare te distrezi**  
 
 Poți fi planificator, aventurier, relaxat sau confortabil — important e să te bucuri de drum (chiar dacă Google Maps zice că trebuia să faci dreapta acum 2 km).  
 
 Călătoria nu e doar despre destinație.  
-E despre cine devii pe drum — mai ales după ce ți se pierde valiza sau pierzi trenul spre „experiența vieții tale”. 😅  
+E despre cine devii pe drum — mai ales după ce ți se pierde valiza sau pierzi trenul spre „experiența vieții tale”.   
 
 Așa că te întreb: **tu ce tip de călător ești?** 💬
   `

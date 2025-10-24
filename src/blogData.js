@@ -235,7 +235,7 @@ Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷�
   id: 4,
   title: "Top 10 resorturi de lux din Creta în 2025",
   date: "25 Octombrie 2025",
-  image: "/creta.jpg",
+  image: "/images/creta.jpg",
   excerpt: "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
   content: `
 🏝️ Creta rămâne una dintre cele mai iubite destinații mediteraneene, iar în 2025, insula grecească își consolidează reputația de paradis al rafinamentului și ospitalității.  

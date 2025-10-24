@@ -312,7 +312,7 @@ Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania
   id: 5,
   title: "🌍 Ce tip de călător ești?",
   date: "28 Octombrie 2025",
-  image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80",
+  image: "/images/friends.jpg",
   excerpt: "Planificatorul, aventurierul, exploratorul relaxat sau iubitorul de confort — care e stilul tău de călătorie? Află cu un zâmbet. 😎",
   content: `
 🌍 **Ce tip de călător ești?**  

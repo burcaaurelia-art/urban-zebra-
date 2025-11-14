@@ -1,31 +1,42 @@
 import { Resend } from "resend";
 
-/**
- * Vercel serverless function for /api/cere-oferta
- * Works cu Vite + React.
- */
 export default async function handler(req, res) {
-  // Acceptăm doar POST din formular
+  // Acceptăm doar POST
   if (req.method !== "POST") {
     return res.status(405).json({ message: "Method not allowed" });
   }
 
-  // Vercel pune deja datele în req.body
+  // Citiți manual body-ul (doar așa funcționează în Vercel fără framework)
+  let body = "";
+  await new Promise((resolve) => {
+    req.on("data", (chunk) => {
+      body += chunk;
+    });
+    req.on("end", resolve);
+  });
+
+  let data;
+  try {
+    data = JSON.parse(body);
+  } catch (e) {
+    return res.status(400).json({ message: "Invalid JSON body" });
+  }
+
   const {
-    name = "-",
-    email = "-",
-    phone = "-",
-    destination = "-",
-    date = "-",
-    budget = "-",
-    message = "-",
-  } = req.body || {};
+    name,
+    email,
+    phone,
+    destination,
+    date,
+    budget,
+    message,
+  } = data;
 
   try {
     const resend = new Resend(process.env.RESEND_API_KEY);
 
     await resend.emails.send({
-      from: process.env.FROM_EMAIL || "onboarding@resend.dev",
+      from: process.env.FROM_EMAIL,
       to: process.env.CONTACT_TARGET_EMAIL,
       subject: `Cerere ofertă de la ${name}`,
       html: `
@@ -36,15 +47,13 @@ export default async function handler(req, res) {
         <p><strong>Destinație:</strong> ${destination}</p>
         <p><strong>Perioadă:</strong> ${date}</p>
         <p><strong>Buget:</strong> ${budget}</p>
-        <p><strong>Mesaj:</strong><br>${message.replace(/\n/g, "<br/>")}</p>
+        <p><strong>Mesaj:</strong> ${message}</p>
       `,
     });
 
     return res.status(200).json({ success: true });
-  } catch (error) {
-    console.error("EROARE RESEND:", error);
-    return res
-      .status(500)
-      .json({ success: false, error: error?.message || "Server error" });
+  } catch (err) {
+    console.error("EROARE RESEND: ", err);
+    return res.status(500).json({ success: false, error: err.message });
   }
 }

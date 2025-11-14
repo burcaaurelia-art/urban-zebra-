@@ -1,10 +1,11 @@
-import { Resend } from "resend";
+const { Resend } = require("resend");
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
-export default function handler(req, res) {
+module.exports = (req, res) => {
   if (req.method !== "POST") {
-    return res.status(405).json({ message: "Method not allowed" });
+    res.statusCode = 405;
+    return res.json({ message: "Method not allowed" });
   }
 
   let body = "";
@@ -14,18 +15,18 @@ export default function handler(req, res) {
   });
 
   req.on("end", async () => {
-    const data = JSON.parse(body || "{}");
-    const {
-      name = "-",
-      email = "-",
-      phone = "-",
-      destination = "-",
-      date = "-",
-      budget = "-",
-      message = "-",
-    } = data;
-
     try {
+      const data = JSON.parse(body || "{}");
+      const {
+        name = "-",
+        email = "-",
+        phone = "-",
+        destination = "-",
+        date = "-",
+        budget = "-",
+        message = "-",
+      } = data;
+
       await resend.emails.send({
         from: process.env.FROM_EMAIL || "onboarding@resend.dev",
         to: process.env.CONTACT_TARGET_EMAIL,
@@ -42,10 +43,12 @@ export default function handler(req, res) {
         `,
       });
 
-      res.status(200).json({ success: true });
+      res.statusCode = 200;
+      return res.json({ success: true });
     } catch (error) {
       console.error("EROARE RESEND:", error);
-      res.status(500).json({ success: false });
+      res.statusCode = 500;
+      return res.json({ success: false });
     }
   });
-}
+};

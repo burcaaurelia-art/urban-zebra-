@@ -1,13 +1,17 @@
-// api/cere-oferta.js
+// api/cere-oferta.js - variantă simplă, doar de test
 
-export default function handler(req, res) {
+module.exports = (req, res) => {
+  // Acceptăm doar POST de la formular
   if (req.method !== "POST") {
-    return res.status(405).json({ message: "Method not allowed" });
+    res.statusCode = 405;
+    res.setHeader("Content-Type", "application/json");
+    res.end(JSON.stringify({ message: "Method not allowed" }));
+    return;
   }
 
-  // Vercel îți pune deja body-ul JSON în req.body
-  console.log("FORM BODY:", req.body);
-
-  // Deocamdată nu trimitem email, doar confirmăm succesul
-  return res.status(200).json({ success: true });
-}
+  // NU mai parsem nimic, nu facem nimic complicat
+  // doar confirmăm că am primit cererea cu succes
+  res.statusCode = 200;
+  res.setHeader("Content-Type", "application/json");
+  res.end(JSON.stringify({ success: true }));
+};

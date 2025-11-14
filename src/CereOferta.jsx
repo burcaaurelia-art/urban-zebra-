@@ -25,11 +25,16 @@ export default function CereOferta() {
     e.preventDefault();
     setStatus("loading");
 
-    const res = await fetch("/api/cere-oferta", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(formData),
-    });
+const res = await fetch("/api/cere-oferta", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify(formData),
+});
+
+console.log("STATUS", res.status);
+const text = await res.text();
+console.log("RESP", text);
+
 
     if (res.ok) {
       setStatus("success");

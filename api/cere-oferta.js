@@ -1,17 +1,15 @@
-// api/cere-oferta.js - handler super simplu
-
-module.exports = (req, res) => {
-  // Acceptăm doar POST de la formular
+module.exports = async (req, res) => {
   if (req.method !== "POST") {
-    res.statusCode = 405;
-    res.setHeader("Content-Type", "application/json");
-    res.end(JSON.stringify({ message: "Method not allowed" }));
-    return;
+    return res.status(405).json({ message: "Method not allowed" });
   }
 
-  // NU citim body, NU trimitem email acum.
-  // Doar răspundem cu succes ca să testăm legătura.
-  res.statusCode = 200;
-  res.setHeader("Content-Type", "application/json");
-  res.end(JSON.stringify({ success: true }));
+  try {
+    const data = req.body;
+    console.log("DATA", data);
+
+    res.status(200).json({ message: "OK" });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ message: "Server error" });
+  }
 };

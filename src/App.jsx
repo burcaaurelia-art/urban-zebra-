@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar.jsx";
 import Footer from "./components/Footer.jsx";
 import BlogList from "./components/BlogList.jsx";
 import BlogPost from "./components/BlogPost.jsx";
-import CereOferta from "./components/CereOferta.jsx";
+import CereOferta from "./CereOferta.jsx";
 
 export default function App() {
   return (

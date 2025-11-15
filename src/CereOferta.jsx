@@ -15,6 +15,7 @@ export default function CereOferta() {
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
+
     setFormData((prev) => ({
       ...prev,
       [name]: type === "checkbox" ? checked : value,
@@ -25,13 +26,14 @@ export default function CereOferta() {
     e.preventDefault();
     setStatus("loading");
 
-const payload = {
-  access_key: "e6df6339-47d1-4294-bebc-a24b8f3994f2",
-  subject: `Cerere ofertă de la ${formData.name}`,
-  from_name: "Urban.Zebra | Formular ofertă",
-  redirect: "false",
-  ...formData,
-};
+    // payload pentru Web3Forms
+    const payload = {
+      access_key: "e6df6339-47d1-4294-bebc-a24b8f3994f2",
+      subject: `Cerere ofertă de la ${formData.name}`,
+      from_name: "Urban.Zebra | Formular ofertă",
+      redirect: "false", // OPREȘTE redirect-ul, rămâi pe pagină
+      ...formData,
+    };
 
     try {
       const res = await fetch("https://api.web3forms.com/submit", {
@@ -47,6 +49,7 @@ const payload = {
 
       if (data.success) {
         setStatus("success");
+        // reset formular
         setFormData({
           name: "",
           email: "",
@@ -67,89 +70,106 @@ const payload = {
     }
   };
 
+  const inputStyle =
+    "w-full px-2 py-1 bg-[#f4f6ff] text-black border border-black text-sm";
+
   return (
-    <div style={{ padding: "40px", maxWidth: "600px", margin: "0 auto" }}>
-      <h1>Cere ofertă personalizată ✈️</h1>
+    <div className="max-w-xl mx-auto px-4 py-10">
+      <h1 className="text-lg font-semibold mb-4">
+        Cere ofertă personalizată ✈️
+      </h1>
 
       <form
         onSubmit={handleSubmit}
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          gap: "12px",
-          marginTop: "20px",
-        }}
+        className="flex flex-col gap-3 text-sm"
+        noValidate
       >
         <input
+          className={inputStyle}
           name="name"
           placeholder="Nume*"
           required
           value={formData.name}
           onChange={handleChange}
         />
+
         <input
+          className={inputStyle}
           name="email"
-          placeholder="Email*"
           type="email"
+          placeholder="Email*"
           required
           value={formData.email}
           onChange={handleChange}
         />
+
         <input
+          className={inputStyle}
           name="phone"
           placeholder="Telefon*"
           required
           value={formData.phone}
           onChange={handleChange}
         />
+
         <input
+          className={inputStyle}
           name="destination"
           placeholder="Destinație"
           value={formData.destination}
           onChange={handleChange}
         />
+
         <input
+          className={inputStyle}
           name="date"
           placeholder="Perioada"
           value={formData.date}
           onChange={handleChange}
         />
+
         <input
+          className={inputStyle}
           name="budget"
           placeholder="Buget"
           value={formData.budget}
           onChange={handleChange}
         />
+
         <textarea
+          className={`${inputStyle} min-h-[120px]`}
           name="message"
           placeholder="Detalii"
-          rows={4}
           value={formData.message}
           onChange={handleChange}
         />
 
-        <label style={{ fontSize: "14px" }}>
+        <label className="flex items-center gap-2 text-xs mt-2">
           <input
             type="checkbox"
             name="gdpr"
             checked={formData.gdpr}
             onChange={handleChange}
             required
-          />{" "}
-          Accept GDPR
+          />
+          <span>Accept GDPR</span>
         </label>
 
-        <button type="submit" disabled={status === "loading"}>
+        <button
+          type="submit"
+          disabled={status === "loading"}
+          className="mt-3 border border-white px-4 py-1 text-sm hover:bg-white hover:text-black transition disabled:opacity-60"
+        >
           {status === "loading" ? "Se trimite..." : "Trimite"}
         </button>
 
         {status === "success" && (
-          <p style={{ color: "limegreen" }}>
+          <p className="text-green-400 text-xs mt-2">
             Mulțumim! Cererea ta a fost trimisă. Verifică emailul.
           </p>
         )}
         {status === "error" && (
-          <p style={{ color: "red" }}>
+          <p className="text-red-400 text-xs mt-2">
             Eroare la trimitere. Încearcă din nou sau scrie-ne direct pe email.
           </p>
         )}

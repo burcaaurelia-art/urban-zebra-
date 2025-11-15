@@ -1,21 +1,21 @@
 import { useState } from "react";
 
 export default function CereOferta() {
-  const [status, setStatus] = useState("idle");
   const [formData, setFormData] = useState({
     name: "",
     email: "",
     phone: "",
-    destination: "",
-    date: "",
-    budget: "",
+    destinatie: "",
+    data: "",
+    buget: "",
     message: "",
     gdpr: false,
   });
 
+  const [status, setStatus] = useState("");
+
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
-
     setFormData((prev) => ({
       ...prev,
       [name]: type === "checkbox" ? checked : value,
@@ -26,13 +26,13 @@ export default function CereOferta() {
     e.preventDefault();
     setStatus("loading");
 
-    // payload pentru Web3Forms
     const payload = {
-      access_key: "e6df6339-47d1-4294-bebc-a24b8f3994f2",
+      access_key: "e7d6f339-47d1-4294-bebc-a24b8f3994f2",
       subject: `Cerere ofertă de la ${formData.name}`,
       from_name: "Urban.Zebra | Formular ofertă",
-      redirect: "false", // OPREȘTE redirect-ul, rămâi pe pagină
       ...formData,
+      gdpr: formData.gdpr ? "DA" : "NU", 
+      redirect: "0"   // ⚠️ prevenim redirectul care cauza 404
     };
 
     try {
@@ -49,102 +49,88 @@ export default function CereOferta() {
 
       if (data.success) {
         setStatus("success");
-        // reset formular
         setFormData({
           name: "",
           email: "",
           phone: "",
-          destination: "",
-          date: "",
-          budget: "",
+          destinatie: "",
+          data: "",
+          buget: "",
           message: "",
           gdpr: false,
         });
       } else {
-        console.error("Web3Forms error:", data);
         setStatus("error");
       }
     } catch (err) {
-      console.error("Network error:", err);
+      console.error(err);
       setStatus("error");
     }
   };
 
-  const inputStyle =
-    "w-full px-2 py-1 bg-[#f4f6ff] text-black border border-black text-sm";
-
   return (
-    <div className="max-w-xl mx-auto px-4 py-10">
-      <h1 className="text-lg font-semibold mb-4">
-        Cere ofertă personalizată ✈️
-      </h1>
+    <div className="cere-oferta-container">
+      <h2>Cere ofertă personalizată ✈️</h2>
 
-      <form
-        onSubmit={handleSubmit}
-        className="flex flex-col gap-3 text-sm"
-        noValidate
-      >
+      <form onSubmit={handleSubmit} className="formular-oferta">
         <input
-          className={inputStyle}
+          type="text"
           name="name"
-          placeholder="Nume*"
-          required
+          placeholder="Nume complet"
           value={formData.name}
           onChange={handleChange}
+          required
         />
 
         <input
-          className={inputStyle}
-          name="email"
           type="email"
-          placeholder="Email*"
-          required
+          name="email"
+          placeholder="Email"
           value={formData.email}
           onChange={handleChange}
+          required
         />
 
         <input
-          className={inputStyle}
+          type="text"
           name="phone"
-          placeholder="Telefon*"
-          required
+          placeholder="Telefon"
           value={formData.phone}
           onChange={handleChange}
         />
 
         <input
-          className={inputStyle}
-          name="destination"
+          type="text"
+          name="destinatie"
           placeholder="Destinație"
-          value={formData.destination}
+          value={formData.destinatie}
           onChange={handleChange}
         />
 
         <input
-          className={inputStyle}
-          name="date"
-          placeholder="Perioada"
-          value={formData.date}
+          type="text"
+          name="data"
+          placeholder="Data plecare"
+          value={formData.data}
           onChange={handleChange}
         />
 
         <input
-          className={inputStyle}
-          name="budget"
+          type="number"
+          name="buget"
           placeholder="Buget"
-          value={formData.budget}
+          value={formData.buget}
           onChange={handleChange}
         />
 
         <textarea
-          className={`${inputStyle} min-h-[120px]`}
           name="message"
           placeholder="Detalii"
           value={formData.message}
           onChange={handleChange}
-        />
+        ></textarea>
 
-        <label className="flex items-center gap-2 text-xs mt-2">
+        <label className="checkbox-gdpr">
           <input
             type="checkbox"
             name="gdpr"
@@ -152,28 +138,23 @@ export default function CereOferta() {
             onChange={handleChange}
             required
           />
-          <span>Accept GDPR</span>
+          Accept GDPR
         </label>
 
-        <button
-          type="submit"
-          disabled={status === "loading"}
-          className="mt-3 border border-white px-4 py-1 text-sm hover:bg-white hover:text-black transition disabled:opacity-60"
-        >
-          {status === "loading" ? "Se trimite..." : "Trimite"}
-        </button>
-
-        {status === "success" && (
-          <p className="text-green-400 text-xs mt-2">
-            Mulțumim! Cererea ta a fost trimisă. Verifică emailul.
-          </p>
-        )}
-        {status === "error" && (
-          <p className="text-red-400 text-xs mt-2">
-            Eroare la trimitere. Încearcă din nou sau scrie-ne direct pe email.
-          </p>
-        )}
+        <button type="submit">Trimite</button>
       </form>
+
+      {status === "success" && (
+        <p style={{ color: "lightgreen" }}>
+          Mesaj trimis cu succes! Te vom contacta în curând.
+        </p>
+      )}
+
+      {status === "error" && (
+        <p style={{ color: "red" }}>
+          Eroare la trimitere. Încearcă din nou.
+        </p>
+      )}
     </div>
   );
 }

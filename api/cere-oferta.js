@@ -1,4 +1,4 @@
-// api/cere-oferta.js - variantă simplă, doar de test
+// api/cere-oferta.js - handler super simplu
 
 module.exports = (req, res) => {
   // Acceptăm doar POST de la formular
@@ -9,8 +9,8 @@ module.exports = (req, res) => {
     return;
   }
 
-  // NU mai parsem nimic, nu facem nimic complicat
-  // doar confirmăm că am primit cererea cu succes
+  // NU citim body, NU trimitem email acum.
+  // Doar răspundem cu succes ca să testăm legătura.
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
   res.end(JSON.stringify({ success: true }));

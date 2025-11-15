@@ -28,7 +28,7 @@ export default function CereOferta() {
 const res = await fetch("/api/cere-oferta", {
   method: "POST",
   headers: { "Content-Type": "application/json" },
-  body: JSON.stringify(formData),
+  body: JSON.stringify(formData)
 });
 
 console.log("STATUS", res.status);

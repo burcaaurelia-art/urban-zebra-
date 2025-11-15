@@ -25,12 +25,13 @@ export default function CereOferta() {
     e.preventDefault();
     setStatus("loading");
 
-    const payload = {
-      access_key: "e6df6339-47d1-4294-bebc-a24b8f3994f2",
-      subject: `Cerere ofertă de la ${formData.name}`,
-      from_name: "Urban.Zebra | Formular ofertă",
-      ...formData,
-    };
+const payload = {
+  access_key: "e6df6339-47d1-4294-bebc-a24b8f3994f2",
+  subject: `Cerere ofertă de la ${formData.name}`,
+  from_name: "Urban.Zebra | Formular ofertă",
+  redirect: "false",
+  ...formData,
+};
 
     try {
       const res = await fetch("https://api.web3forms.com/submit", {

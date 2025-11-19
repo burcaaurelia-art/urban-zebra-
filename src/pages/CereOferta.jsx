@@ -124,14 +124,19 @@ export default function CereOferta() {
           className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
         />
 
-        <input
-          type="text"
-          name="perioada"
-          placeholder="Perioada (ex: 01.02.2026)"
-          value={formData.perioada}
-          onChange={handleChange}
-          className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
-        />
+        {/* Perioadă cu calendar */}
+        <div>
+          <label className="block text-sm text-zinc-300 mb-1">
+            Perioada plecării
+          </label>
+          <input
+            type="date"
+            name="perioada"
+            value={formData.perioada}
+            onChange={handleChange}
+            className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+          />
+        </div>
 
         <input
           type="text"
@@ -169,11 +174,7 @@ export default function CereOferta() {
         </button>
       </form>
 
-      {status && (
-        <p className="mt-4 text-sm text-red-400">
-          {status}
-        </p>
-      )}
+      {status && <p className="mt-4 text-sm text-red-400">{status}</p>}
     </div>
   );
 }

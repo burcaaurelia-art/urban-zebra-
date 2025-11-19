@@ -1,7 +1,9 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
+
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+
 import BlogList from "./pages/BlogList";
 import BlogPost from "./pages/BlogPost";
 import CereOferta from "./pages/CereOferta";

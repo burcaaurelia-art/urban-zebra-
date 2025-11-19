@@ -6,7 +6,8 @@ export default function CereOferta() {
     email: "",
     telefon: "",
     tip: "",
-    perioada: "",
+    plecare: "",
+    intoarcere: "",
     buget: "",
     detalii: "",
     gdpr: false,
@@ -34,12 +35,20 @@ export default function CereOferta() {
     setIsSubmitting(true);
     setStatus("");
 
+    // combinăm plecare + întoarcere într-un singur text pentru email
+    let perioadaText = "";
+    if (formData.plecare && formData.intoarcere) {
+      perioadaText = `${formData.plecare} – ${formData.intoarcere}`;
+    } else if (formData.plecare || formData.intoarcere) {
+      perioadaText = formData.plecare || formData.intoarcere;
+    }
+
     const payload = {
       name: formData.name,
       email: formData.email,
       phone: formData.telefon,
       destination: formData.tip,
-      date: formData.perioada,
+      date: perioadaText,
       budget: formData.buget,
       message: formData.detalii,
     };
@@ -62,7 +71,8 @@ export default function CereOferta() {
           email: "",
           telefon: "",
           tip: "",
-          perioada: "",
+          plecare: "",
+          intoarcere: "",
           buget: "",
           detalii: "",
           gdpr: false,
@@ -124,18 +134,33 @@ export default function CereOferta() {
           className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
         />
 
-        {/* Perioadă cu calendar */}
-        <div>
-          <label className="block text-sm text-zinc-300 mb-1">
-            Perioada plecării
-          </label>
-          <input
-            type="date"
-            name="perioada"
-            value={formData.perioada}
-            onChange={handleChange}
-            className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
-          />
+        {/* Perioadă: plecare + întoarcere */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <div>
+            <label className="block text-sm text-zinc-300 mb-1">
+              Data plecare
+            </label>
+            <input
+              type="date"
+              name="plecare"
+              value={formData.plecare}
+              onChange={handleChange}
+              className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+            />
+          </div>
+
+          <div>
+            <label className="block text-sm text-zinc-300 mb-1">
+              Data întoarcere
+            </label>
+            <input
+              type="date"
+              name="intoarcere"
+              value={formData.intoarcere}
+              onChange={handleChange}
+              className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+            />
+          </div>
         </div>
 
         <input

@@ -6,6 +6,9 @@ export default function CereOferta() {
     email: "",
     telefon: "",
     vacantaTip: "",
+    adulti: "",
+    copii: "",
+    varsteCopii: "",
     tip: "",
     plecare: "",
     intoarcere: "",
@@ -44,15 +47,32 @@ export default function CereOferta() {
       perioadaText = formData.plecare || formData.intoarcere;
     }
 
+    // construim mesajul astfel încât să includă tip vacanță + persoane + detalii
+    const persoaneText = `Persoane: ${formData.adulti || "0"} adulți, ${
+      formData.copii || "0"
+    } copii${
+      formData.varsteCopii
+        ? ` (vârste copii: ${formData.varsteCopii})`
+        : ""
+    }`;
+
+    const tipVacantaText = `Tip vacanță: ${
+      formData.vacantaTip || "nespecificat"
+    }`;
+
+    const customMessage = `${tipVacantaText}\n${persoaneText}\n\nDetalii suplimentare:\n${
+      formData.detalii || "-"
+    }`;
+
     const payload = {
       name: formData.name,
       email: formData.email,
       phone: formData.telefon,
-      vacationType: formData.vacantaTip, // nou
+      vacationType: formData.vacantaTip,
       destination: formData.tip,
       date: perioadaText,
       budget: formData.buget,
-      message: formData.detalii,
+      message: customMessage,
     };
 
     try {
@@ -73,6 +93,9 @@ export default function CereOferta() {
           email: "",
           telefon: "",
           vacantaTip: "",
+          adulti: "",
+          copii: "",
+          varsteCopii: "",
           tip: "",
           plecare: "",
           intoarcere: "",
@@ -131,26 +154,62 @@ export default function CereOferta() {
           className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
         />
 
-        {/* TIP VACANȚĂ – întrebare nouă */}
+        {/* TIP VACANȚĂ */}
         <div>
           <label className="block text-sm text-zinc-300 mb-1">
             Ce tip de vacanță vă doriți?
           </label>
-<select
-  name="vacantaTip"
-  value={formData.vacantaTip}
-  onChange={handleChange}
-  className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
->
-  <option value="">Selectați...</option>
-  <option value="Relaxare">Relaxare</option>
-  <option value="Aventură">Aventură</option>
-  <option value="City break">City break</option>
-  <option value="All-inclusive">All-inclusive</option>
-  <option value="Circuit">Circuit</option>
-  <option value="Croazieră">Croazieră</option>
-  <option value="Altele">Altele</option>
-</select>
+          <select
+            name="vacantaTip"
+            value={formData.vacantaTip}
+            onChange={handleChange}
+            className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+          >
+            <option value="">Selectați...</option>
+            <option value="Relaxare">Relaxare</option>
+            <option value="Aventură">Aventură</option>
+            <option value="City break">City break</option>
+            <option value="All-inclusive">All-inclusive</option>
+            <option value="Culturală">Culturală</option>
+            <option value="Croazieră">Croazieră</option>
+            <option value="Circuit">Circuit</option>
+            <option value="Altele">Altele</option>
+          </select>
+        </div>
+
+        {/* CÂTE PERSOANE */}
+        <div>
+          <label className="block text-sm text-zinc-300 mb-1">
+            Câte persoane vor călători? (adulți, copii, vârste)
+          </label>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            <input
+              type="number"
+              name="adulti"
+              min="1"
+              placeholder="Adulți"
+              value={formData.adulti}
+              onChange={handleChange}
+              className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+            />
+            <input
+              type="number"
+              name="copii"
+              min="0"
+              placeholder="Copii"
+              value={formData.copii}
+              onChange={handleChange}
+              className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+            />
+            <input
+              type="text"
+              name="varsteCopii"
+              placeholder="Vârste copii (ex: 5, 8, 12)"
+              value={formData.varsteCopii}
+              onChange={handleChange}
+              className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+            />
+          </div>
         </div>
 
         {/* DESTINAȚIE */}

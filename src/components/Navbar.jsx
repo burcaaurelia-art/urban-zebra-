@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
@@ -17,18 +17,14 @@ export default function Navbar() {
 
         {/* Meniu + buton */}
         <div className="flex items-center gap-6">
-          {/* Linkuri meniu */}
+          {/* Linkuri meniu simple */}
           <div className="hidden sm:flex items-center gap-4 text-sm">
-            <NavLink
+            <Link
               to="/"
-              className={({ isActive }) =>
-                `hover:text-gold transition-colors ${
-                  isActive ? "text-gold" : "text-white/80"
-                }`
-              }
+              className="text-white/80 hover:text-gold transition-colors"
             >
               Blog
-            </NavLink>
+            </Link>
 
             <a
               href="https://www.instagram.com"

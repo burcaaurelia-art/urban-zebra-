@@ -136,22 +136,21 @@ export default function CereOferta() {
           <label className="block text-sm text-zinc-300 mb-1">
             Ce tip de vacanță vă doriți?
           </label>
-          <select
-            name="vacantaTip"
-            value={formData.vacantaTip}
-            onChange={handleChange}
-            className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
-          >
-            <option value="">Selectați...</option>
-            <option value="Relaxare">Relaxare</option>
-            <option value="Aventură">Aventură</option>
-            <option value="City break">City break</option>
-            <option value="All-inclusive">All-inclusive</option>
-            <option value="Culturală">Culturală</option>
-            <option value="Croazieră">Croazieră</option>
-            <option value="Croazieră">Circuit</option>
-            <option value="Altele">Altele</option>
-          </select>
+<select
+  name="vacantaTip"
+  value={formData.vacantaTip}
+  onChange={handleChange}
+  className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
+>
+  <option value="">Selectați...</option>
+  <option value="Relaxare">Relaxare</option>
+  <option value="Aventură">Aventură</option>
+  <option value="City break">City break</option>
+  <option value="All-inclusive">All-inclusive</option>
+  <option value="Culturală">Culturală</option>
+  <option value="Croazieră">Croazieră</option>
+  <option value="Altele">Altele</option>
+</select>
         </div>
 
         {/* DESTINAȚIE */}

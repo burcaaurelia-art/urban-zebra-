@@ -204,7 +204,7 @@ export default function CereOferta() {
             <input
               type="text"
               name="varsteCopii"
-              placeholder="Vârste copii (ex: 5,8)"
+              placeholder="Vârste copii (ex:5,8)"
               value={formData.varsteCopii}
               onChange={handleChange}
               className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"

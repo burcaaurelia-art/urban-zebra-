@@ -1,20 +1,63 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link, NavLink } from "react-router-dom";
 
-export default function Navbar(){
+export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 bg-black/85 backdrop-blur-md border-b border-white/10 shadow-[0_4px_20px_rgba(0,0,0,0.4)]">
-      <div className="container mx-auto flex items-center justify-between py-4 px-6">
-        <Link to="/" className="flex items-center space-x-1 group select-none">
-          <span className="text-white text-2xl sm:text-3xl font-extrabold tracking-tight group-hover:text-gold transition-colors">Urban</span>
-          <span className="text-gold text-2xl sm:text-3xl font-extrabold tracking-tight group-hover:translate-x-0.5 transition-transform">.Zebra</span>
+    <header className="fixed top-0 left-0 right-0 z-50 border-b border-white/5 bg-black/80 backdrop-blur">
+      <nav className="container flex items-center justify-between py-4">
+        {/* Logo */}
+        <Link to="/" className="flex items-center gap-1">
+          <span className="text-2xl font-extrabold tracking-tight text-white">
+            Urban
+          </span>
+          <span className="text-2xl font-extrabold tracking-tight gold">
+            .Zebra
+          </span>
         </Link>
-        <div className="hidden sm:flex space-x-6 text-sm font-medium">
-          <Link to="/" className="text-white/80 hover:text-gold transition-colors">Blog</Link>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-gold transition-colors">Instagram</a>
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-gold transition-colors">Facebook</a>
+
+        {/* Meniu + buton */}
+        <div className="flex items-center gap-6">
+          {/* Linkuri meniu */}
+          <div className="hidden sm:flex items-center gap-4 text-sm">
+            <NavLink
+              to="/"
+              className={({ isActive }) =>
+                `hover:text-gold transition-colors ${
+                  isActive ? "text-gold" : "text-white/80"
+                }`
+              }
+            >
+              Blog
+            </NavLink>
+
+            <a
+              href="https://www.instagram.com"
+              target="_blank"
+              rel="noreferrer"
+              className="text-white/80 hover:text-gold transition-colors"
+            >
+              Instagram
+            </a>
+
+            <a
+              href="https://www.facebook.com"
+              target="_blank"
+              rel="noreferrer"
+              className="text-white/80 hover:text-gold transition-colors"
+            >
+              Facebook
+            </a>
+          </div>
+
+          {/* Buton Cere ofertă */}
+          <Link
+            to="/cere-oferta"
+            className="inline-flex items-center justify-center px-4 sm:px-5 py-2 rounded-full bg-amber-400 text-black text-xs sm:text-sm font-semibold hover:bg-amber-300 transition-colors shadow-md"
+          >
+            Cere ofertă ✈️
+          </Link>
         </div>
-      </div>
-    </nav>
-  )
+      </nav>
+    </header>
+  );
 }

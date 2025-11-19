@@ -147,7 +147,7 @@ export default function CereOferta() {
   <option value="Aventură">Aventură</option>
   <option value="City break">City break</option>
   <option value="All-inclusive">All-inclusive</option>
-  <option value="Culturală">Culturală</option>
+  <option value="Circuit">Circuit</option>
   <option value="Croazieră">Croazieră</option>
   <option value="Altele">Altele</option>
 </select>

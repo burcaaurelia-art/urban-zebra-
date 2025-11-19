@@ -10,15 +10,7 @@ export default function BlogList() {
         <span className="gold">.Zebra</span>
       </h1>
 
-      {/* Buton Cere ofertă */}
-      <div className="flex justify-center mb-10">
-        <Link
-          to="/cere-oferta"
-          className="inline-flex items-center justify-center px-6 py-3 rounded-full bg-amber-400 text-black font-semibold hover:bg-amber-300 transition-colors shadow-lg"
-        >
-          Cere ofertă ✈️
-        </Link>
-      </div>
+      {/* AICI am scos butonul din mijloc */}
 
       <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
         {blogPosts.map((post) => (
@@ -50,14 +42,4 @@ export default function BlogList() {
                   {post.title}
                 </h2>
                 <p className="text-white/60 text-sm mb-2">{post.date}</p>
-                <p className="text-white/80 text-sm leading-snug line-clamp-3">
-                  {post.excerpt}
-                </p>
-              </div>
-            </div>
-          </Link>
-        ))}
-      </div>
-    </div>
-  );
-}
+                <p className="text-w

@@ -1,10 +1,127 @@
 const blogPosts = [
   {
+    id: 6,
+    title:
+      "Știai că poți călători GRATUIT prin Europa la 18 ani? Totul despre DiscoverEU 🚆🌍",
+    date: "10 Noiembrie 2025",
+    image: "/images/577766731_25568321726094437_1350812391873263920_n.jpg",
+    excerpt:
+      "La 18 ani poți călători gratuit prin Europa timp de până la o lună, cu bilete Interrail oferite de Uniunea Europeană prin programul DiscoverEU.",
+    content: `
+Știai că poți călători GRATUIT prin Europa la 18 ani? Totul despre programul DiscoverEU 🚆🌍
+
+Dacă ai 18 ani sau cunoști pe cineva care se apropie de această vârstă, există o veste fantastică: poți explora Europa GRATUIT timp de o lună! Da, ai citit corect. Uniunea Europeană oferă anual zeci de mii de bilete Interrail gratuite prin programul DiscoverEU, special dedicat tinerilor aflați la pragul maturității.
+
+Acest proiect le oferă tinerilor ocazia de a călători prin Europa, de a descoperi noi culturi, de a lega prietenii internaționale și de a se bucura de o experiență unică — toate acestea fără a plăti biletul de tren.
+
+Hai să vedem cum poți aplica! 👇
+
+
+1️⃣ Ești eligibil(ă)? Iată ce trebuie să verifici
+
+Pentru runda de toamnă 2025, pot aplica tinerii care:
+
+✔️ Au 18 ani  
+— Adică sunt născuți între 1 iulie 2006 și 30 iunie 2007.
+
+✔️ Sunt cetățeni sau rezidenți legali într-o țară din Uniunea Europeană sau într-una asociată programului Erasmus+  
+— Da, România este inclusă! 🇷🇴
+
+Dacă îndeplinești aceste două condiții, ești deja cu un pas mai aproape de aventura vieții tale.
+
+
+2️⃣ Intră pe platforma oficială DiscoverEU
+
+Totul se face online, simplu și rapid.
+
+👉 Accesează: **youth.europa.eu/discovereu**
+
+Acolo vei găsi:
+
+- butonul „Apply now” pentru înscriere  
+- regulamentul complet  
+- informații despre proces  
+- și formularul de aplicație.  
+
+
+3️⃣ Completează aplicația online
+
+Procesul este ușor și nu durează mult.
+
+📝 Ți se vor pune câteva întrebări despre Uniunea Europeană și despre motivul pentru care vrei să călătorești.
+
+💬 Poți aplica:
+
+- individual  
+- sau în echipă (maxim 5 persoane).
+
+📅 Perioadele de aplicație au loc de obicei de două ori pe an — primăvara și toamna.
+
+➡️ Pentru sesiunea de toamnă 2025, perioada de înscriere este:  
+**30 octombrie 2025 (ora 12:00 – Bruxelles) → 13 noiembrie 2025 (ora 12:00 – Bruxelles).**
+
+
+4️⃣ Află dacă ai fost selectat(ă)
+
+După încheierea înscrierilor, începe evaluarea.
+
+🎉 Dacă ești printre norocoși, vei primi un **Interrail Travel Pass**, biletul care îți permite să călătorești GRATUIT prin Europa timp de până la 30 de zile.
+
+📬 În plus, vei primi și **European Youth Card** — un card care îți oferă reduceri la:
+
+- muzee  
+- transport local  
+- cazare  
+- restaurante  
+- și alte experiențe culturale.  
+
+
+5️⃣ Planifică-ți aventura europeană!
+
+Cu biletul DiscoverEU poți:
+
+🌆 Vizita până la 7 țări europene  
+🚄 Călători în principal cu trenul  
+🛳️ În unele situații folosi și feriboturi sau autobuze  
+
+💡 Costurile de cazare și mâncare rămân pe cont propriu, dar o astfel de experiență este, cu adevărat, neprețuită.
+
+Iar dacă ai nevoie de ajutor pentru:
+
+- planificare traseu  
+- găsirea celor mai bune cazări  
+- optimizarea bugetului  
+- sau idei de itinerarii personalizate  
+
+✨ Echipa AD Travel te poate sprijini cu recomandări profesioniste!
+
+
+❤️ Bonus: devii parte dintr-o comunitate europeană!
+
+DiscoverEU nu înseamnă doar un bilet de tren. Înseamnă:
+
+- acces la o comunitate de tineri aventurieri din toată Europa  
+- evenimente speciale  
+- activități culturale  
+- schimburi internaționale  
+- și prietenii care uneori durează o viață.  
+
+👉 Aplică acum și descoperă Europa cu trenul — complet gratuit!
+
+Când ai din nou ocazia să faci ceva atât de special, la 18 ani?
+
+🔗 youth.europa.eu/discovereu
+    `
+  },
+
+  {
     id: 1,
     title: "Weekenduri urbane: top 5 orașe europene de explorat în 2025",
     date: "21 Octombrie 2025",
-    image: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1400&q=80",
-    excerpt: "Descoperă cinci orașe europene care definesc spiritul modern al explorării urbane în 2025 — de la Lisabona la Roma.",
+    image:
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1400&q=80",
+    excerpt:
+      "Descoperă cinci orașe europene care definesc spiritul modern al explorării urbane în 2025 — de la Lisabona la Roma.",
     content: `
 Într-o lume în care timpul devine tot mai prețios, weekendurile urbane sunt noul lux.
 Scurte, intense și pline de energie, ele ne oferă șansa de a ne reconecta cu ritmul orașelor, cu arta străzii, cu oamenii și cu cultura locală.
@@ -25,7 +142,7 @@ De la străduțele pietruite din Alfama până la tramvaiul galben care urcă le
 
 **Cuvântul cheie:** *slow travel.*
 
- 
+
 
 **2 Berlin — capitala libertății**
 
@@ -91,13 +208,15 @@ Pentru că în final, călătoria nu e despre locuri — e despre felul în care
     `
   },
 
-{
-  id: 2,
-  title: "Călătorii sustenabile: cum să explorezi responsabil",
-  date: "18 Octombrie 2025",
-  image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1400&q=80",
-  excerpt: "Află cum poți explora lumea responsabil, fără să renunți la confort — de la transport verde la cazare eco și gastronomie locală.",
-  content: `
+  {
+    id: 2,
+    title: "Călătorii sustenabile: cum să explorezi responsabil",
+    date: "18 Octombrie 2025",
+    image:
+      "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1400&q=80",
+    excerpt:
+      "Află cum poți explora lumea responsabil, fără să renunți la confort — de la transport verde la cazare eco și gastronomie locală.",
+    content: `
 Trăim într-o epocă în care călătoria nu mai înseamnă doar destinația — ci și impactul pe care îl lăsăm în urma noastră.
 Călătoria sustenabilă este mai mult decât o tendință. Este o alegere conștientă de a explora lumea fără să o consumăm.
 
@@ -164,15 +283,16 @@ Fiecare pas conștient, fiecare alegere mică, construiește o lume mai frumoas�
 Urban.Zebra te provoacă să explorezi cu inimă ușoară și pași responsabili.
 Pentru că adevărata aventură începe atunci când alegem să fim parte din soluție, nu din problemă. 🌍
   `
-},
+  },
 
-{
-  id: 3,
-  title: "City-break-uri în România: 5 orașe care surprind",
-  date: "05 Octombrie 2025",
-  image: "/images/Romania.jpg",
-  excerpt: "Cluj, Timișoara, Iași, Brașov și Oradea — orașe care îți arată cât de modernă, creativă și elegantă poate fi România urbană.",
-  content: `
+  {
+    id: 3,
+    title: "City-break-uri în România: 5 orașe care surprind",
+    date: "05 Octombrie 2025",
+    image: "/images/Romania.jpg",
+    excerpt:
+      "Cluj, Timișoara, Iași, Brașov și Oradea — orașe care îți arată cât de modernă, creativă și elegantă poate fi România urbană.",
+    content: `
 România nu mai înseamnă doar tradiție și sate pitorești — ci și orașe care pulsează de viață, gastronomie, arhitectură și creativitate.
 Urban.Zebra ți-a pregătit cinci destinații care te vor surprinde prin energia lor modernă și autentică.
 
@@ -229,15 +349,16 @@ România urbană trăiește un moment de renaștere.
 Fiecare oraș îți oferă o versiune nouă a ta însuți.
 Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷🇴
   `
-},
+  },
 
-{
-  id: 4,
-  title: "Top 10 resorturi de lux din Creta în 2025",
-  date: "23 Octombrie 2025",
-  image: "/images/creta.jpg",
-  excerpt: "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
-  content: `
+  {
+    id: 4,
+    title: "Top 10 resorturi de lux din Creta în 2025",
+    date: "23 Octombrie 2025",
+    image: "/images/creta.jpg",
+    excerpt:
+      "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
+    content: `
 🏝️ Creta rămâne una dintre cele mai iubite destinații mediteraneene, iar în 2025, insula grecească își consolidează reputația de paradis al rafinamentului și ospitalității.  
 Am selectat cele mai apreciate 10 resorturi de lux care combină arhitectura spectaculoasă, gastronomia de top și priveliștile ireal de frumoase ale mării Egee.  
 
@@ -307,14 +428,16 @@ Un resort vibrant, destinat adulților, care îmbină atmosfera boemă a Chaniei
 Fiecare dintre aceste resorturi redefinește luxul mediteranean prin servicii personalizate, atenție la detalii și o estetică aparte.  
 Indiferent dacă alegi liniștea din Elounda sau energia cosmopolită din Chania, Creta rămâne în 2025 sinonimă cu evadarea perfectă.  
 `
-},
-{
-  id: 5,
-  title: "🌍 Ce tip de călător ești?",
-  date: "24 Octombrie 2025",
-  image: "/images/friends.jpg",
-  excerpt: "Planificatorul, aventurierul, exploratorul relaxat sau iubitorul de confort — care e stilul tău de călătorie? Află cu un zâmbet. 😎",
-  content: `
+  },
+
+  {
+    id: 5,
+    title: "🌍 Ce tip de călător ești?",
+    date: "24 Octombrie 2025",
+    image: "/images/friends.jpg",
+    excerpt:
+      "Planificatorul, aventurierul, exploratorul relaxat sau iubitorul de confort — care e stilul tău de călătorie? Află cu un zâmbet. 😎",
+    content: `
 🌍 **Ce tip de călător ești?**  
 *Ghid semi-serios pentru toți cei care au făcut cel puțin o valiză*  
 
@@ -390,10 +513,7 @@ E despre cine devii pe drum — mai ales după ce ți se pierde valiza sau pierz
 
 Așa că te întreb: **tu ce tip de călător ești?** 💬
   `
-},
-
-
-
+  }
 ];
 
 export default blogPosts;

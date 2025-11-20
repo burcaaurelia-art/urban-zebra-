@@ -3,7 +3,7 @@ const blogPosts = [
     id: 6,
     title:
       "Știai că poți călători GRATUIT prin Europa la 18 ani? Totul despre DiscoverEU 🚆🌍",
-    date: "10 Noiembrie 2025",
+    date: "28 Octombrie 2025",
     image: "/images/577766731_25568321726094437_1350812391873263920_n.jpg",
     excerpt:
       "La 18 ani poți călători gratuit prin Europa timp de până la o lună, cu bilete Interrail oferite de Uniunea Europeană prin programul DiscoverEU.",

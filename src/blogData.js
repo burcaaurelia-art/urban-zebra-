@@ -513,6 +513,125 @@ E despre cine devii pe drum — mai ales după ce ți se pierde valiza sau pierz
 
 Așa că te întreb: **tu ce tip de călător ești?** 💬
   `
+  },
+
+  {
+    id: 7,
+    title:
+      "Un weekend urban ieșit din tipar: 5 orașe europene mai puțin cunoscute, dar absolut superbe",
+    date: "29 Octombrie 2025",
+    image:
+      "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=1400&q=80",
+    excerpt:
+      "Ljubljana, Porto, Wrocław, Strasbourg și Tallinn — orașe cu vibe autentic, perfecte pentru un city break diferit, fără aglomerația destinațiilor clasice.",
+    content: `
+Un weekend urban ieșit din tipar: 5 orașe europene mai puțin cunoscute, dar absolut superbe
+
+Când spui „city break în Europa”, gândul fuge rapid la Paris, Roma sau Barcelona. Dar continentul are mult mai mult de oferit — orașe cu personalitate, cultură, gastronomie și vibe autentic, fără aglomerația din destinațiile clasice.
+
+Pentru cei care vor să descopere Europa altfel, am pregătit o selecție de 5 orașe mai puțin „mainstream”, perfecte pentru un weekend reușit. 👇
+
+
+1. Ljubljana, Slovenia
+
+**De ce merită vizitat:**  
+Unul dintre cele mai „verzi” orașe europene, cu un centru vechi pietonal, plin de cafenele pe malul apei, arhitectură elegantă și o atmosferă relaxată. Este exact genul de capitală mică în care te simți imediat ca acasă.
+
+**Experiențe locale autentice:**
+- Plimbare cu barca pe râul Ljubljanica  
+- Castelul Ljubljana la apus  
+- Piețele locale: Central Market și piața cu produse artizanale  
+- Street-art în Metelkova — cartier alternativ
+
+**Unde mănânci ca un localnic:**
+- *Druga Violina* — bucătărie slovenă tradițională  
+- *Odprta Kuhna* (dacă ești într-o zi de vineri) — târg culinar cu bucătari locali
+
+**Cum ajungi:**  
+Zboruri cu escală din București sau Budapesta; alternativ, zbor direct până la Viena/Zagreb + 2–3 ore cu trenul sau autobuzul.
+
+
+2. Porto, Portugalia
+
+**De ce merită vizitat:**  
+Un oraș colorat, boem, cu străduțe înguste și clădiri din azulejos. Mult mai liniștit și mai autentic decât Lisabona, dar cu aceeași vibrație portugheză caldă.
+
+**Experiențe locale autentice:**
+- Degustare de vin de Porto în Vila Nova de Gaia  
+- Plimbare prin Ribeira și pe podul Dom Luís  
+- Tramvaiul vintage nr. 1 de-a lungul râului Douro  
+
+**Unde mănânci ca un localnic:**
+- *Adega São Nicolau* — mâncare tradițională portugheză  
+- *Casa Guedes* — sandviș cu carne de porc și brânză Serra da Estrela  
+
+**Cum ajungi:**  
+Zboruri directe sau cu escală din București/Cluj/Timișoara (în funcție de sezon).
+
+
+3. Wrocław, Polonia
+
+**De ce merită vizitat:**  
+Unul dintre cele mai frumoase orașe poloneze, cu o piață centrală colorată și o energie tânără. Are peste 600 de statui miniaturale de pitici împrăștiate prin tot orașul — o aventură simpatică pentru adulți și copii.
+
+**Experiențe locale autentice:**
+- Căutarea piticilor „Wrocławskie Krasnale”  
+- Insula Catedralei și Podul Tumski  
+- Piețe locale cu mâncare poloneză  
+
+**Unde mănânci ca un localnic:**
+- *Kurna Chata* — mâncare ca la bunica poloneză  
+- *NANAN* — una dintre cele mai bune cofetării din oraș  
+
+**Cum ajungi:**  
+Zboruri directe sezoniere sau tot timpul anului prin Varșovia/Krakow.
+
+
+4. Strasbourg, Franța
+
+**De ce merită vizitat:**  
+Un mix superb între Franța și Germania, cu arhitectură alsaciană de poveste, canale liniștite și un centru vechi inclus în Patrimoniul UNESCO.
+
+**Experiențe locale autentice:**
+- Cartierul La Petite France  
+- Tur cu barca pe canale  
+- Degustare de vinuri alsaciene în crame locale  
+
+**Unde mănânci ca un localnic:**
+- *La Corde à Linge* — specialități alsaciene  
+- *Au Brasseur* — bere făcută în casă + preparate tipice  
+
+**Cum ajungi:**  
+Zbor direct până la Basel sau Stuttgart + tren (1–2 ore). Uneori există zboruri sezoniere spre Strasbourg din România cu escală.
+
+
+5. Tallinn, Estonia
+
+**De ce merită vizitat:**  
+Un oraș medieval ca în basme, dar în același timp ultra-tehnologic. Construcții istorice perfect conservate, restaurante excelente și un vibe nordic foarte plăcut.
+
+**Experiențe locale autentice:**
+- Centrul vechi medieval (Vanalinn)  
+- Turnul Kiek in de Kök și zidurile fortificate  
+- Saună estoniană + experiențe nordice  
+
+**Unde mănânci ca un localnic:**
+- *III Draakon* — o tavernă medievală autentică  
+- *Rataskaevu 16* — unul dintre cele mai apreciate restaurante locale  
+
+**Cum ajungi:**  
+Zboruri cu escală prin Helsinki, Riga sau Varșovia.
+
+
+Sfaturi practice pentru un weekend reușit
+
+- Alege cazările din centru pentru a economisi timp (mai ales în orașele mici).  
+- Explorează pe jos cât mai mult — vibe-ul urban se simte cel mai bine la pas.  
+- Caută evenimente locale (piețe, festivaluri, expoziții) — uneori schimbă complet experiența.  
+- Evită zonele super turistice și încearcă restaurante de cartier pentru adevăratul gust local.  
+
+Dacă vrei să ieși din tiparul city-break-urilor clasice și să descoperi Europa în ritmul tău, aceste orașe sunt un punct de pornire perfect. ✨
+    `
   }
 ];
 

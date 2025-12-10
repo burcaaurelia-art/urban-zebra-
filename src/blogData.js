@@ -638,7 +638,7 @@ Dacă vrei să ieși din tiparul city-break-urilor clasice și să descoperi Eur
   id: 8,
   title: "Trenul panoramic din Norvegia care te duce în inima aurorei boreale",
   date: "10 Decembrie 2025",
-  image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&q=80",
+  image: "/images/2e60b855-9526-423c-959a-abbaf45dde4d.png",
   excerpt: "Există un tren în Norvegia special creat pentru cei care vor să urmărească aurora boreală în cel mai spectaculos mod posibil.",
   content: `
 Aurora boreală este unul dintre acele fenomene care transformă cerul într-o operă de artă vie.  

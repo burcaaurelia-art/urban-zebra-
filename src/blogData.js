@@ -632,7 +632,7 @@ Sfaturi practice pentru un weekend reușit
 
 Dacă vrei să ieși din tiparul city-break-urilor clasice și să descoperi Europa în ritmul tău, aceste orașe sunt un punct de pornire perfect. ✨
     `
-  }
+  },
 
   {
   id: 8,

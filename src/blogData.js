@@ -639,7 +639,7 @@ Dacă vrei să ieși din tiparul city-break-urilor clasice și să descoperi Eur
   title: "Trenul panoramic din Norvegia care te duce în inima aurorei boreale",
   date: "10 Decembrie 2025",
   image: "/images/2e60b855-9526-423c-959a-abbaf45dde4d.png",
-  excerpt: "Există un tren în Norvegia special creat pentru cei care vor să urmărească aurora boreală în cel mai spectaculos mod posibil.",
+  excerpt: "O experiență magică pe care să o treci pe lista de călătorii. Trenul panoramic din Norvegia care te duce în inima aurorei boreale.",
   content: `
 Aurora boreală este unul dintre acele fenomene care transformă cerul într-o operă de artă vie.  
 Iar Norvegia rămâne destinația de top pentru cei care visează la o întâlnire memorabilă cu luminile nordului.
@@ -647,9 +647,9 @@ Iar Norvegia rămâne destinația de top pentru cei care visează la o întâlni
 Dar iarna în nord înseamnă drumuri dificile, frig și distanțe mari.  
 Așa că norvegienii au creat o experiență care combină confortul cu magia: **un tren panoramic dedicat observării aurorei**, care pleacă din Narvik și te poartă prin peisaje arctice spectaculoase.
 
----
 
-## ✨ Northern Lights Train – o călătorie spre luminile nordului
+
+ ✨ Northern Lights Train – o călătorie spre luminile nordului
 
 Trenul parcurge celebra rută Ofoten Line, una dintre cele mai frumoase linii feroviare din Scandinavia. Peisajele? Munți acoperiți de zăpadă, păduri înghețate și întinderi albe care reflectă lumina slabă a iernii.
 
@@ -661,9 +661,9 @@ Vagoanele sunt special concepute pentru observație:
 
 Este experiența perfectă pentru cei care vor să admire aurora fără să îndure ore întregi în frig.
 
----
 
-## 🔥 Opriri montane și momente de liniște absolută
+
+ 🔥 Opriri montane și momente de liniște absolută
 
 Călătoria durează aproximativ trei ore și include opriri în locuri izolate, precum **Bjørnfjell** sau **Katterat Station**.  
 Aici poți coborî, respira aerul rece al nordului și privi cerul în întunericul complet al munților.
@@ -672,9 +672,9 @@ De multe ori se face foc în aer liber, iar pasagerii se pot încălzi cu o bău
 
 Este o experiență completă, nu doar un drum cu trenul.
 
----
 
-## 🌌 De ce merită să încerci această aventură
+
+ 🌌 De ce merită să încerci această aventură
 
 **✔ Confort și organizare perfectă**  
 Trenul te duce exact în cele mai bune locuri pentru observarea aurorei, fără stresul drumurilor de iarnă.
@@ -685,27 +685,27 @@ Chiar și fără auroră, călătoria rămâne spectaculoasă: Norvegia arctică
 **✔ Potrivit pentru cupluri, familii sau călători solo**  
 Atmosfera este magică, liniștită și ideală pentru momente speciale.
 
----
 
-## 📆 Cea mai bună perioadă pentru auroră
+
+ 📆 Cea mai bună perioadă pentru auroră
 
 Sezonul optim este **septembrie – martie**, când nopțile sunt lungi și cerul este cel mai întunecat.  
 Orele cu șanse mari de activitate solară sunt între **20:00 și 02:00**.
 
 Dacă planifici o călătorie, rezervările trebuie făcute din timp — trenul este foarte popular în sezon.
 
----
 
-## 🧣 Ce să iei cu tine
+
+ 🧣 Ce să iei cu tine
 - haine groase pentru temperaturi negative,
 - mănuși, căciulă, șosete termo,
 - aparat foto + trepied,
 - baterii de rezervă,
 - mult entuziasm.
 
----
 
-## 🎒 Merită experiența?
+
+ 🎒 Merită experiența?
 
 Absolut.  
 Trenul panoramic pentru aurora boreală îți oferă șansa de a trăi unul dintre cele mai spectaculoase momente ale naturii, în condiții de confort și siguranță.

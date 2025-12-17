@@ -717,6 +717,42 @@ E genul de experiență pe care nu o uiți niciodată.
   `
 },
 
+    {
+  id: 9,
+  title: "Știați că Istanbulul este unul dintre cele mai prietenoase orașe din lume pentru animalele străzii?",
+  date: "17 Decembrie 2025",
+  image: "/images/0cc52512-5cbe-4ec1-9312-3e47ac2ba346.jpg",
+  excerpt: "Istanbulul este celebru nu doar pentru istoria sa fascinantă și pentru poziția sa între două continente, ci și pentru relația specială dintre locuitori și animalele străzii, în special pisici și câini.",
+  content: `
+Știați că Istanbulul este unul dintre cele mai prietenoase orașe din lume pentru animalele străzii?
+
+Istanbulul este celebru nu doar pentru istoria sa fascinantă și pentru poziția sa între două continente, ci și pentru relația specială dintre locuitori și animalele străzii, în special pisici și câini.
+
+🐾 Știați că animalele străzii sunt considerate „ale orașului”?
+
+În Turcia, animalele fără stăpân nu sunt văzute ca o problemă, ci ca parte din comunitate. Ele sunt protejate prin lege, iar autoritățile locale au obligația de a le vaccina, steriliza și îngriji, fără a le scoate din mediul lor.
+
+🐱 Știați că Istanbulul are sute de mii de pisici?
+
+Pisicile sunt adevărate simboluri ale orașului. Le găsești peste tot: pe terase, în magazine, în moschei, pe feriboturi sau dormind liniștite pe capotele mașinilor. Mulți localnici le pun zilnic apă și mâncare, iar unele au chiar „case” improvizate în fața blocurilor.
+
+🐶 Știați că și câinii străzii sunt îngrijiți?
+
+Câinii fără stăpân poartă adesea crotalii colorate, semn că au fost vaccinați și sterilizați. Sunt în general pașnici, obișnuiți cu oamenii și cu agitația orașului, iar localnicii îi cunosc și îi acceptă ca pe niște vecini.
+
+🏥 Știați că există clinici veterinare municipale gratuite?
+
+Primăriile din Istanbul au clinici speciale unde animalele străzii primesc tratament medical gratuit, iar cetățenii pot semnala cazurile de urgență.
+
+❤️ Știați că empatia față de animale este o valoare culturală?
+
+Respectul față de animale are rădăcini adânci în cultura otomană și islamică, unde grija pentru ființele vulnerabile este considerată un act de bunătate și responsabilitate morală.
+
+Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios cu animalele sale, transformând străzile într-un spațiu de conviețuire, nu de abandon.
+
+  `
+},
+
 ];
 
 export default blogPosts;

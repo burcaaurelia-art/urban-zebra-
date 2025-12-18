@@ -754,7 +754,7 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
 },
 
       {
-  id: 9,
+  id: 10,
   title: "World Travel Awards 2025",
   date: "18 Decembrie 2025",
   image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",

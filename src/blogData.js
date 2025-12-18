@@ -753,6 +753,141 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   `
 },
 
+      {
+  id: 9,
+  title: "World Travel Awards 2025",
+  date: "18 Decembrie 2025",
+  image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",
+  excerpt: "World Travel Awards 2025 - Oscarurile turismului",
+  content: `
+World Travel Awards 2025: destinațiile care au definit turismul global
+
+În fiecare an, World Travel Awards (WTA) stabilesc un standard de excelență în turismul mondial. Supranumite adesea „Oscarurile turismului”, aceste premii sunt acordate pe baza voturilor profesioniștilor din industrie și ale călătorilor din întreaga lume, oferind o imagine clară asupra destinațiilor care contează cu adevărat.
+
+Ediția 2025 confirmă o schimbare importantă: turismul de succes nu mai înseamnă doar popularitate, ci experiență, autenticitate și emoție.
+
+👉 Sursa oficială:
+https://www.worldtravelawards.com/
+
+https://www.worldtravelawards.com/winners/2025/world
+
+🌍 World’s Leading Destination 2025: Maldive
+<p align="center">
+  <img src="images/1.png" width="32%" />
+  <img src="images/2.png" width="32%" />
+  <img src="images/3.png" width="32%" />
+</p>
+
+Maldive a fost desemnată World’s Leading Destination 2025, păstrându-și statutul de etalon global pentru vacanțele de vis.
+
+Dincolo de imaginea clasică a bungalow-urilor pe apă, Maldive impresionează prin:
+
+experiențe ultra-personalizate
+
+intimitate și liniște
+
+orientare tot mai clară spre sustenabilitate
+
+Este destinația care simbolizează ideea de „escape total”.
+
+🇪🇺 Europe’s Leading Destination 2025: Portugalia
+<p align="center">
+  <img src="images/4.png" width="32%" />
+  <img src="images/5.png" width="32%" />
+  <img src="images/6.png" width="32%" />
+</p>
+
+Portugalia a câștigat titlul de Cea mai bună destinație din Europa, confirmând o popularitate construită constant în ultimii ani.
+
+Motivul succesului:
+
+orașe vibrante (Lisabona, Porto)
+
+litoral spectaculos în Algarve
+
+gastronomie excelentă și atmosferă relaxată
+
+Este una dintre puținele țări care funcționează la fel de bine pentru city break, vacanțe la ocean sau turism cultural.
+
+🏛️ World’s Leading Cultural City 2025: Atena
+<p align="center">
+  <img src="images/7.png" width="32%" />
+  <img src="images/8.png" width="32%" />
+  <img src="images/9.png" width="32%" />
+</p>
+
+Premiată ca World’s Leading Cultural City 2025, Atena demonstrează că marile orașe istorice pot fi relevante și moderne.
+
+Capitala Greciei combină:
+
+patrimoniu antic
+
+cartiere creative
+
+gastronomie contemporană
+
+Atena nu mai este doar o oprire rapidă, ci o destinație urbană completă.
+
+🏝️ World’s Leading Leisure Destination 2025: Dubai
+<p align="center">
+  <img src="images/10.png" width="32%" />
+  <img src="images/11.png" width="32%" />
+  <img src="images/12.png" width="32%" />
+</p>
+
+Dubai a fost desemnat World’s Leading Leisure Destination 2025, o recunoaștere a versatilității sale turistice.
+
+De la plajă și oraș futurist, la deșert și gastronomie internațională, Dubai oferă o experiență completă, construită pentru confort și spectacol.
+
+⛷️ World’s Leading Ski Resort 2025: Val Thorens, Franța
+<p align="center">
+  <img src="images/13.png" width="32%" />
+  <img src="images/14.png" width="32%" />
+  <img src="images/15.png" width="32%" />
+</p>
+
+Pentru iubitorii sporturilor de iarnă, Val Thorens a primit titlul de World’s Leading Ski Resort 2025.
+
+Stațiunea este apreciată pentru:
+
+pârtii la altitudine mare
+
+infrastructură modernă
+
+servicii premium
+
+Este una dintre cele mai performante destinații alpine din lume.
+
+Ce ne spun World Travel Awards 2025 despre turism
+
+Privind câștigătorii acestui an, apar câteva concluzii clare:
+
+experiența contează mai mult decât popularitatea
+
+Europa rămâne extrem de competitivă
+
+turiștii caută echilibru, nu aglomerație
+
+World Travel Awards nu premiază doar locuri frumoase, ci destinații care știu să ofere stare.
+
+Concluzie
+
+World Travel Awards 2025 oferă o hartă clară a turismului actual: destinații diverse, dar unite de aceeași idee — calitatea experienței.
+
+Pentru călătorul modern, aceste premii sunt un ghid valoros, iar pentru 2026, ele devin o sursă de inspirație sigură.
+
+🔗 Linkuri oficiale 
+World Travel Awards – site oficial:
+https://www.worldtravelawards.com/
+
+Câștigători globali 2025:
+https://www.worldtravelawards.com/winners/2025/world
+
+Câștigători Europa 2025:
+https://www.worldtravelawards.com/winners/2025/europe
+  `
+},
+
 ];
 
 export default blogPosts;

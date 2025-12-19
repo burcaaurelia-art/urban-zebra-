@@ -762,7 +762,7 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   content: `
 <h2 style="margin:0 0 10px 0;">World Travel Awards 2025: destinațiile care definesc turismul contemporan</h2>
 
-<p>În fiecare an, World Travel Awards (WTA) trasează direcțiile turismului global, stabilind un adevărat etalon al excelenței. Supranumite adesea „Oscarurile turismului”, aceste premii sunt acordate pe baza voturilor profesioniștilor din industrie și ale călătorilor din întreaga lume.</p>
+<p>În fiecare an, World Travel Awards (WTA) trasează direcțiile turismului global, stabilind un adevărat etalon al excelenței. Supranumite adesea „Oscarurile turismului”, aceste premii sunt acordate pe baza voturilor profesioniștilor din industrie și ale călătorilor din întreaga lume.📍 Ceremonia Grand Final Gala (unde s-au decernat premiile principale pentru 2025) s-a desfășurat pe 6 decembrie 2025, în Kingdom of Bahrain, la Exhibition World Bahrain.</p>
 
 <p>Ediția 2025 confirmă o tendință clară: turismul de succes nu mai înseamnă doar notorietate, ci emoție, autenticitate și experiențe memorabile.</p>
 

@@ -753,221 +753,226 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   `
 },
 
-      {
-id: 10,
-title: "World Travel Awards 2025",
-date: "18 Decembrie 2025",
-image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",
-excerpt: "World Travel Awards 2025 – Oscarurile turismului mondial",
-content: `
-World Travel Awards 2025: destinațiile care definesc turismul contemporan
+{
+    id: 10,
+    title: "World Travel Awards 2025",
+    date: "18 Decembrie 2025",
+    image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",
+    excerpt: "World Travel Awards 2025 – Oscarurile turismului mondial",
+    content: `
+<h2 style="margin:0 0 10px 0;">World Travel Awards 2025: destinațiile care definesc turismul contemporan</h2>
 
-În fiecare an, World Travel Awards (WTA) trasează direcțiile turismului global, stabilind un adevărat etalon al excelenței. Supranumite adesea „Oscarurile turismului”, aceste premii sunt acordate pe baza voturilor profesioniștilor din industrie și ale călătorilor din întreaga lume.
+<p style="margin-top:0;">
+În fiecare an, <b>World Travel Awards (WTA)</b> trasează direcțiile turismului global și setează standardul de excelență. 
+Supranumite adesea „Oscarurile turismului”, aceste premii reflectă voturile profesioniștilor din industrie și ale călătorilor din întreaga lume.
+</p>
 
-Ediția 2025 confirmă o tendință clară: turismul de succes nu mai înseamnă doar notorietate, ci emoție, autenticitate și experiențe memorabile.
+<p>
+Ediția 2025 confirmă o tendință clară: turismul de succes nu mai înseamnă doar notorietate, ci <b>emoție, autenticitate și experiențe memorabile</b>.
+</p>
 
-👉 Sursa oficială:
-https://www.worldtravelawards.com/
+<div style="padding:12px 14px; border:1px solid #e6e6e6; border-radius:12px; margin:16px 0;">
+  <b>👉 Sursa oficială:</b><br/>
+  <a href="https://www.worldtravelawards.com/" target="_blank" rel="noopener noreferrer">
+    https://www.worldtravelawards.com/
+  </a>
+</div>
 
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-<h3>
-<span style="color:#1c3d5a; font-weight:700;">
-🌍 World’s Leading Destination 2025
-</span> Maldive
-</h3>
-<table>
-  <tr>
-    <td><img src="/images/1.png" width="250"></td>
-    <td><img src="/images/2.png" width="250"></td>
-    <td><img src="/images/3.png" width="250"></td>
-  </tr>
-</table>
-
-Maldive își păstrează statutul de destinație iconică, fiind desemnată World’s Leading Destination 2025.
-
-Dincolo de imaginea clasică a bungalow-urilor suspendate deasupra lagunelor turcoaz, Maldive impresionează prin:
-
-– experiențe ultra-personalizate  
-– intimitate absolută și liniște  
-– un angajament tot mai puternic față de turismul sustenabil  
-
-Arta evadării perfecte
-
-Maldive își consolidează poziția de simbol absolut al luxului discret și al relaxării totale. Dincolo de imaginea iconică a vilelor suspendate deasupra apei, arhipelagul oferă un tip de experiență rară: liniște, intimitate și personalizare dusă la perfecțiune.
-
-Aici, fiecare detaliu este gândit pentru a crea senzația de „lumea mea, doar pentru mine”. Tot mai mult, Maldive devine și un exemplu de turism responsabil, demonstrând că luxul și sustenabilitatea pot coexista armonios.
-
-
-
-<h3>
-<span style="color:#1c3d5a; font-weight:700;">
-🇪🇺 Europe’s Leading Destination 2025
-</span>: Portugalia
-</h3>
-<table>
-  <tr>
-    <td><img src="/images/4.png" width="250"></td>
-    <td><img src="/images/5.png" width="250"></td>
-    <td><img src="/images/6.png" width="250"></td>
-  </tr>
-</table>
-
-Portugalia câștigă titlul de Cea mai bună destinație din Europa, confirmând o ascensiune constantă în preferințele turiștilor.
-
-Succesul său se bazează pe:
-
-– orașe vibrante precum Lisabona și Porto  
-– litoral spectaculos în Algarve  
-– gastronomie excelentă și o atmosferă relaxată  
-
-Echilibrul perfect între energie și relaxare
-
-Portugalia este dovada că succesul durabil se construiește în timp. Cu orașe vibrante precum Lisabona și Porto, un litoral spectaculos în Algarve și o gastronomie care îmbină tradiția cu modernul, țara reușește să cucerească o varietate impresionantă de călători.
-
-Este genul de destinație care nu obosește, care se simte autentică și prietenoasă, indiferent dacă o descoperi pentru un city break sau o vacanță prelungită la ocean.
-
-
-<h3>
-<span style="color:#1c3d5a; font-weight:700;">
-🏛️ World’s Leading Cultural City 2025
-</span> Atena
+<h3 style="margin:0 0 10px 0;">
+  <span style="background:#eaf2ff; color:#1c3d5a; font-weight:700; padding:6px 10px; border-radius:999px;">
+    🌍 World’s Leading Destination 2025
+  </span>
+  <span style="margin-left:8px; font-weight:700;">Maldive</span>
 </h3>
 
 <table>
   <tr>
-    <td><img src="/images/7.png" width="250"></td>
-    <td><img src="/images/8.png" width="250"></td>
-    <td><img src="/images/9.png" width="250"></td>
+    <td><img src="/images/1.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/2.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/3.png" width="250" style="border-radius:12px;"></td>
   </tr>
 </table>
 
-Desemnată World’s Leading Cultural City 2025, Atena demonstrează că orașele cu istorie milenară pot rămâne extrem de actuale.
+<p><i>Arta evadării perfecte.</i> Maldive își păstrează statutul de destinație iconică, sinonimă cu luxul discret și relaxarea totală.</p>
 
-Capitala Greciei îmbină armonios:
+<ul>
+  <li>experiențe ultra-personalizate</li>
+  <li>intimitate și liniște</li>
+  <li>orientare tot mai clară spre sustenabilitate</li>
+</ul>
 
-– patrimoniul antic  
-– cartiere creative și moderne  
-– o scenă gastronomică contemporană  
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-Istoria care trăiește în prezent
-
-Atena dovedește că trecutul nu este un muzeu, ci o sursă de inspirație vie. Capitala Greciei îmbină patrimoniul antic cu cartiere creative, rooftop-uri vibrante și o scenă gastronomică surprinzător de contemporană.
-
-Nu mai este doar o oprire obligatorie pe drumul spre insule, ci o destinație urbană completă, care se descoperă pas cu pas, cu răbdare și curiozitate.
-
-
-<h3>
-<span style="color:#1c3d5a; font-weight:700;">
-🏝️ World’s Leading Leisure Destination 2025
-</span> Dubai
+<h3 style="margin:0 0 10px 0;">
+  <span style="background:#eaf2ff; color:#1c3d5a; font-weight:700; padding:6px 10px; border-radius:999px;">
+    🇪🇺 Europe’s Leading Destination 2025
+  </span>
+  <span style="margin-left:8px; font-weight:700;">Portugalia</span>
 </h3>
+
 <table>
   <tr>
-    <td><img src="/images/10.png" width="250"></td>
-    <td><img src="/images/11.png" width="250"></td>
-    <td><img src="/images/12.png" width="250"></td>
+    <td><img src="/images/4.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/5.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/6.png" width="250" style="border-radius:12px;"></td>
   </tr>
 </table>
 
-Spectacolul reinventat al vacanței moderne
+<p><i>Echilibrul perfect între energie și relaxare.</i> Portugalia confirmă o ascensiune construită constant în preferințele turiștilor.</p>
 
-Dubai continuă să redefinească ideea de leisure. Plajă, oraș futurist, deșert, gastronomie internațională și divertisment la cel mai înalt nivel — toate coexistă într-un echilibru atent orchestrat.
+<ul>
+  <li>orașe vibrante (Lisabona, Porto)</li>
+  <li>litoral spectaculos în Algarve</li>
+  <li>gastronomie excelentă și atmosferă relaxată</li>
+</ul>
 
-Este destinația unde confortul extrem întâlnește inovația, iar experiența este construită pentru a impresiona fără compromis.
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-
-<h3>
-<span style="color:#1c3d5a; font-weight:700;">
-World’s Leading Ski Resort 2025
-</span>: Val Thorens, Franța
+<h3 style="margin:0 0 10px 0;">
+  <span style="background:#eaf2ff; color:#1c3d5a; font-weight:700; padding:6px 10px; border-radius:999px;">
+    🏛️ World’s Leading Cultural City 2025
+  </span>
+  <span style="margin-left:8px; font-weight:700;">Atena</span>
 </h3>
+
 <table>
   <tr>
-    <td><img src="/images/13.png" width="250"></td>
-    <td><img src="/images/14.png" width="250"></td>
-    <td><img src="/images/15.png" width="250"></td>
+    <td><img src="/images/7.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/8.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/9.png" width="250" style="border-radius:12px;"></td>
   </tr>
 </table>
 
-Pentru pasionații sporturilor de iarnă, Val Thorens primește titlul de World’s Leading Ski Resort 2025.
+<p><i>Istoria care trăiește în prezent.</i> Atena îmbină patrimoniul antic cu cartiere creative și o scenă gastronomică modernă.</p>
 
-Stațiunea este apreciată la nivel internațional pentru:
+<ul>
+  <li>patrimoniu antic</li>
+  <li>cartiere creative</li>
+  <li>gastronomie contemporană</li>
+</ul>
 
-– pârtii situate la altitudine mare  
-– infrastructură modernă  
-– servicii premium  
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-Excelență la cea mai mare altitudine
+<h3 style="margin:0 0 10px 0;">
+  <span style="background:#eaf2ff; color:#1c3d5a; font-weight:700; padding:6px 10px; border-radius:999px;">
+    🏝️ World’s Leading Leisure Destination 2025
+  </span>
+  <span style="margin-left:8px; font-weight:700;">Dubai</span>
+</h3>
 
-Pentru iubitorii sporturilor de iarnă, Val Thorens rămâne un reper absolut. Pârtiile spectaculoase, infrastructura modernă și serviciile premium transformă fiecare sezon într-o experiență completă.
+<table>
+  <tr>
+    <td><img src="/images/10.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/11.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/12.png" width="250" style="border-radius:12px;"></td>
+  </tr>
+</table>
 
-Este o destinație care vorbește despre performanță, eleganță și pasiune pentru munte.
+<p><i>Spectacolul reinventat al vacanței moderne.</i> Dubai oferă o experiență completă: plajă, oraș futurist, deșert și gastronomie internațională.</p>
 
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-Ce ne spun World Travel Awards 2025 despre turismul actual
+<h3 style="margin:0 0 10px 0;">
+  <span style="background:#eaf2ff; color:#1c3d5a; font-weight:700; padding:6px 10px; border-radius:999px;">
+    ⛷️ World’s Leading Ski Resort 2025
+  </span>
+  <span style="margin-left:8px; font-weight:700;">Val Thorens, Franța</span>
+</h3>
 
-Privind câștigătorii acestui an, se conturează câteva concluzii esențiale:
+<table>
+  <tr>
+    <td><img src="/images/13.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/14.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/15.png" width="250" style="border-radius:12px;"></td>
+  </tr>
+</table>
 
-– experiența contează mai mult decât popularitatea  
-– Europa rămâne extrem de competitivă  
-– turiștii caută echilibru, nu aglomerație  
+<p><i>Excelență la cea mai mare altitudine.</i> Val Thorens este apreciată pentru pârtii la altitudine mare, infrastructură modernă și servicii premium.</p>
 
-World Travel Awards nu premiază doar locuri frumoase, ci destinații care știu să ofere stare și emoție.
+<ul>
+  <li>pârtii la altitudine mare</li>
+  <li>infrastructură modernă</li>
+  <li>servicii premium</li>
+</ul>
 
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-Concluzie
+<h3 style="margin:0 0 10px 0;">Ce ne spun World Travel Awards 2025 despre turism</h3>
 
-World Travel Awards 2025 oferă o hartă clară a turismului contemporan: destinații diferite, unite de aceeași filosofie — calitatea experienței.
+<ul>
+  <li>experiența contează mai mult decât popularitatea</li>
+  <li>Europa rămâne extrem de competitivă</li>
+  <li>turiștii caută echilibru, nu aglomerație</li>
+</ul>
 
-Pentru călătorul modern, aceste premii reprezintă un ghid valoros, iar pentru 2026, o sursă sigură de inspirație.
+<p>
+<b>Concluzie:</b> WTA 2025 oferă o hartă a turismului contemporan: destinații diverse, unite de aceeași idee — <b>calitatea experienței</b>.
+</p>
 
+<hr style="border:none; border-top:1px solid #eee; margin:22px 0;" />
 
-🏨 Premii Globale – Hoteluri (World Travel Awards 2025)
-🏆 Categoriile principale
+<h3 style="margin:0 0 10px 0;">🏨 Premii Globale – Hoteluri (World Travel Awards 2025)</h3>
 
-World’s Leading Hotel 2025: Jumeirah Al Naseem – Dubai, UAE 🇦🇪  
-World’s Leading Adult-Only Boutique Hotel 2025: Domes Noruz Mykonos – Grecia 🇬🇷  
-World’s Leading Adventure Hotel 2025: Pikaia Lodge – Ecuador 🇪🇨  
-World’s Leading Hotel Collection 2025: Leading Hotels of the World 🌍  
-World’s Leading Luxury Hotel Apartments 2025: Anantara The Palm Dubai Resort – UAE 🇦🇪  
+<div style="padding:12px 14px; border:1px solid #e6e6e6; border-radius:12px; margin:10px 0 18px 0;">
+  <b>🏆 Categoriile principale</b>
+  <ul style="margin:10px 0 0 18px;">
+    <li><b>World’s Leading Hotel 2025:</b> Jumeirah Al Naseem – Dubai, UAE 🇦🇪</li>
+    <li><b>World’s Leading Adult-Only Boutique Hotel 2025:</b> Domes Noruz Mykonos – Grecia 🇬🇷</li>
+    <li><b>World’s Leading Adventure Hotel 2025:</b> Pikaia Lodge – Ecuador 🇪🇨</li>
+    <li><b>World’s Leading Hotel Collection 2025:</b> Leading Hotels of the World 🌍</li>
+    <li><b>World’s Leading Luxury Hotel Apartments 2025:</b> Anantara The Palm Dubai Resort – UAE 🇦🇪</li>
+  </ul>
+</div>
 
+<div style="padding:12px 14px; border:1px solid #e6e6e6; border-radius:12px; margin:10px 0 18px 0;">
+  <b>🏙️ Europa</b>
+  <ul style="margin:10px 0 0 18px;">
+    <li><b>Europe’s Leading Hotel 2025:</b> Çırağan Palace Kempinski Istanbul – Turcia 🇹🇷</li>
+    <li><b>Europe’s Leading Luxury Hotel 2025:</b> Savoy Palace – Madeira, Portugalia 🇵🇹</li>
+    <li><b>Europe’s Leading Hotel & Spa 2025:</b> Almar Timi Ama Villasimius – Italia 🇮🇹</li>
+    <li><b>Europe’s Leading Landmark Hotel 2025:</b> The Phoenicia Malta – Malta 🇲🇹</li>
+  </ul>
+</div>
 
-🏙️ Premii Hoteliere Regionale – Europa
+<div style="padding:12px 14px; border:1px solid #e6e6e6; border-radius:12px; margin:10px 0 18px 0;">
+  <b>🇺🇸 America de Nord</b>
+  <ul style="margin:10px 0 0 18px;">
+    <li><b>North America’s Leading Hotel 2025:</b> The Beverly Hills Hotel – SUA 🇺🇸</li>
+    <li><b>North America’s Leading Family Resort 2025:</b> Fairmont Chateau Lake Louise – Canada 🇨🇦</li>
+    <li><b>North America’s Leading Green Hotel 2025:</b> L’Auberge Del Mar – SUA 🇺🇸</li>
+    <li><b>North America’s Leading Hotel Residences 2025:</b> JW Marriott Clearwater Beach Resort & Spa – SUA 🇺🇸</li>
+    <li><b>North America’s Leading Hotel Suite 2025:</b> Nobu Penthouse @ NOBU Hotel Caesars Palace – SUA 🇺🇸</li>
+  </ul>
+</div>
 
-Europe’s Leading Hotel 2025: Çırağan Palace Kempinski Istanbul – Turcia 🇹🇷  
-Europe’s Leading Luxury Hotel 2025: Savoy Palace – Madeira, Portugalia 🇵🇹  
-Europe’s Leading Hotel & Spa 2025: Almar Timi Ama Villasimius – Italia 🇮🇹  
-Europe’s Leading Landmark Hotel 2025: The Phoenicia Malta – Malta 🇲🇹  
+<div style="padding:12px 14px; border:1px solid #e6e6e6; border-radius:12px; margin:10px 0 18px 0;">
+  <b>🌏 Alte premii</b>
+  <ul style="margin:10px 0 0 18px;">
+    <li><b>India’s Leading Hotel 2025:</b> Taj Mahal, New Delhi – India 🇮🇳</li>
+    <li><b>Finland’s Leading Hotel 2025:</b> VALO Hotel & Work – Finlanda 🇫🇮</li>
+    <li><b>World’s Leading New Hotel 2025:</b> Marriott Marquis Dubai Creek – UAE 🇦🇪</li>
+    <li><b>World’s Leading Business Hotel 2025:</b> The Ritz-Carlton, Santiago – Chile 🇨🇱</li>
+  </ul>
+</div>
 
-
-🇺🇸 Premii Hoteliere – America de Nord
-
-North America’s Leading Hotel 2025: The Beverly Hills Hotel – SUA 🇺🇸  
-North America’s Leading Family Resort 2025: Fairmont Chateau Lake Louise – Canada 🇨🇦  
-North America’s Leading Green Hotel 2025: L’Auberge Del Mar – SUA 🇺🇸  
-North America’s Leading Hotel Residences 2025: JW Marriott Clearwater Beach Resort & Spa – SUA 🇺🇸  
-North America’s Leading Hotel Suite 2025: Nobu Penthouse @ NOBU Hotel Caesars Palace – SUA 🇺🇸  
-
-
-🌏 Alte Premii Hoteliere
-
-India’s Leading Hotel 2025: Taj Mahal, New Delhi – India 🇮🇳  
-Finland’s Leading Hotel 2025: VALO Hotel & Work – Finlanda 🇫🇮  
-
-World’s Leading New Hotel 2025: Marriott Marquis Dubai Creek – UAE 🇦🇪  
-World’s Leading Business Hotel 2025: The Ritz-Carlton, Santiago – Chile 🇨🇱  
-
-
-📌 Observații
-
-✔️ World Travel Awards include sute de categorii hoteliere: boutique, eco-hoteluri, resorturi, hoteluri pentru familii, suite de lux etc.  
-✔️ Lista completă a celor peste 300 de premii poate fi consultată pe site-ul oficial World Travel Awards, selectând regiunea dorită.
-
-
-🔗 Link oficial:
-https://www.worldtravelawards.com/
+<div style="padding:12px 14px; border:1px solid #e6e6e6; border-radius:12px;">
+  <b>📌 Observații</b>
+  <ul style="margin:10px 0 0 18px;">
+    <li>WTA include sute de categorii hoteliere: boutique, eco, family, resort, suite etc.</li>
+    <li>Lista completă a premiilor se găsește pe site-ul oficial, selectând regiunea dorită.</li>
+  </ul>
+  <div style="margin-top:10px;">
+    <b>🔗 Link oficial:</b>
+    <a href="https://www.worldtravelawards.com/" target="_blank" rel="noopener noreferrer">
+      https://www.worldtravelawards.com/
+    </a>
+  </div>
+</div>
 `
-},
+  },
+
 
 ];
 

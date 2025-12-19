@@ -883,6 +883,58 @@ World Travel Awards 2025 oferă o hartă clară a turismului actual: destinații
 
 Pentru călătorul modern, aceste premii sunt un ghid valoros, iar pentru 2026, ele devin o sursă de inspirație sigură.
 
+
+🏨 Premii Globale – Hoteluri (World Travel Awards 2025)
+🏆 Categoriile principale
+
+World’s Leading Hotel 2025: Jumeirah Al Naseem – Dubai, UAE 🇦🇪 
+
+World’s Leading Adult-Only Boutique Hotel 2025: Domes Noruz Mykonos – Grecia 🇬🇷 
+
+World’s Leading Adventure Hotel 2025: Pikaia Lodge – Ecuador 🇪🇨 
+
+World’s Leading Hotel Collection 2025: Leading Hotels of the World (rețea internațională) 🌍 
+
+World’s Leading Luxury Hotel Apartments 2025: Anantara The Palm Dubai Resort – Dubai, UAE 🇦🇪 
+
+
+🏙️ Premii Hoteliere Regionale – Europa
+
+Europe’s Leading Hotel 2025: Çırağan Palace Kempinski Istanbul – Turcia 🇹🇷 
+
+Europe’s Leading Luxury Hotel 2025: Savoy Palace – Madeira, Portugalia 🇵🇹 
+
+Europe’s Leading Hotel & Spa 2025: Almar Timi Ama Villasimius – Italia 🇮🇹 
+
+Europe’s Leading Landmark Hotel 2025: The Phoenicia Malta – Malta 🇲🇹 
+
+
+🇺🇸 Premii Hoteliere – America de Nord
+
+North America’s Leading Hotel 2025: The Beverly Hills Hotel – SUA 🇺🇸 
+North America’s Leading Family Resort 2025: Fairmont Chateau Lake Louise – Canada 🇨🇦 
+North America’s Leading Green Hotel 2025: L’Auberge Del Mar – SUA 🇺🇸 
+North America’s Leading Hotel Residences 2025: JW Marriott Clearwater Beach Resort & Spa – SUA 🇺🇸 
+North America’s Leading Hotel Suite 2025: The Nobu Penthouse @ NOBU Hotel at Caesars Palace – SUA 🇺🇸 
+
+🌏 Premii Hoteliere Naționale / Alte Regiuni
+
+India’s Leading Hotel 2025: Taj Mahal, New Delhi – India 🇮🇳 
+
+Finland’s Leading Hotel 2025: VALO Hotel & Work – Finlanda 🇫🇮 
+
+🛏️ Alte Categorii Hoteliere Notabile
+
+World’s Leading New Hotel 2025: Marriott Marquis Dubai Creek – Dubai 🇦🇪 
+World’s Leading Business Hotel 2025: The Ritz-Carlton, Santiago – Chile 🇨🇱 
+
+📌 Observații
+
+✔️ În cadrul WTA 2025 există zeci de categorii legate de hoteluri (de exemplu: boutique, eco-hotel, suite, resorturi hoteliere, hoteluri pentru familii etc.)
+
+✔️ Lista completă a tuturor câștigătorilor hotelieri (toate 308 de premii cu subcategorii) poate fi consultată direct pe site-ul oficial World Travel Awards Winners 2025, selectând regiunea dorită: Africa, Asia & Oceania, Europe, North America, South America și Middle East. 
+
+
 🔗 Linkuri oficiale 
 World Travel Awards – site oficial:
 https://www.worldtravelawards.com/

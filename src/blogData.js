@@ -795,11 +795,37 @@ Este destinația care simbolizează ideea de „escape total”.
 
 
 🇪🇺 Europe’s Leading Destination 2025: Portugalia
-<p align="center">
-  <img src="/images/4.png" width="32%" />
-  <img src="/images/5.png" width="32%" />
-  <img src="/images/6.png" width="32%" />
-</p>
+<table width="100%" cellspacing="12">
+  <colgroup>
+    <col width="33%">
+    <col width="33%">
+    <col width="33%">
+  </colgroup>
+  <tr>
+    <td align="center">
+      <img
+        src="/images/4.png"
+        alt="Imagine 1"
+        style="width:100%; border-radius:14px;"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="/images/5.png"
+        alt="Imagine 2"
+        style="width:100%; border-radius:14px;"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="/images/6.png"
+        alt="Imagine 3"
+        style="width:100%; border-radius:14px;"
+      />
+    </td>
+  </tr>
+</table>
+
 
 Portugalia a câștigat titlul de Cea mai bună destinație din Europa, confirmând o popularitate construită constant în ultimii ani.
 

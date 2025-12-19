@@ -773,11 +773,12 @@ https://www.worldtravelawards.com/
 🌍 World’s Leading Destination 2025: Maldive
 <table>
   <tr>
-    <td><img src="images/1.png" width="250"></td>
-    <td><img src="images/2.png" width="250"></td>
-    <td><img src="images/3.png" width="250"></td>
+    <td><img src="public/images/1.png" width="250"></td>
+    <td><img src="public/images/2.png" width="250"></td>
+    <td><img src="public/images/3.png" width="250"></td>
   </tr>
 </table>
+
 
 Maldive a fost desemnată World’s Leading Destination 2025, păstrându-și statutul de etalon global pentru vacanțele de vis.
 

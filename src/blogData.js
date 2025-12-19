@@ -860,7 +860,11 @@ Dubai continuă să redefinească ideea de leisure. Plajă, oraș futurist, deș
 Este destinația unde confortul extrem întâlnește inovația, iar experiența este construită pentru a impresiona fără compromis.
 
 
-⛷️ World’s Leading Ski Resort 2025: Val Thorens, Franța
+<h3>
+⛷️ <span style="color:#1c3d5a; font-weight:700;">
+World’s Leading Ski Resort 2025
+</span>: Val Thorens, Franța
+</h3>
 <table>
   <tr>
     <td><img src="/images/13.png" width="250"></td>

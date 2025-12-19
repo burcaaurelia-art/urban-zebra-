@@ -770,8 +770,10 @@ Ediția 2025 confirmă o tendință clară: turismul de succes nu mai înseamnă
 https://www.worldtravelawards.com/
 
 
-<h3 style="color:#1c3d5a; font-weight:700;">
-🌍 World’s Leading Destination 2025: Maldive
+<h3>
+⛷️ <span style="color:#1c3d5a; font-weight:700;">
+🌍 World’s Leading Destination 2025
+</span> Maldive
 </h3>
 <table>
   <tr>
@@ -796,7 +798,12 @@ Maldive își consolidează poziția de simbol absolut al luxului discret și al
 Aici, fiecare detaliu este gândit pentru a crea senzația de „lumea mea, doar pentru mine”. Tot mai mult, Maldive devine și un exemplu de turism responsabil, demonstrând că luxul și sustenabilitatea pot coexista armonios.
 
 
-🇪🇺 Europe’s Leading Destination 2025: Portugalia
+
+<h3>
+⛷️ <span style="color:#1c3d5a; font-weight:700;">
+🇪🇺 Europe’s Leading Destination 2025
+</span>: Portugalia
+</h3>
 <table>
   <tr>
     <td><img src="/images/4.png" width="250"></td>
@@ -820,7 +827,12 @@ Portugalia este dovada că succesul durabil se construiește în timp. Cu orașe
 Este genul de destinație care nu obosește, care se simte autentică și prietenoasă, indiferent dacă o descoperi pentru un city break sau o vacanță prelungită la ocean.
 
 
-🏛️ World’s Leading Cultural City 2025: Atena
+<h3>
+⛷️ <span style="color:#1c3d5a; font-weight:700;">
+🏛️ World’s Leading Cultural City 2025
+</span> Atena
+</h3>
+
 <table>
   <tr>
     <td><img src="/images/7.png" width="250"></td>
@@ -844,7 +856,11 @@ Atena dovedește că trecutul nu este un muzeu, ci o sursă de inspirație vie. 
 Nu mai este doar o oprire obligatorie pe drumul spre insule, ci o destinație urbană completă, care se descoperă pas cu pas, cu răbdare și curiozitate.
 
 
-🏝️ World’s Leading Leisure Destination 2025: Dubai
+<h3>
+⛷️ <span style="color:#1c3d5a; font-weight:700;">
+🏝️ World’s Leading Leisure Destination 2025
+</span> Dubai
+</h3>
 <table>
   <tr>
     <td><img src="/images/10.png" width="250"></td>

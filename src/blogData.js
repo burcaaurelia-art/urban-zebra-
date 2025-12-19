@@ -788,7 +788,9 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   </tr>
 </table>
 
-<p>Maldive își păstrează statutul de destinație iconică, fiind desemnată World’s Leading Destination 2025, păstrându-și statutul de etalon global pentru vacanțele de vis.</p>
+<p>Maldive își consolidează poziția de simbol absolut al luxului discret și al relaxării totale. Dincolo de imaginea iconică a vilelor suspendate deasupra apei, arhipelagul oferă un tip de experiență rară: liniște, intimitate și personalizare dusă la perfecțiune.
+
+Aici, fiecare detaliu este gândit pentru a crea senzația de „lumea mea, doar pentru mine”. Tot mai mult, Maldive devine și un exemplu de turism responsabil, demonstrând că luxul și sustenabilitatea pot coexista armonios.</p>
 
 <p>Dincolo de imaginea clasică a bungalow-urilor pe apă, Maldive impresionează prin:</p>
 
@@ -815,7 +817,9 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   </tr>
 </table>
 
-<p>Portugalia a câștigat titlul de Cea mai bună destinație din Europa, confirmând o popularitate construită constant în ultimii ani.</p>
+<p>Portugalia este dovada că succesul durabil se construiește în timp. Cu orașe vibrante precum Lisabona și Porto, un litoral spectaculos în Algarve și o gastronomie care îmbină tradiția cu modernul, țara reușește să cucerească o varietate impresionantă de călători.
+
+Este genul de destinație care nu obosește, care se simte autentică și prietenoasă, indiferent dacă o descoperi pentru un city break sau o vacanță prelungită la ocean.</p>
 
 <p>Motivul succesului:</p>
 
@@ -842,7 +846,9 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   </tr>
 </table>
 
-<p>Premiată ca World’s Leading Cultural City 2025, Atena demonstrează că marile orașe istorice pot fi relevante și moderne.</p>
+<p>Premiată ca World’s Leading Cultural City 2025, Atena dovedește că trecutul nu este un muzeu, ci o sursă de inspirație vie. Capitala Greciei îmbină patrimoniul antic cu cartiere creative, rooftop-uri vibrante și o scenă gastronomică surprinzător de contemporană.
+
+Nu mai este doar o oprire obligatorie pe drumul spre insule, ci o destinație urbană completă, care se descoperă pas cu pas, cu răbdare și curiozitate.</p>
 
 <p>Capitala Greciei combină:</p>
 
@@ -869,7 +875,9 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   </tr>
 </table>
 
-<p>Dubai a fost desemnat World’s Leading Leisure Destination 2025, o recunoaștere a versatilității sale turistice.</p>
+<p>Dubai continuă să redefinească ideea de leisure. Plajă, oraș futurist, deșert, gastronomie internațională și divertisment la cel mai înalt nivel — toate coexistă într-un echilibru atent orchestrat.
+
+Este destinația unde confortul extrem întâlnește inovația, iar experiența este construită pentru a impresiona fără compromis.</p>
 
 <p>De la plajă și oraș futurist, la deșert și gastronomie internațională, Dubai oferă o experiență completă, construită pentru confort și spectacol.</p>
 
@@ -888,7 +896,9 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   </tr>
 </table>
 
-<p>Pentru iubitorii sporturilor de iarnă, Val Thorens a primit titlul de World’s Leading Ski Resort 2025.</p>
+<p>Val Thorens a primit titlul de World’s Leading Ski Resort 2025.Pentru iubitorii sporturilor de iarnă, Val Thorens rămâne un reper absolut. Pârtiile spectaculoase, infrastructura modernă și serviciile premium transformă fiecare sezon într-o experiență completă.
+
+Este o destinație care vorbește despre performanță, eleganță și pasiune pentru munte.</p>
 
 <p>Stațiunea este apreciată pentru:</p>
 

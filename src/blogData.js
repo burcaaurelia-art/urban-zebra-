@@ -789,6 +789,8 @@ orientare tot mai clară spre sustenabilitate
 
 Este destinația care simbolizează ideea de „escape total”.
 
+
+
 🇪🇺 Europe’s Leading Destination 2025: Portugalia
 <p align="center">
   <img src="/images/4.png" width="32%" />
@@ -807,6 +809,8 @@ litoral spectaculos în Algarve
 gastronomie excelentă și atmosferă relaxată
 
 Este una dintre puținele țări care funcționează la fel de bine pentru city break, vacanțe la ocean sau turism cultural.
+
+
 
 🏛️ World’s Leading Cultural City 2025: Atena
 <p align="center">
@@ -827,6 +831,8 @@ gastronomie contemporană
 
 Atena nu mai este doar o oprire rapidă, ci o destinație urbană completă.
 
+
+
 🏝️ World’s Leading Leisure Destination 2025: Dubai
 <p align="center">
   <img src="/images/10.png" width="32%" />
@@ -837,6 +843,8 @@ Atena nu mai este doar o oprire rapidă, ci o destinație urbană completă.
 Dubai a fost desemnat World’s Leading Leisure Destination 2025, o recunoaștere a versatilității sale turistice.
 
 De la plajă și oraș futurist, la deșert și gastronomie internațională, Dubai oferă o experiență completă, construită pentru confort și spectacol.
+
+
 
 ⛷️ World’s Leading Ski Resort 2025: Val Thorens, Franța
 <p align="center">

@@ -779,7 +779,6 @@ https://www.worldtravelawards.com/
   </tr>
 </table>
 
-
 Maldive a fost desemnată World’s Leading Destination 2025, păstrându-și statutul de etalon global pentru vacanțele de vis.
 
 Dincolo de imaginea clasică a bungalow-urilor pe apă, Maldive impresionează prin:
@@ -795,37 +794,13 @@ Este destinația care simbolizează ideea de „escape total”.
 
 
 🇪🇺 Europe’s Leading Destination 2025: Portugalia
-<table width="100%" cellspacing="12">
-  <colgroup>
-    <col width="33%">
-    <col width="33%">
-    <col width="33%">
-  </colgroup>
+<table>
   <tr>
-    <td align="center">
-      <img
-        src="/images/4.png"
-        alt="Imagine 1"
-        style="width:100%; border-radius:14px;"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="/images/5.png"
-        alt="Imagine 2"
-        style="width:100%; border-radius:14px;"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="/images/6.png"
-        alt="Imagine 3"
-        style="width:100%; border-radius:14px;"
-      />
-    </td>
+    <td><img src="/images/4.png" width="250"></td>
+    <td><img src="/images/5.png" width="250"></td>
+    <td><img src="/images/6.png" width="250"></td>
   </tr>
 </table>
-
 
 Portugalia a câștigat titlul de Cea mai bună destinație din Europa, confirmând o popularitate construită constant în ultimii ani.
 
@@ -842,11 +817,13 @@ Este una dintre puținele țări care funcționează la fel de bine pentru city 
 
 
 🏛️ World’s Leading Cultural City 2025: Atena
-<p align="center">
-  <img src="/images/7.png" width="32%" />
-  <img src="/images/8.png" width="32%" />
-  <img src="/images/9.png" width="32%" />
-</p>
+<table>
+  <tr>
+    <td><img src="/images/7.png" width="250"></td>
+    <td><img src="/images/8.png" width="250"></td>
+    <td><img src="/images/9.png" width="250"></td>
+  </tr>
+</table>
 
 Premiată ca World’s Leading Cultural City 2025, Atena demonstrează că marile orașe istorice pot fi relevante și moderne.
 
@@ -863,11 +840,13 @@ Atena nu mai este doar o oprire rapidă, ci o destinație urbană completă.
 
 
 🏝️ World’s Leading Leisure Destination 2025: Dubai
-<p align="center">
-  <img src="/images/10.png" width="32%" />
-  <img src="/images/11.png" width="32%" />
-  <img src="/images/12.png" width="32%" />
-</p>
+<table>
+  <tr>
+    <td><img src="/images/10.png" width="250"></td>
+    <td><img src="/images/11.png" width="250"></td>
+    <td><img src="/images/12.png" width="250"></td>
+  </tr>
+</table>
 
 Dubai a fost desemnat World’s Leading Leisure Destination 2025, o recunoaștere a versatilității sale turistice.
 
@@ -876,11 +855,13 @@ De la plajă și oraș futurist, la deșert și gastronomie internațională, Du
 
 
 ⛷️ World’s Leading Ski Resort 2025: Val Thorens, Franța
-<p align="center">
-  <img src="/images/13.png" width="32%" />
-  <img src="/images/14.png" width="32%" />
-  <img src="/images/15.png" width="32%" />
-</p>
+<table>
+  <tr>
+    <td><img src="/images/13.png" width="250"></td>
+    <td><img src="/images/14.png" width="250"></td>
+    <td><img src="/images/15.png" width="250"></td>
+  </tr>
+</table>
 
 Pentru iubitorii sporturilor de iarnă, Val Thorens a primit titlul de World’s Leading Ski Resort 2025.
 

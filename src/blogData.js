@@ -771,7 +771,7 @@ https://www.worldtravelawards.com/
 
 
 <h3>
-⛷️ <span style="color:#1c3d5a; font-weight:700;">
+<span style="color:#1c3d5a; font-weight:700;">
 🌍 World’s Leading Destination 2025
 </span> Maldive
 </h3>
@@ -800,7 +800,7 @@ Aici, fiecare detaliu este gândit pentru a crea senzația de „lumea mea, doar
 
 
 <h3>
-⛷️ <span style="color:#1c3d5a; font-weight:700;">
+<span style="color:#1c3d5a; font-weight:700;">
 🇪🇺 Europe’s Leading Destination 2025
 </span>: Portugalia
 </h3>
@@ -828,7 +828,7 @@ Este genul de destinație care nu obosește, care se simte autentică și priete
 
 
 <h3>
-⛷️ <span style="color:#1c3d5a; font-weight:700;">
+<span style="color:#1c3d5a; font-weight:700;">
 🏛️ World’s Leading Cultural City 2025
 </span> Atena
 </h3>
@@ -857,7 +857,7 @@ Nu mai este doar o oprire obligatorie pe drumul spre insule, ci o destinație ur
 
 
 <h3>
-⛷️ <span style="color:#1c3d5a; font-weight:700;">
+<span style="color:#1c3d5a; font-weight:700;">
 🏝️ World’s Leading Leisure Destination 2025
 </span> Dubai
 </h3>
@@ -877,7 +877,7 @@ Este destinația unde confortul extrem întâlnește inovația, iar experiența 
 
 
 <h3>
-⛷️ <span style="color:#1c3d5a; font-weight:700;">
+<span style="color:#1c3d5a; font-weight:700;">
 World’s Leading Ski Resort 2025
 </span>: Val Thorens, Franța
 </h3>

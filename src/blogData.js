@@ -770,7 +770,9 @@ Ediția 2025 confirmă o tendință clară: turismul de succes nu mai înseamnă
 https://www.worldtravelawards.com/
 
 
+<h3 style="color:#1c3d5a; font-weight:700;">
 🌍 World’s Leading Destination 2025: Maldive
+</h3>
 <table>
   <tr>
     <td><img src="/images/1.png" width="250"></td>

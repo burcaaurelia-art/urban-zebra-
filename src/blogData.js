@@ -787,7 +787,11 @@ Dincolo de imaginea clasică a bungalow-urilor suspendate deasupra lagunelor tur
 – intimitate absolută și liniște  
 – un angajament tot mai puternic față de turismul sustenabil  
 
-Este destinația care întruchipează perfect ideea de „escape total”.
+Arta evadării perfecte
+
+Maldive își consolidează poziția de simbol absolut al luxului discret și al relaxării totale. Dincolo de imaginea iconică a vilelor suspendate deasupra apei, arhipelagul oferă un tip de experiență rară: liniște, intimitate și personalizare dusă la perfecțiune.
+
+Aici, fiecare detaliu este gândit pentru a crea senzația de „lumea mea, doar pentru mine”. Tot mai mult, Maldive devine și un exemplu de turism responsabil, demonstrând că luxul și sustenabilitatea pot coexista armonios.
 
 
 🇪🇺 Europe’s Leading Destination 2025: Portugalia
@@ -807,7 +811,11 @@ Succesul său se bazează pe:
 – litoral spectaculos în Algarve  
 – gastronomie excelentă și o atmosferă relaxată  
 
-Este una dintre puținele țări europene care funcționează impecabil atât pentru city break-uri, cât și pentru vacanțe la ocean sau turism cultural.
+Echilibrul perfect între energie și relaxare
+
+Portugalia este dovada că succesul durabil se construiește în timp. Cu orașe vibrante precum Lisabona și Porto, un litoral spectaculos în Algarve și o gastronomie care îmbină tradiția cu modernul, țara reușește să cucerească o varietate impresionantă de călători.
+
+Este genul de destinație care nu obosește, care se simte autentică și prietenoasă, indiferent dacă o descoperi pentru un city break sau o vacanță prelungită la ocean.
 
 
 🏛️ World’s Leading Cultural City 2025: Atena
@@ -827,7 +835,11 @@ Capitala Greciei îmbină armonios:
 – cartiere creative și moderne  
 – o scenă gastronomică contemporană  
 
-Atena nu mai este doar o oprire rapidă, ci o destinație urbană completă, care se savurează în tihnă.
+Istoria care trăiește în prezent
+
+Atena dovedește că trecutul nu este un muzeu, ci o sursă de inspirație vie. Capitala Greciei îmbină patrimoniul antic cu cartiere creative, rooftop-uri vibrante și o scenă gastronomică surprinzător de contemporană.
+
+Nu mai este doar o oprire obligatorie pe drumul spre insule, ci o destinație urbană completă, care se descoperă pas cu pas, cu răbdare și curiozitate.
 
 
 🏝️ World’s Leading Leisure Destination 2025: Dubai
@@ -839,9 +851,11 @@ Atena nu mai este doar o oprire rapidă, ci o destinație urbană completă, car
   </tr>
 </table>
 
-Dubai este desemnat World’s Leading Leisure Destination 2025, o recunoaștere a versatilității sale turistice impresionante.
+Spectacolul reinventat al vacanței moderne
 
-De la plaje spectaculoase și arhitectură futuristă, până la safari în deșert și gastronomie internațională, Dubai oferă o experiență completă, construită în jurul confortului, inovației și spectacolului.
+Dubai continuă să redefinească ideea de leisure. Plajă, oraș futurist, deșert, gastronomie internațională și divertisment la cel mai înalt nivel — toate coexistă într-un echilibru atent orchestrat.
+
+Este destinația unde confortul extrem întâlnește inovația, iar experiența este construită pentru a impresiona fără compromis.
 
 
 ⛷️ World’s Leading Ski Resort 2025: Val Thorens, Franța
@@ -861,7 +875,11 @@ Stațiunea este apreciată la nivel internațional pentru:
 – infrastructură modernă  
 – servicii premium  
 
-Este una dintre cele mai performante și apreciate destinații alpine din lume.
+Excelență la cea mai mare altitudine
+
+Pentru iubitorii sporturilor de iarnă, Val Thorens rămâne un reper absolut. Pârtiile spectaculoase, infrastructura modernă și serviciile premium transformă fiecare sezon într-o experiență completă.
+
+Este o destinație care vorbește despre performanță, eleganță și pasiune pentru munte.
 
 
 Ce ne spun World Travel Awards 2025 despre turismul actual

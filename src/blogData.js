@@ -1,4 +1,3 @@
-
 const blogPosts = [
   {
     id: 6,

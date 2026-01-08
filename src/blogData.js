@@ -1000,6 +1000,43 @@ Este o destinație care vorbește despre performanță, eleganță și pasiune p
 `
 },
 
+  {
+  id: 11,
+  title: "Top 10 orașe mediteraneene pe care trebuie să le vizitezi măcar o dată în viață",
+  date: "8 ianuarie 2026",
+  image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",
+  excerpt: "Există mări care încântă privirea și există mări care modelează civilizații…",
+  content: `
+<h2 style="margin:0 0 12px 0;">
+Top 10 orașe mediteraneene pe care trebuie să le vizitezi măcar o dată în viață
+</h2>
+
+<p>
+Există mări care încântă privirea și există mări care modelează civilizații.<br/>
+Marea Mediterană le-a făcut pe amândouă.
+</p>
+
+<p>
+De-a lungul țărmurilor ei s-au născut imperii, s-au spus primele povești ale lumii și s-a inventat arta de a trăi frumos.
+Orașele mediteraneene nu se grăbesc să impresioneze. Ele te așteaptă.
+</p>
+
+<p>
+Cu piatră veche încălzită de soare, cu miros de sare și cu seri care nu cer nimic, decât să le trăiești.
+</p>
+
+<hr style="border:none; border-top:1px solid #eee; margin:24px 0;" />
+
+<h3>🇪🇸 Barcelona</h3>
+<img src="/images/barcelona.png" width="100%" style="border-radius:12px; margin:12px 0;" />
+
+<p>
+Barcelona este exuberanță și libertate. Un oraș care respiră creativitate și refuză liniile drepte.
+Aici, marea intră firesc în viața orașului, iar orașul coboară zilnic pe plajă.
+Totul este mișcare, culoare și o bucurie aproape copilărească de a fi viu.
+</p>
+
+<hr style="border:none; border-top:1
 
 ];
 

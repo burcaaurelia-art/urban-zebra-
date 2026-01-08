@@ -1,3 +1,4 @@
+
 const blogPosts = [
   {
     id: 6,
@@ -1000,6 +1001,7 @@ Este o destinație care vorbește despre performanță, eleganță și pasiune p
 `
 },
 
- ];
+
+];
 
 export default blogPosts;

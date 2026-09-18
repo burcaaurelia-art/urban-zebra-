@@ -6,12 +6,17 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 border-b border-white/5 bg-black/80 backdrop-blur">
       <nav className="container flex items-center justify-between py-4">
         {/* Logo */}
-        <Link to="/" className="flex items-center gap-1">
-          <span className="text-2xl font-extrabold tracking-tight text-white">
-            Urban
+        <Link to="/" className="group flex flex-col items-start leading-none">
+          <span className="flex items-center gap-1">
+            <span className="text-2xl font-extrabold tracking-tight text-white">
+              Urban
+            </span>
+            <span className="text-2xl font-extrabold tracking-tight gold">
+              .Zebra
+            </span>
           </span>
-          <span className="text-2xl font-extrabold tracking-tight gold">
-            .Zebra
+          <span className="mt-1 whitespace-nowrap text-[9px] font-medium tracking-[0.14em] text-white/55 transition-colors group-hover:text-white/75 sm:text-[10px]">
+            Călătorește cu AD Travel
           </span>
         </Link>
 

@@ -5,10 +5,15 @@ import blogPosts from "../blogData";
 export default function BlogList() {
   return (
     <div className="container py-6">
-      <h1 className="text-4xl md:text-5xl font-extrabold text-center mb-10 tracking-tight">
-        <span className="text-white">Urban</span>
-        <span className="gold">.Zebra</span>
-      </h1>
+      <div className="mb-10 text-center">
+        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">
+          <span className="text-white">Urban</span>
+          <span className="gold">.Zebra</span>
+        </h1>
+        <p className="mt-2 text-[10px] sm:text-xs font-medium tracking-[0.18em] text-white/50">
+          Călătorește cu AD Travel
+        </p>
+      </div>
 
       <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
         {blogPosts.map((post) => {

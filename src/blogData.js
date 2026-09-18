@@ -1,5 +1,158 @@
 const blogPosts = [
   {
+    id: 14,
+    title: "Circuit, sejur sau croazieră? Cum alegi vacanța potrivită pentru tine",
+    date: "18 Septembrie 2026",
+    image: "/images/circuit-sejur-croaziera-2026.webp",
+    excerpt:
+      "Trei moduri diferite de a călători, fiecare cu farmecul său. Comparăm ritmul, confortul, costurile și experiențele ca să alegi mai ușor.",
+    content: `
+**Circuit, sejur sau croazieră? Cum alegi vacanța potrivită pentru tine ✈️**
+
+Unii călători vor să descopere cât mai multe locuri, alții visează la șapte zile fără program, iar pentru unii vacanța ideală înseamnă să se trezească în fiecare dimineață într-un port nou.
+
+**Circuitul, sejurul și croaziera sunt trei experiențe foarte diferite.** Nu există o variantă perfectă pentru toată lumea, dar există una mai potrivită pentru ritmul, bugetul și așteptările tale.
+
+Hai să le comparăm sincer, cu avantaje și dezavantaje.
+
+
+**1. Circuitul – pentru cei care vor să vadă cât mai mult**
+
+Un circuit înseamnă un traseu organizat prin mai multe orașe sau regiuni. De obicei, transportul, cazările și programul principal sunt stabilite înainte de plecare, iar grupul este însoțit de ghid.
+
+Într-o singură vacanță poți descoperi mai multe destinații, fără să te ocupi personal de fiecare transfer și rezervare.
+
+**Avantaje:**
+
+- vezi multe locuri într-un timp relativ scurt;
+- traseul și partea logistică sunt deja organizate;
+- ai ghid și primești explicații despre locurile vizitate;
+- costurile principale sunt mai ușor de anticipat;
+- este potrivit dacă nu vrei să conduci sau să planifici singur.
+
+**Dezavantaje:**
+
+- programul poate începe devreme și poate fi solicitant;
+- timpul liber este uneori limitat;
+- schimbi hotelul și desfaci bagajele de mai multe ori;
+- trebuie să respecți ritmul și orele grupului;
+- unele excursii sau intrări pot avea cost separat.
+
+**Ți se potrivește dacă:** ești curios, activ, îți place istoria și vrei să descoperi mai multe locuri fără să organizezi fiecare detaliu.
+
+
+**2. Sejurul – pentru relaxare și libertate**
+
+Sejurul clasic înseamnă să rămâi mai multe nopți în aceeași cazare. Poate fi o vacanță la mare, într-un resort all inclusive, pe o insulă, la munte sau într-un oraș pe care vrei să-l descoperi în ritmul tău.
+
+Este varianta cu cel mai mult spațiu pentru odihnă și spontaneitate.
+
+**Avantaje:**
+
+- nu schimbi cazarea și nu refaci bagajele;
+- îți stabilești singur programul;
+- ai timp pentru plajă, piscină și odihnă;
+- este mai comod pentru familiile cu copii;
+- poți adăuga excursii opționale doar în zilele în care dorești.
+
+**Dezavantaje:**
+
+- descoperi, de regulă, o zonă mai restrânsă;
+- dacă alegi un resort izolat, poți vedea foarte puțin din destinație;
+- vremea nefavorabilă poate influența mai mult vacanța;
+- serviciile și mesele depind mult de hotelul ales.
+
+**Ți se potrivește dacă:** ai nevoie de odihnă, călătorești cu un copil, preferi flexibilitatea sau îți place să descoperi o destinație fără grabă.
+
+
+**3. Croaziera – mai multe destinații, fără să schimbi camera**
+
+Croaziera combină într-un mod interesant circuitul cu sejurul: vizitezi mai multe porturi, dar dormi în aceeași cabină. În zilele de navigație te bucuri de facilitățile vasului, iar în zilele de escală poți explora destinația pe cont propriu sau prin excursii organizate.
+
+**Avantaje:**
+
+- vezi mai multe destinații fără să schimbi hotelul;
+- mesele principale sunt, de regulă, incluse în tariful de bază;
+- vasul oferă spectacole, piscine și activități;
+- există opțiuni pentru familii, cupluri și grupuri de prieteni;
+- te trezești aproape în fiecare zi într-un loc nou.
+
+**Dezavantaje:**
+
+- timpul petrecut în port poate fi limitat;
+- băuturile, excursiile, taxele de serviciu și alte servicii pot costa separat;
+- cabinele interioare sunt mai mici și nu au fereastră;
+- trebuie să revii la vas la ora stabilită;
+- persoanele sensibile la mișcare pot resimți răul de mare.
+
+**Ți se potrivește dacă:** vrei varietate, dar nu vrei să schimbi cazarea; îți plac activitățile și atmosfera de resort, însă vrei să descoperi și mai multe destinații.
+
+
+**Comparația pe scurt**
+
+**Alege circuitul dacă:**
+
+- vrei să vezi cât mai mult;
+- nu te deranjează un program bine stabilit;
+- preferi să ai transportul și traseul organizate;
+- te întorci din vacanță fericit chiar dacă ai nevoie de încă o zi de odihnă.
+
+**Alege sejurul dacă:**
+
+- vrei să te odihnești;
+- călătorești cu copii sau preferi un ritm lent;
+- îți place libertatea de a decide în fiecare dimineață ce faci;
+- vrei să cunoști mai bine o singură destinație.
+
+**Alege croaziera dacă:**
+
+- vrei să combini relaxarea cu descoperirea;
+- îți place să ai multe activități la îndemână;
+- vrei mai multe opriri, dar aceeași cameră;
+- accepți că timpul în fiecare port este limitat.
+
+
+**Dar care variantă este mai ieftină?**
+
+Nu se poate spune corect că una este întotdeauna cea mai ieftină. Prețul depinde de perioadă, destinație, transport, categoria hotelului sau a cabinei și de serviciile incluse.
+
+La comparație trebuie să adaugi toate costurile reale:
+
+- la **circuit**: excursiile opționale, intrările, mesele neincluse și eventualele taxe locale;
+- la **sejur**: mesele, transferurile și excursiile, dacă pachetul nu le include;
+- la **croazieră**: transportul până la port, taxele de serviciu, băuturile, internetul și excursiile la țărm.
+
+O ofertă aparent mai ieftină nu este neapărat cea mai avantajoasă după adăugarea tuturor costurilor.
+
+
+**Mini-test: ce tip de vacanță ți se potrivește?**
+
+Răspunde spontan:
+
+1. Vrei să vezi cinci orașe sau să cunoști bine unul singur?
+2. Te relaxează un program organizat sau preferi să hotărăști pe loc?
+3. Îți place să schimbi peisajul în fiecare zi?
+4. Călătorești cu un copil care are nevoie de pauze și rutină?
+5. Preferi diminețile liniștite sau plecările devreme spre următorul obiectiv?
+
+Dacă ai ales mai ales **varietate și program**, ți se potrivește circuitul. Dacă ai ales **odihnă și libertate**, mergi spre sejur. Dacă vrei **varietate, dar fără mutarea bagajelor**, croaziera poate fi echilibrul potrivit.
+
+
+**Concluzie**
+
+Circuitul îți oferă povești și multe locuri. Sejurul îți oferă timp. Croaziera îți oferă schimbarea peisajului fără să-ți schimbi camera.
+
+Înainte să alegi, întreabă-te nu doar „unde vreau să merg?”, ci și **„cum vreau să mă simt în această vacanță?”**. Răspunsul te va conduce, de cele mai multe ori, către varianta potrivită.
+
+✨ **Nu știi ce să alegi?**
+
+Spune-ne perioada, bugetul, cine călătorește și ce îți dorești de la vacanță. Echipa AD Travel îți poate compara variante de circuit, sejur și croazieră, astfel încât să alegi informat. Completează formularul **„Cere ofertă”**, iar noi pregătim propunerile potrivite pentru tine.
+
+*Serviciile incluse diferă în funcție de organizator, pachet, compania de croazieră și tariful ales. Verifică întotdeauna condițiile exacte ale ofertei înainte de rezervare.*
+    `
+  },
+
+  {
     id: 13,
     title: "Energylandia: parcul din Polonia unde distracția este pentru toată familia",
     date: "18 Septembrie 2026",

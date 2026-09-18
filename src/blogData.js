@@ -1,5 +1,53 @@
 const blogPosts = [
   {
+    id: 11,
+    title: "Cele mai bune hoteluri din lume în 2026: cine a ocupat primul loc?",
+    date: "18 Septembrie 2026",
+    image: "/images/hoteluri-premiate-2026.svg",
+    excerpt:
+      "Rosewood Hong Kong conduce clasamentul The World’s 50 Best Hotels 2026. Descoperă primele cinci hoteluri și diferența dintre marile premii internaționale.",
+    content: `
+Pe 15 septembrie 2026, la Paris, a fost prezentat clasamentul **The World’s 50 Best Hotels 2026**, unul dintre cele mai urmărite topuri internaționale dedicate ospitalității de lux.
+
+Marele câștigător este **Rosewood Hong Kong**, desemnat cel mai bun hotel din lume. Clasamentul este realizat pe baza voturilor unei academii internaționale formate din specialiști în industria hotelieră și călători cu experiență.
+
+**Top 5 hoteluri din lume în 2026**
+
+**1. Rosewood Hong Kong – Hong Kong**  
+Un hotel urban spectaculos, apreciat pentru serviciile foarte personalizate, design și priveliștea asupra Victoria Harbour.
+
+**2. Capella Bangkok – Thailanda**  
+Situat pe malul râului Chao Phraya, combină liniștea unui resort cu accesul la energia capitalei thailandeze.
+
+**3. Four Seasons Bangkok at Chao Phraya River – Thailanda**  
+Un hotel contemporan cu spații generoase, gastronomie apreciată și o poziție privilegiată pe malul râului.
+
+**4. Atlantis The Royal – Dubai**  
+Un resort devenit deja emblematic pentru Dubai, cunoscut pentru arhitectură, restaurante și experiențele sale extravagante. În cadrul aceluiași clasament a primit și distincția **Best Beach Hotel 2026**.
+
+**5. Passalacqua – Lacul Como, Italia**  
+O vilă istorică transformată într-un hotel intim, premiată și drept **Best Boutique Hotel 2026**.
+
+**Alte premii importante ale ediției**
+
+- **Best New Hotel:** Patina Osaka, Japonia  
+- **Eco Hotel Award:** Chablé Yucatán, Mexic  
+- **Art of Design Award:** Hôtel du Couvent, Nisa  
+- **Highest New Entry:** Casa Maria Luigia, Modena
+
+**De ce apar câștigători diferiți în diverse clasamente?**
+
+Nu există un singur premiu universal pentru hoteluri. **The World’s 50 Best Hotels** se bazează pe voturile profesioniștilor din industria ospitalității. **Tripadvisor Travelers’ Choice** reflectă în principal recenziile și evaluările turiștilor, iar **TUI Global Hotel Awards** folosește satisfacția clienților TUI. **World Travel Awards** premiază hoteluri și companii pe regiuni și categorii, iar rezultatele europene pentru 2026 vor fi anunțate pe 17 octombrie.
+
+De aceea, un hotel poate fi primul într-un clasament și să nu apară pe aceeași poziție în altul. Pentru alegerea unei vacanțe contează mai mult dacă hotelul se potrivește nevoilor tale: familie sau adults only, plajă, intrare în mare, servicii, masă și buget.
+
+**Surse oficiale:**  
+<a href="https://www.the50.com/hotels/best-in-the-world/list/1-50" target="_blank" rel="noopener noreferrer">The 50 Best Hotels – clasamentul 2026</a>  
+<a href="https://www.worldtravelawards.com/" target="_blank" rel="noopener noreferrer">World Travel Awards</a>
+    `,
+  },
+
+  {
     id: 6,
     title:
       "Știai că poți călători GRATUIT prin Europa la 18 ani? Totul despre DiscoverEU 🚆🌍",
@@ -355,7 +403,7 @@ Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷�
     id: 4,
     title: "Top 10 resorturi de lux din Creta în 2025",
     date: "23 Octombrie 2025",
-    image: "/images/creta.jpg",
+    image: "/images/creta.webp",
     excerpt:
       "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
     content: `
@@ -638,7 +686,7 @@ Dacă vrei să ieși din tiparul city-break-urilor clasice și să descoperi Eur
   id: 8,
   title: "Trenul panoramic din Norvegia care te duce în inima aurorei boreale",
   date: "10 Decembrie 2025",
-  image: "/images/2e60b855-9526-423c-959a-abbaf45dde4d.png",
+    image: "/images/2e60b855-9526-423c-959a-abbaf45dde4d.webp",
   excerpt: "O experiență magică pe care să o treci pe lista de călătorii. Trenul panoramic din Norvegia care te duce în inima aurorei boreale.",
   content: `
 Aurora boreală este unul dintre acele fenomene care transformă cerul într-o operă de artă vie.  
@@ -721,7 +769,7 @@ E genul de experiență pe care nu o uiți niciodată.
   id: 9,
   title: "Știați că Istanbulul este unul dintre cele mai prietenoase orașe din lume pentru animalele străzii?",
   date: "17 Decembrie 2025",
-  image: "/images/0cc52512-5cbe-4ec1-9312-3e47ac2ba346.jpg",
+    image: "/images/0cc52512-5cbe-4ec1-9312-3e47ac2ba346.webp",
   excerpt: "Istanbulul este celebru nu doar pentru istoria sa fascinantă și pentru poziția sa între două continente, ci și pentru relația specială dintre locuitori și animalele străzii, în special pisici și câini.",
   content: `
 Știați că Istanbulul este unul dintre cele mai prietenoase orașe din lume pentru animalele străzii?
@@ -757,7 +805,7 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   id: 10,
   title: "World Travel Awards 2025",
   date: "18 Decembrie 2025",
-  image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",
+    image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.webp",
   excerpt: "World Travel Awards 2025 – Oscarurile turismului mondial",
   content: `
 <h2 style="margin:0 0 10px 0;">World Travel Awards 2025: destinațiile care definesc turismul contemporan</h2>
@@ -783,9 +831,9 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
 </h3>
 <table>
   <tr>
-    <td><img src="/images/1.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/2.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/3.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/1.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/2.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/3.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
   </tr>
 </table>
 
@@ -812,9 +860,9 @@ Aici, fiecare detaliu este gândit pentru a crea senzația de „lumea mea, doar
 </h3>
 <table>
   <tr>
-    <td><img src="/images/4.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/5.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/6.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/4.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/5.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/6.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
   </tr>
 </table>
 
@@ -841,9 +889,9 @@ Este genul de destinație care nu obosește, care se simte autentică și priete
 </h3>
 <table>
   <tr>
-    <td><img src="/images/7.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/8.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/9.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/7.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/8.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/9.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
   </tr>
 </table>
 
@@ -870,9 +918,9 @@ Nu mai este doar o oprire obligatorie pe drumul spre insule, ci o destinație ur
 </h3>
 <table>
   <tr>
-    <td><img src="/images/10.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/11.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/12.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/10.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/11.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/12.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
   </tr>
 </table>
 
@@ -891,9 +939,9 @@ Este destinația unde confortul extrem întâlnește inovația, iar experiența 
 </h3>
 <table>
   <tr>
-    <td><img src="/images/13.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/14.png" width="250" style="border-radius:12px;"></td>
-    <td><img src="/images/15.png" width="250" style="border-radius:12px;"></td>
+    <td><img src="/images/13.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/14.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
+    <td><img src="/images/15.webp" width="250" loading="lazy" alt="Hotel premiat în 2025" style="border-radius:12px;"></td>
   </tr>
 </table>
 

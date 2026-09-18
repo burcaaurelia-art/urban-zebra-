@@ -1,5 +1,106 @@
 const blogPosts = [
   {
+    id: 13,
+    title: "Energylandia: parcul din Polonia unde distracția este pentru toată familia",
+    date: "18 Septembrie 2026",
+    image: "/images/energylandia-familie-2026.webp",
+    excerpt:
+      "Roller coastere spectaculoase, atracții pentru copii și un parc acvatic: ghidul practic pentru o escapadă în familie la Energylandia.",
+    content: `
+**Energylandia: parcul din Polonia unde distracția este pentru toată familia 🎢**
+
+La Zator, între Cracovia și Katowice, se află una dintre cele mai atractive destinații europene pentru familii: **Energylandia**. Nu este doar un parc pentru adolescenți curajoși și amatorii de adrenalină. Are zone pentru copiii mici, atracții pe care le poate încerca întreaga familie, spectacole și un parc acvatic în aer liber.
+
+Pentru că parcul este foarte întins, merită să pleci cu un plan. Iată ce trebuie să știi înainte de prima vizită.
+
+
+**Ce găsești la Energylandia?**
+
+Parcul este împărțit în mai multe zone tematice, fiecare cu altă atmosferă:
+
+- **Little Kids Zone** – carusele și atracții blânde pentru cei mici;
+- **Family Zone** – distracție pe care părinții și copiii o pot trăi împreună;
+- **Extreme Zone** – pentru cei care caută viteză și adrenalină;
+- **Water Park** – piscine și tobogane, perfecte în zilele călduroase;
+- **Dragon Zone** – decor medieval și una dintre atracțiile-emblemă ale parcului, Zadra;
+- **Aqualantis** – o lume inspirată de legendele orașului scufundat;
+- **Sweet Valley** – o zonă veselă și colorată, gândită în special pentru familii.
+
+Înainte de a sta la coadă, verifică limita de înălțime afișată la fiecare atracție. La Energylandia, accesul este stabilit în primul rând după înălțime, nu doar după vârstă.
+
+
+**Atracțiile vedetă pentru iubitorii de adrenalină**
+
+🎢 **Hyperion** este alegerea celor care vor senzații puternice: are 77 de metri înălțime și poate ajunge la 142 km/h. Accesul este permis persoanelor cu înălțimea cuprinsă între 140 și 195 cm.
+
+🎢 **Zadra** combină o structură din lemn cu șine din oțel. Are aproximativ 63 de metri înălțime, o coborâre la 90° și atinge 121 km/h. Înălțimea minimă este de 140 cm.
+
+🌊 **Abyssus**, în Aqualantis, este un roller coaster cu lansare, curbe rapide și inversiuni. Pentru familiile cu copii mai mari poate deveni una dintre experiențele preferate ale zilei.
+
+Copiii care nu ating încă limitele pentru atracțiile extreme nu rămân pe margine: parcul are numeroase montagne russe de familie, atracții pe apă, carusele și zone tematice potrivite lor.
+
+
+**Ajunge o singură zi?**
+
+Pentru o primă vizită se poate alege o singură zi, dar va trebui să selectați atracțiile prioritare. Dacă vreți și roller coastere, și zonele pentru copii, și Water Park, **două zile sunt varianta mai relaxată**.
+
+Un plan simplu ar putea fi:
+
+- **Ziua 1:** Family Zone, Sweet Valley, Dragon Zone și atracțiile extreme;
+- **Ziua 2:** Aqualantis, atracțiile rămase și Water Park, dacă vremea permite.
+
+
+**Cât costă biletele?**
+
+La data publicării acestui articol, tarifele online afișate de parc sunt:
+
+- bilet standard pentru o zi, de la 140 cm: **229 zł**;
+- bilet redus pentru o zi, până la 140 cm sau pentru persoane peste 65 de ani: **189 zł**;
+- bilet standard pentru două zile: **419 zł**;
+- bilet redus pentru două zile: **349 zł**;
+- copii de până la 3 ani: **1 zł**.
+
+Există și o ofertă simpatică pentru aniversare: copiii și tinerii de până la 18 ani pot intra cu **1 zł chiar de ziua lor**, pe baza unui document care confirmă data nașterii. Biletul aniversar se eliberează la casa parcului.
+
+Tarifele, promoțiile și zilele de funcționare se pot modifica. Verifică întotdeauna [site-ul oficial Energylandia](https://energylandia.pl/en/) și [calendarul parcului](https://energylandia.pl/en/calendar/) înainte de plecare.
+
+
+**Cum ajungi și unde te cazezi?**
+
+Energylandia se află în **Zator, în sudul Poloniei**, între Cracovia și Katowice. Pentru o familie care vine din România, mașina oferă cea mai mare libertate, mai ales dacă se aleg două zile în parc și o cazare în apropiere.
+
+O altă variantă este zborul spre Cracovia sau Katowice, urmat de transfer, tren ori mașină închiriată. Pe site-ul parcului există o secțiune actualizată cu variantele de acces.
+
+În zonă se găsesc hoteluri, pensiuni și apartamente, dar și cazări tematice. În perioadele de vacanță este bine să fie rezervate din timp.
+
+
+**Sfaturi care chiar fac diferența**
+
+- Ajungeți înainte de deschidere, pentru controlul biletelor și orientare.
+- Descărcați aplicația Energylandia și consultați harta parcului.
+- Stabiliți de acasă cinci atracții pe care nu vreți să le ratați.
+- Verificați înălțimea copilului înainte de plecare, pentru a evita dezamăgirile.
+- Luați încălțăminte comodă: într-o zi se merge foarte mult.
+- Pentru Water Park puneți în bagaj costume de baie, prosoape și protecție solară.
+- Păstrați haine de schimb și o jachetă subțire, deoarece vremea poate fi schimbătoare.
+- Pentru familii, două zile sunt mai puțin obositoare decât încercarea de a vedea totul într-o singură zi.
+
+
+**Merită Energylandia pentru o familie?**
+
+Da, mai ales dacă membrii familiei au preferințe diferite. Cei curajoși au roller coastere spectaculoase, copiii găsesc zone create pentru ei, iar în zilele călduroase Water Park adaugă o vacanță în vacanță.
+
+Secretul este să nu încercați să bifați tot. Alegeți atracțiile importante pentru familia voastră și lăsați loc și pentru pauze, fotografii și puțină spontaneitate.
+
+✨ **Vrei să transformi vizita la Energylandia într-o escapadă completă în Polonia?**
+
+AD Travel te poate ajuta cu transportul, cazarea și un program adaptat familiei tale. Completează formularul **„Cere ofertă”**, iar noi pregătim o variantă potrivită perioadei și bugetului tău.
+
+*Informațiile și tarifele au fost verificate la 18 septembrie 2026. Programul, prețurile, promoțiile și regulile de acces se pot modifica.*
+    `
+  },
+
+  {
     id: 12,
     title: "TopHotel Awards 2026: cine a câștigat Gold în ospitalitatea din România",
     date: "18 Septembrie 2026",

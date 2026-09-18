@@ -17,6 +17,8 @@ Casa Timiș a câștigat Gold la **Best Green & Eco-friendly Location**, **Best 
 
 <figure><img src="/images/tophotel-2026-casa-timis.jpg" alt="Casa Timiș Wellness & Spa Resort"/><figcaption>Casa Timiș Wellness & Spa Resort. Sursa foto: Booking.com</figcaption></figure>
 
+<figure><img src="/images/tophotel-2026-casa-timis-restaurant.jpg" alt="Restaurantul Casa Timiș Wellness & Spa Resort"/><figcaption>Restaurant, Casa Timiș Wellness & Spa Resort. Sursa foto: Booking.com</figcaption></figure>
+
 **ISSA Resort – una dintre revelațiile ediției**
 
 ISSA Resort a primit Gold pentru **Most Instagrammable Location**, **Hotel Opening of the Year** și **Best Hotel Architecture Concept**. Proiectul ecvestru „Rememorable Horse Shows” a obținut și premiul Gold la **Best Initiative for Supporting Local Tourism**. Este una dintre proprietățile care au dominat ediția 2026 prin concept, design și experiențele oferite.
@@ -25,9 +27,9 @@ ISSA Resort a primit Gold pentru **Most Instagrammable Location**, **Hotel Openi
 
 **Vibre Hotel – cel mai bun hotel independent de 5 stele**
 
-Vibre Hotel a primit Gold la categoria **Hotel of the Year – Independent Hotel, 5 stars**. Hotelul din Timișoara se remarcă prin designul contemporan, atmosfera intimă și spațiile gastronomice cu vedere asupra orașului.
+Vibre Hotel a primit Gold la categoria **Hotel of the Year – Independent Hotel, 5 stars**. Hotelul din Cluj-Napoca se remarcă prin designul contemporan, atmosfera intimă și spațiile gastronomice cu vedere asupra orașului.
 
-<figure><img src="/images/tophotel-2026-vibre-hotel.jpg" alt="Vibre Hotel Timișoara"/><figcaption>Vibre Hotel, Timișoara. Sursa foto: Booking.com</figcaption></figure>
+<figure><img src="/images/tophotel-2026-vibre-hotel.jpg" alt="Vibre Hotel Cluj-Napoca"/><figcaption>Vibre Hotel, Cluj-Napoca. Sursa foto: Booking.com</figcaption></figure>
 
 **Crowne Plaza Constanța–Mamaia Beach – Gold pe litoral**
 
@@ -44,8 +46,6 @@ Swissôtel Poiana Brașov a câștigat Gold la **Mountain Leisure Hotel of the Y
 **Corinthia Grand Hotel du Boulevard – Gold în categoria boutique luxury**
 
 Corinthia Grand Hotel du Boulevard a fost desemnat câștigător Gold la **Boutique (Luxury) Hotel of the Year**. Clădirea istorică din centrul Bucureștiului a revenit în circuitul hotelier într-o formulă care pune în valoare patrimoniul, eleganța clasică și serviciile de lux.
-
-<figure><img src="/images/tophotel-2026-corinthia-bucuresti.jpg" alt="Corinthia Grand Hotel du Boulevard"/><figcaption>Corinthia Grand Hotel du Boulevard, București. Sursa foto: Booking.com</figcaption></figure>
 
 **InterContinental Athénée Palace – liderul lanțurilor internaționale de 5 stele**
 

@@ -1,5 +1,75 @@
 const blogPosts = [
   {
+    id: 12,
+    title: "TopHotel Awards 2026: cine a câștigat Gold în ospitalitatea din România",
+    date: "18 Septembrie 2026",
+    image: "/images/tophotel-2026-casa-timis.jpg",
+    excerpt:
+      "De la resorturi în mijlocul naturii la hoteluri urbane de cinci stele: șapte dintre marii câștigători Gold ai TopHotel Awards 2026.",
+    content: `
+Pe 26 mai 2026, la JW Marriott Bucharest Grand Hotel, **TopHotel Awards** a premiat performanța din turismul și ospitalitatea românească. Lista oficială cuprinde hoteluri, resorturi, restaurante, spa-uri, pensiuni și profesioniști ai industriei, împărțiți în numeroase categorii.
+
+Am selectat șapte proprietăți care au obținut **Gold Award** și care arată cât de variată a devenit oferta hotelieră din România: de la experiențe în natură și destinații montane până la hoteluri istorice și retreat-uri urbane.
+
+**Casa Timiș Wellness & Spa Resort – trei distincții Gold**
+
+Casa Timiș a câștigat Gold la **Best Green & Eco-friendly Location**, **Best Wedding Destination** și **Best Resort**. Amplasarea printre vii, arhitectura integrată în peisaj și componenta de wellness transformă proprietatea într-o destinație în sine, nu doar într-un loc de cazare.
+
+<figure><img src="/images/tophotel-2026-casa-timis.jpg" alt="Casa Timiș Wellness & Spa Resort"/><figcaption>Casa Timiș Wellness & Spa Resort. Sursa foto: Booking.com</figcaption></figure>
+
+**ISSA Resort – una dintre revelațiile ediției**
+
+ISSA Resort a primit Gold pentru **Most Instagrammable Location**, **Hotel Opening of the Year** și **Best Hotel Architecture Concept**. Proiectul ecvestru „Rememorable Horse Shows” a obținut și premiul Gold la **Best Initiative for Supporting Local Tourism**. Este una dintre proprietățile care au dominat ediția 2026 prin concept, design și experiențele oferite.
+
+<figure><img src="/images/tophotel-2026-issa-resort.jpg" alt="ISSA Resort"/><figcaption>ISSA Resort. Sursa foto: Booking.com</figcaption></figure>
+
+**Vibre Hotel – cel mai bun hotel independent de 5 stele**
+
+Vibre Hotel a primit Gold la categoria **Hotel of the Year – Independent Hotel, 5 stars**. Hotelul din Timișoara se remarcă prin designul contemporan, atmosfera intimă și spațiile gastronomice cu vedere asupra orașului.
+
+<figure><img src="/images/tophotel-2026-vibre-hotel.jpg" alt="Vibre Hotel Timișoara"/><figcaption>Vibre Hotel, Timișoara. Sursa foto: Booking.com</figcaption></figure>
+
+**Crowne Plaza Constanța–Mamaia Beach – Gold pe litoral**
+
+La categoria **Seaside Leisure Hotel of the Year**, premiul Gold a revenit Crowne Plaza Constanța–Mamaia Beach. Proprietatea aduce pe litoralul românesc standardele unui brand hotelier internațional și o poziționare orientată spre vacanțe premium la Marea Neagră.
+
+<figure><img src="/images/tophotel-2026-crowne-plaza-mamaia.jpg" alt="Crowne Plaza Constanța Mamaia Beach"/><figcaption>Crowne Plaza Constanța–Mamaia Beach. Sursa foto: Booking.com</figcaption></figure>
+
+**Swissôtel Poiana Brașov – Gold pentru vacanțele la munte**
+
+Swissôtel Poiana Brașov a câștigat Gold la **Mountain Leisure Hotel of the Year**. Hotelul combină accesul la natură cu facilități wellness și servicii specifice segmentului premium, fiind potrivit atât pentru sezonul de schi, cât și pentru escapadele montane din restul anului.
+
+<figure><img src="/images/tophotel-2026-swissotel-poiana-brasov.jpg" alt="Swissôtel Poiana Brașov"/><figcaption>Swissôtel Poiana Brașov. Sursa foto: Booking.com</figcaption></figure>
+
+**Corinthia Grand Hotel du Boulevard – Gold în categoria boutique luxury**
+
+Corinthia Grand Hotel du Boulevard a fost desemnat câștigător Gold la **Boutique (Luxury) Hotel of the Year**. Clădirea istorică din centrul Bucureștiului a revenit în circuitul hotelier într-o formulă care pune în valoare patrimoniul, eleganța clasică și serviciile de lux.
+
+<figure><img src="/images/tophotel-2026-corinthia-bucuresti.jpg" alt="Corinthia Grand Hotel du Boulevard"/><figcaption>Corinthia Grand Hotel du Boulevard, București. Sursa foto: Booking.com</figcaption></figure>
+
+**InterContinental Athénée Palace – liderul lanțurilor internaționale de 5 stele**
+
+InterContinental Athénée Palace Bucharest a obținut Gold la **Hotel of the Year – International Hotel Chain, 5 stars**. Hotelul rămâne un reper al Bucureștiului, atât prin istoria și poziția sa centrală, cât și prin actualizarea experienței hoteliere sub brandul InterContinental.
+
+<figure><img src="/images/tophotel-2026-intercontinental-athenee.jpg" alt="InterContinental Athénée Palace Bucharest"/><figcaption>InterContinental Athénée Palace Bucharest. Sursa foto: Booking.com</figcaption></figure>
+
+**Alți câștigători Gold care merită menționați**
+
+- **Hotel Jelna Resort & SPA** – Best Winery Accommodation  
+- **La Hambar, Singureni Manor Equestrian Retreat** – Best Culinary Experience  
+- **Grand Santerra SPA, Balvanyos Resort** – Best SPA Experience in a Hotel  
+- **Qosmo Brașov Hotel** – Hotel of the Year, Independent Hotel, 4 stars  
+- **Crowne Plaza Bucharest** – Hotel of the Year, International Hotel Chain, 4 stars  
+- **Alma Health & Spa Retreat** – Hotel of the Year for Balneary Tourism
+
+TopHotel Awards 2026 arată că ospitalitatea din România nu mai poate fi rezumată la câteva hoteluri cunoscute. Există proiecte foarte diferite, cu identitate proprie, care investesc în design, gastronomie, wellness, sustenabilitate și experiențe locale.
+
+**Sursa informațiilor:** <a href="https://www.tophotelawards.ro/castigatori-2026/#up" target="_blank" rel="noopener noreferrer">lista oficială TopHotel Awards – Câștigători 2026</a>  
+**Sursa fotografiilor:** Booking.com. Fotografiile au fost furnizate pentru ilustrarea articolului.
+    `,
+  },
+
+  {
     id: 11,
     title: "Cele mai bune hoteluri din lume în 2026: cine a ocupat primul loc?",
     date: "18 Septembrie 2026",

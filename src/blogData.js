@@ -70,54 +70,6 @@ TopHotel Awards 2026 arată că ospitalitatea din România nu mai poate fi rezum
   },
 
   {
-    id: 11,
-    title: "Cele mai bune hoteluri din lume în 2026: cine a ocupat primul loc?",
-    date: "18 Septembrie 2026",
-    image: "/images/hoteluri-premiate-2026.svg",
-    excerpt:
-      "Rosewood Hong Kong conduce clasamentul The World’s 50 Best Hotels 2026. Descoperă primele cinci hoteluri și diferența dintre marile premii internaționale.",
-    content: `
-Pe 15 septembrie 2026, la Paris, a fost prezentat clasamentul **The World’s 50 Best Hotels 2026**, unul dintre cele mai urmărite topuri internaționale dedicate ospitalității de lux.
-
-Marele câștigător este **Rosewood Hong Kong**, desemnat cel mai bun hotel din lume. Clasamentul este realizat pe baza voturilor unei academii internaționale formate din specialiști în industria hotelieră și călători cu experiență.
-
-**Top 5 hoteluri din lume în 2026**
-
-**1. Rosewood Hong Kong – Hong Kong**  
-Un hotel urban spectaculos, apreciat pentru serviciile foarte personalizate, design și priveliștea asupra Victoria Harbour.
-
-**2. Capella Bangkok – Thailanda**  
-Situat pe malul râului Chao Phraya, combină liniștea unui resort cu accesul la energia capitalei thailandeze.
-
-**3. Four Seasons Bangkok at Chao Phraya River – Thailanda**  
-Un hotel contemporan cu spații generoase, gastronomie apreciată și o poziție privilegiată pe malul râului.
-
-**4. Atlantis The Royal – Dubai**  
-Un resort devenit deja emblematic pentru Dubai, cunoscut pentru arhitectură, restaurante și experiențele sale extravagante. În cadrul aceluiași clasament a primit și distincția **Best Beach Hotel 2026**.
-
-**5. Passalacqua – Lacul Como, Italia**  
-O vilă istorică transformată într-un hotel intim, premiată și drept **Best Boutique Hotel 2026**.
-
-**Alte premii importante ale ediției**
-
-- **Best New Hotel:** Patina Osaka, Japonia  
-- **Eco Hotel Award:** Chablé Yucatán, Mexic  
-- **Art of Design Award:** Hôtel du Couvent, Nisa  
-- **Highest New Entry:** Casa Maria Luigia, Modena
-
-**De ce apar câștigători diferiți în diverse clasamente?**
-
-Nu există un singur premiu universal pentru hoteluri. **The World’s 50 Best Hotels** se bazează pe voturile profesioniștilor din industria ospitalității. **Tripadvisor Travelers’ Choice** reflectă în principal recenziile și evaluările turiștilor, iar **TUI Global Hotel Awards** folosește satisfacția clienților TUI. **World Travel Awards** premiază hoteluri și companii pe regiuni și categorii, iar rezultatele europene pentru 2026 vor fi anunțate pe 17 octombrie.
-
-De aceea, un hotel poate fi primul într-un clasament și să nu apară pe aceeași poziție în altul. Pentru alegerea unei vacanțe contează mai mult dacă hotelul se potrivește nevoilor tale: familie sau adults only, plajă, intrare în mare, servicii, masă și buget.
-
-**Surse oficiale:**  
-<a href="https://www.the50.com/hotels/best-in-the-world/list/1-50" target="_blank" rel="noopener noreferrer">The 50 Best Hotels – clasamentul 2026</a>  
-<a href="https://www.worldtravelawards.com/" target="_blank" rel="noopener noreferrer">World Travel Awards</a>
-    `,
-  },
-
-  {
     id: 6,
     title:
       "Știai că poți călători GRATUIT prin Europa la 18 ani? Totul despre DiscoverEU 🚆🌍",

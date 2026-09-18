@@ -14,11 +14,14 @@ export default function CereOferta() {
     intoarcere: "",
     buget: "",
     detalii: "",
+    website: "",
     gdpr: false,
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [status, setStatus] = useState("");
+  const [statusType, setStatusType] = useState("");
+  const today = new Date().toISOString().slice(0, 10);
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
@@ -33,11 +36,19 @@ export default function CereOferta() {
 
     if (!formData.gdpr) {
       setStatus("Te rog să accepți GDPR înainte de a trimite formularul.");
+      setStatusType("error");
+      return;
+    }
+
+    if (formData.plecare && formData.intoarcere && formData.intoarcere < formData.plecare) {
+      setStatus("Data întoarcerii trebuie să fie după data plecării.");
+      setStatusType("error");
       return;
     }
 
     setIsSubmitting(true);
     setStatus("");
+    setStatusType("");
 
     // combinăm plecare + întoarcere într-un singur text pentru email
     let perioadaText = "";
@@ -73,21 +84,26 @@ export default function CereOferta() {
       date: perioadaText,
       budget: formData.buget,
       message: customMessage,
+      website: formData.website,
     };
 
     try {
-      const res = await fetch("/api/CereOferta", {
+      const res = await fetch("/api/trimite", {
         method: "POST",
+        cache: "no-store",
+        credentials: "same-origin",
         headers: {
           "Content-Type": "application/json",
+          Accept: "application/json",
         },
         body: JSON.stringify(payload),
       });
 
-      const data = await res.json();
+      const data = await res.json().catch(() => ({}));
 
       if (res.ok && data.success) {
         setStatus("Cererea a fost trimisă cu succes! 🎉");
+        setStatusType("success");
         setFormData({
           name: "",
           email: "",
@@ -101,16 +117,19 @@ export default function CereOferta() {
           intoarcere: "",
           buget: "",
           detalii: "",
+          website: "",
           gdpr: false,
         });
       } else {
         setStatus(
           "Eroare la trimitere. Încearcă din nou sau scrie-mi direct pe email."
         );
+        setStatusType("error");
       }
     } catch (error) {
       console.error("Eroare la trimitere:", error);
       setStatus("A apărut o eroare de rețea. Încearcă din nou.");
+      setStatusType("error");
     } finally {
       setIsSubmitting(false);
     }
@@ -186,7 +205,8 @@ export default function CereOferta() {
             <input
               type="number"
               name="adulti"
-              min="1"
+            min="1"
+            required
               placeholder="Adulți"
               value={formData.adulti}
               onChange={handleChange}
@@ -231,6 +251,7 @@ export default function CereOferta() {
             <input
               type="date"
               name="plecare"
+              min={today}
               value={formData.plecare}
               onChange={handleChange}
               className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
@@ -244,6 +265,7 @@ export default function CereOferta() {
             <input
               type="date"
               name="intoarcere"
+              min={formData.plecare || today}
               value={formData.intoarcere}
               onChange={handleChange}
               className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none"
@@ -270,6 +292,19 @@ export default function CereOferta() {
           className="w-full px-3 py-2 bg-zinc-900 rounded-md border border-zinc-700 outline-none min-h-[120px]"
         />
 
+        <div className="hidden" aria-hidden="true">
+          <label htmlFor="website">Nu completa acest câmp</label>
+          <input
+            id="website"
+            type="text"
+            name="website"
+            tabIndex="-1"
+            autoComplete="off"
+            value={formData.website}
+            onChange={handleChange}
+          />
+        </div>
+
         {/* GDPR */}
         <label className="flex items-center gap-2 text-sm text-zinc-200 mt-2">
           <input
@@ -278,7 +313,7 @@ export default function CereOferta() {
             checked={formData.gdpr}
             onChange={handleChange}
           />
-          Accept prelucrarea datelor conform GDPR.
+          Accept folosirea datelor pentru pregătirea și comunicarea ofertei solicitate.
         </label>
 
         {/* SUBMIT */}
@@ -291,7 +326,28 @@ export default function CereOferta() {
         </button>
       </form>
 
-      {status && <p className="mt-4 text-sm text-red-400">{status}</p>}
+      {status && (
+        <div
+          role="status"
+          className={`mt-4 rounded-lg border p-3 text-sm ${
+            statusType === "success"
+              ? "border-emerald-400/40 bg-emerald-400/10 text-emerald-300"
+              : "border-red-400/40 bg-red-400/10 text-red-300"
+          }`}
+        >
+          <p>{status}</p>
+          {statusType === "error" && (
+            <a
+              href="https://wa.me/40754612036"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-2 inline-block font-semibold underline"
+            >
+              Trimite cererea direct pe WhatsApp
+            </a>
+          )}
+        </div>
+      )}
     </div>
   );
 }

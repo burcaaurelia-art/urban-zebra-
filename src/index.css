@@ -1,8 +1,106 @@
-@tailwind base;@tailwind components;@tailwind utilities;
-:root{--bg:#0a0a0a;--surface:#111214;--gold:#D4AF37}
-html,body,#root{height:100%}
-body{font-family:'Poppins',system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background-color:var(--bg);color:#f8fafc;margin:0}
-a{color:inherit;text-decoration:none}
-.container{max-width:1100px;margin:0 auto;padding:0 1rem}
-.card{background:var(--surface);border:1px solid rgba(255,255,255,0.06)}
-.gold{color:var(--gold)}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0a0a0a;
+  --surface: #111214;
+  --gold: #d4af37;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg);
+  color: #f8fafc;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid rgb(255 255 255 / 6%);
+}
+
+.gold {
+  color: var(--gold);
+}
+
+.article-content {
+  overflow-wrap: anywhere;
+}
+
+.article-content strong {
+  color: #fff;
+  font-weight: 700;
+}
+
+.article-content em {
+  color: #f5d76e;
+}
+
+.article-content a {
+  color: #f5d76e;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.article-content hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid rgb(255 255 255 / 15%);
+}
+
+.article-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.article-content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+.article-content td,
+.article-content th {
+  min-width: 190px;
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #fbbf24;
+  box-shadow: 0 0 0 2px rgb(251 191 36 / 15%);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  filter: invert(1) brightness(2);
+  opacity: 1;
+}

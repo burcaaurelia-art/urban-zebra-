@@ -403,7 +403,7 @@ Urban.Zebra te provoacă să redescoperi România, un city-break pe rând. 🇷�
     id: 4,
     title: "Top 10 resorturi de lux din Creta în 2025",
     date: "23 Octombrie 2025",
-    image: "/images/creta.webp",
+    image: "/images/creta.jpg",
     excerpt:
       "Descoperă cele mai exclusiviste resorturi din Creta în 2025 — locuri unde rafinamentul, liniștea și serviciile impecabile transformă vacanța într-o experiență memorabilă.",
     content: `
@@ -686,7 +686,7 @@ Dacă vrei să ieși din tiparul city-break-urilor clasice și să descoperi Eur
   id: 8,
   title: "Trenul panoramic din Norvegia care te duce în inima aurorei boreale",
   date: "10 Decembrie 2025",
-    image: "/images/2e60b855-9526-423c-959a-abbaf45dde4d.webp",
+    image: "/images/2e60b855-9526-423c-959a-abbaf45dde4d.png",
   excerpt: "O experiență magică pe care să o treci pe lista de călătorii. Trenul panoramic din Norvegia care te duce în inima aurorei boreale.",
   content: `
 Aurora boreală este unul dintre acele fenomene care transformă cerul într-o operă de artă vie.  
@@ -769,7 +769,7 @@ E genul de experiență pe care nu o uiți niciodată.
   id: 9,
   title: "Știați că Istanbulul este unul dintre cele mai prietenoase orașe din lume pentru animalele străzii?",
   date: "17 Decembrie 2025",
-    image: "/images/0cc52512-5cbe-4ec1-9312-3e47ac2ba346.webp",
+    image: "/images/0cc52512-5cbe-4ec1-9312-3e47ac2ba346.jpg",
   excerpt: "Istanbulul este celebru nu doar pentru istoria sa fascinantă și pentru poziția sa între două continente, ci și pentru relația specială dintre locuitori și animalele străzii, în special pisici și câini.",
   content: `
 Știați că Istanbulul este unul dintre cele mai prietenoase orașe din lume pentru animalele străzii?
@@ -805,7 +805,7 @@ Istanbulul demonstrează că un oraș mare și aglomerat poate coexista armonios
   id: 10,
   title: "World Travel Awards 2025",
   date: "18 Decembrie 2025",
-    image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.webp",
+    image: "/images/f77939e6-ac96-4a9b-b5cd-ffcd0d67202b.png",
   excerpt: "World Travel Awards 2025 – Oscarurile turismului mondial",
   content: `
 <h2 style="margin:0 0 10px 0;">World Travel Awards 2025: destinațiile care definesc turismul contemporan</h2>

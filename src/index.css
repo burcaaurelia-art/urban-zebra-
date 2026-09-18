@@ -76,6 +76,25 @@ a {
   max-width: 100%;
   height: auto;
   border-radius: 0.75rem;
+  margin: 1.5rem 0;
+}
+
+.article-content p {
+  margin: 0 0 1rem;
+}
+
+.article-content ul {
+  margin: 0 0 1.25rem 1.25rem;
+  list-style: disc;
+}
+
+.article-content li {
+  margin: 0.35rem 0;
+}
+
+.article-content th {
+  color: #f5d76e;
+  text-align: left;
 }
 
 .article-content table {

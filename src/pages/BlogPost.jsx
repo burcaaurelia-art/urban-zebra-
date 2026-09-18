@@ -2,6 +2,67 @@ import React from 'react'
 import { useParams, Link } from 'react-router-dom'
 import blogPosts from '../blogData'
 
+function renderTravelGuide(content) {
+  const inline = (text) =>
+    text
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*([^*\n]+)\*/g, '<em>$1</em>')
+
+  const lines = content.trim().split('\n')
+  const html = []
+
+  for (let i = 0; i < lines.length; i += 1) {
+    const line = lines[i].trim()
+
+    if (!line) continue
+    if (line === '---') {
+      html.push('<hr />')
+      continue
+    }
+    if (line.startsWith('<')) {
+      html.push(line)
+      continue
+    }
+    if (line.startsWith('|')) {
+      const rows = []
+      while (i < lines.length && lines[i].trim().startsWith('|')) {
+        rows.push(lines[i].trim())
+        i += 1
+      }
+      i -= 1
+      const dataRows = rows.filter((row) => !/^\|[\s:|-]+\|$/.test(row))
+      const cells = dataRows.map((row) =>
+        row.slice(1, -1).split('|').map((cell) => inline(cell.trim()))
+      )
+      if (cells.length) {
+        html.push(
+          '<table><thead><tr>' +
+            cells[0].map((cell) => `<th>${cell}</th>`).join('') +
+            '</tr></thead><tbody>' +
+            cells.slice(1).map((row) =>
+              '<tr>' + row.map((cell) => `<td>${cell}</td>`).join('') + '</tr>'
+            ).join('') +
+            '</tbody></table>'
+        )
+      }
+      continue
+    }
+    if (line.startsWith('- ')) {
+      const items = []
+      while (i < lines.length && lines[i].trim().startsWith('- ')) {
+        items.push(`<li>${inline(lines[i].trim().slice(2))}</li>`)
+        i += 1
+      }
+      i -= 1
+      html.push(`<ul>${items.join('')}</ul>`)
+      continue
+    }
+    html.push(`<p>${inline(line)}</p>`)
+  }
+
+  return html.join('')
+}
+
 export default function BlogPost() {
   const { id } = useParams()
   const post = blogPosts.find(p => p.id === parseInt(id))
@@ -25,8 +86,12 @@ export default function BlogPost() {
 
       {/* Aici e schimbarea importantă */}
       <div
-        className="leading-relaxed text-white/90 prose prose-invert max-w-none"
-        dangerouslySetInnerHTML={{ __html: post.content.replace(/\n/g, '<br/>') }}
+        className="article-content leading-relaxed text-white/90 prose prose-invert max-w-none"
+        dangerouslySetInnerHTML={{
+          __html: post.id === 14
+            ? renderTravelGuide(post.content)
+            : post.content.replace(/\n/g, '<br/>')
+        }}
       />
     </div>
   )

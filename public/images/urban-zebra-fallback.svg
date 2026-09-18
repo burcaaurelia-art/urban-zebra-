@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title description">
+  <title id="title">Urban.Zebra</title>
+  <desc id="description">Fundal negru cu linii aurii și text Urban.Zebra</desc>
+  <rect width="1200" height="700" fill="#0a0a0a"/>
+  <g opacity=".24" stroke="#d4af37" stroke-width="28">
+    <path d="M-80 120 360-40M-20 310 620-40M30 520 950-40M160 700 1240 20M520 730 1280 250M880 760 1300 500"/>
+  </g>
+  <text x="600" y="335" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="88" font-weight="700">Urban<tspan fill="#d4af37">.Zebra</tspan></text>
+  <text x="600" y="405" text-anchor="middle" fill="#d1d5db" font-family="Arial, sans-serif" font-size="30" letter-spacing="8">CĂLĂTORII CU PERSONALITATE</text>
+</svg>

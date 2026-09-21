@@ -3,7 +3,7 @@ const blogPosts = [
     id: 15,
     title: "Moldova Nouă – locul în care am ajuns pentru baschet și pe care l-am descoperit din întâmplare",
     date: "21 Septembrie 2026",
-    image: "/images/moldova-noua-coperta-v2.webp",
+    image: "/images/moldova-noua-coperta-v3.jpg",
     excerpt:
       "Un weekend cu baschet, apusuri pe Dunăre și o zonă surprinzător de frumoasă, care merită să fie descoperită mai mult.",
     content: `
@@ -23,7 +23,7 @@ Primul lucru care ne-a atras atenția a fost peisajul. Dunărea pare că schimb�
 
 Pe apă și în apropierea malului am observat multă viață: **rațe, lebede și alte păsări**, dar și o vegetație bogată. Pentru noi, flora și fauna au fost printre cele mai plăcute surprize ale weekendului.
 
-<img src="/images/moldova-noua-fauna-v2.webp" alt="Castor observat în apă la Moldova Nouă" />
+<img src="/images/moldova-noua-fauna-v3.jpg" alt="Castor observat în apă la Moldova Nouă" />
 
 Nu este un decor turistic construit special pentru fotografii. Este o frumusețe naturală, simplă și autentică, pe care o descoperi privind apa, plimbându-te pe mal sau oprindu-te câteva minute la apus.
 

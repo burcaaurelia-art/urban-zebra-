@@ -88,7 +88,7 @@ export default function BlogPost() {
       <div
         className="article-content leading-relaxed text-white/90 prose prose-invert max-w-none"
         dangerouslySetInnerHTML={{
-          __html: post.id === 14
+          __html: [14, 15].includes(post.id)
             ? renderTravelGuide(post.content)
             : post.content.replace(/\n/g, '<br/>')
         }}

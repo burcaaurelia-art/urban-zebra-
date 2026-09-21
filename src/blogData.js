@@ -1,5 +1,91 @@
 const blogPosts = [
   {
+    id: 15,
+    title: "Moldova Nouă – locul în care am ajuns pentru baschet și pe care l-am descoperit din întâmplare",
+    date: "21 Septembrie 2026",
+    image: "/images/moldova-noua-coperta.webp",
+    excerpt:
+      "Un weekend cu baschet, apusuri pe Dunăre și o zonă surprinzător de frumoasă, care merită să fie descoperită mai mult.",
+    content: `
+**Moldova Nouă – locul în care am ajuns pentru baschet și pe care l-am descoperit din întâmplare 🏀🌅**
+
+Weekendul trecut am ajuns la **Moldova Nouă** datorită lui Tudor. A participat, alături de echipa de baschet **BEST Arad**, la **Cupa M9**, organizată de Cristina Ciocan.
+
+Am plecat cu gândul la meciuri și la susținerea copiilor, dar ne-am întors și cu imaginea unei zone foarte frumoase, așezate între Dunăre și munte, care ne-a surprins prin liniște, peisaje și natură.
+
+<img src="/images/moldova-noua-apas-apus.webp" alt="Apus pe malul Dunării la Moldova Nouă" />
+
+---
+
+**🌊 Moldova Nouă, între Dunăre și munte**
+
+Primul lucru care ne-a atras atenția a fost peisajul. Dunărea pare că schimbă decorul de la o oră la alta: dimineața este liniștită, ziua reflectă cerul și dealurile, iar la apus capătă nuanțe calde, superbe.
+
+Pe apă și în apropierea malului am observat multă viață: **rațe, lebede și alte păsări**, dar și o vegetație bogată. Pentru noi, flora și fauna au fost printre cele mai plăcute surprize ale weekendului.
+
+<img src="/images/moldova-noua-fauna.webp" alt="Fauna observată pe Dunăre, la Moldova Nouă" />
+
+Nu este un decor turistic construit special pentru fotografii. Este o frumusețe naturală, simplă și autentică, pe care o descoperi privind apa, plimbându-te pe mal sau oprindu-te câteva minute la apus.
+
+---
+
+**🏞️ Frumoasă, dar încă puțin exploatată turistic**
+
+Moldova Nouă ne-a lăsat impresia unui loc cu mult potențial, dar încă insuficient pus în valoare. Am fost spre finalul sezonului, iar multe terase și puncte de interes nu mai erau deschise. Din acest motiv, opțiunile au fost mai puține decât ne-am fi dorit.
+
+Totuși, farmecul zonei a rămas. Dunărea, munții din apropiere, portul și liniștea locului sunt motive suficiente pentru o escapadă. Cu mai multe spații deschise, activități și servicii turistice, zona ar putea atrage mult mai mulți vizitatori.
+
+<img src="/images/moldova-noua-port-industrial.webp" alt="Peisaj de pe malul Dunării la Moldova Nouă" />
+
+Mi-ar plăcea să existe mai multe locuri unde să stai la o cafea privind apa, mai multe activități pentru familii și o promovare mai bună a frumuseții naturale din zonă.
+
+---
+
+**🏡 Cazarea noastră: El Gringo**
+
+Am fost cazați la **El Gringo**, iar experiența a fost foarte plăcută. Locul s-a potrivit perfect unui weekend petrecut în zonă și ne-a oferit confortul de care aveam nevoie între meciuri și plimbări.
+
+<img src="/images/moldova-noua-el-gringo.webp" alt="Cazarea El Gringo din Moldova Nouă" />
+
+Atmosfera liniștită și apropierea de apă au completat frumos experiența. A fost genul de cazare la care te întorci cu drag după o zi plină.
+
+---
+
+**🏀 Motivul pentru care am ajuns aici: baschetul**
+
+Punctul central al weekendului a fost **Cupa M9**. Tudor și colegii lui de la **BEST Arad** au jucat foarte bine, cu energie, ambiție și spirit de echipă.
+
+Pentru copii, astfel de turnee înseamnă mai mult decât scorul de pe tabelă. Înseamnă emoție, disciplină, prietenie și experiența de a crește împreună ca echipă.
+
+Iar pentru noi, părinții, a fost bucuria de a-i vedea jucând și de a descoperi, în același timp, un loc în care probabil nu am fi ajuns atât de curând.
+
+---
+
+**🌅 Moldova Nouă după apus**
+
+Seara, reflexiile luminilor în apă schimbă din nou atmosfera. Portul și clădirile de pe mal capătă un aer aparte, iar liniștea Dunării te face să încetinești puțin ritmul.
+
+<img src="/images/moldova-noua-port-noaptea.webp" alt="Reflexii nocturne pe Dunăre la Moldova Nouă" />
+
+Chiar și elementele industriale din zonă devin parte din peisaj și spun ceva despre identitatea locului.
+
+<img src="/images/moldova-noua-dunare-utilaj.webp" alt="Peisaj industrial pe Dunăre la apus" />
+
+---
+
+**💚 Ne-am întoarce?**
+
+Da. Ne-am întoarce într-o perioadă mai activă a sezonului, pentru a vedea zona atunci când sunt deschise mai multe locuri și există mai multe posibilități de petrecere a timpului.
+
+Moldova Nouă nu este încă o destinație turistică intens promovată. Poate tocmai de aceea păstrează acel sentiment de loc descoperit din întâmplare: liniștit, natural și surprinzător.
+
+**Noi am ajuns acolo pentru un turneu de baschet. Moldova Nouă a fost bonusul. ❤️**
+
+**Urban Zebra • Călătorește cu AD Travel**
+    `
+  },
+
+  {
     id: 14,
     title: "Circuit, sejur sau croazieră? Cum alegi vacanța potrivită pentru tine",
     date: "18 Septembrie 2026",

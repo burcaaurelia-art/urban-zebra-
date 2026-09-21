@@ -5,18 +5,13 @@ import blogPosts from "../blogData";
 export default function BlogList() {
   return (
     <div className="container py-6">
-      <div className="mb-10 text-center">
-        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">
-          <span className="text-white">Urban</span>
-          <span className="gold">.Zebra</span>
-        </h1>
-        <p className="mt-2 text-[10px] sm:text-xs font-medium tracking-[0.18em] text-white/50">
-          Călătorește cu AD Travel
-        </p>
-      </div>
+      <h1 className="text-4xl md:text-5xl font-extrabold text-center mb-10 tracking-tight">
+        <span className="text-white">Urban</span>
+        <span className="gold">.Zebra</span>
+      </h1>
 
       <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-        {blogPosts.map((post) => {
+        {blogPosts.map((post, index) => {
           return (
             <Link
               key={post.id}
@@ -31,7 +26,8 @@ export default function BlogList() {
                   }
                   alt={post.title}
                   className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                  loading="lazy"
+                  loading={index === 0 ? "eager" : "lazy"}
+                  fetchPriority={index === 0 ? "high" : "auto"}
                   onError={(e) => {
                     e.currentTarget.src =
                       "https://wsrv.nl/?url=https://source.unsplash.com/800x600/?romania,city";

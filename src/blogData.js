@@ -3,7 +3,7 @@ const blogPosts = [
     id: 15,
     title: "Moldova Nouă – locul în care am ajuns pentru baschet și pe care l-am descoperit din întâmplare",
     date: "21 Septembrie 2026",
-    image: "/images/moldova-noua-coperta-v3.jpg",
+    image: "/images/moldova-noua-titlu.jpg",
     excerpt:
       "Un weekend cu baschet, apusuri pe Dunăre și o zonă surprinzător de frumoasă, care merită să fie descoperită mai mult.",
     content: `

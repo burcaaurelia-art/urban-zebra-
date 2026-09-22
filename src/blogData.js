@@ -1,5 +1,115 @@
 const blogPosts = [
   {
+    id: 16,
+    title: "Nu doar DiscoverEU: 3 moduri reale prin care tinerii pot vedea Europa cu sprijin financiar",
+    date: "22 Septembrie 2026",
+    image: "/images/tallin lubliana etc.jpg",
+    excerpt:
+      "Permise de tren, schimburi internaționale și voluntariat finanțat: ce oportunități europene există cu adevărat și ce cheltuieli acoperă.",
+    content: `
+**Nu doar DiscoverEU: 3 moduri reale prin care tinerii pot vedea Europa cu sprijin financiar 🌍**
+
+**22 septembrie 2026 • Ghid practic**
+
+**Nu este chiar „vacanță gratis”. Dar poate fi una dintre cele mai accesibile și valoroase experiențe europene.**
+
+Când auzim că Uniunea Europeană „îi trimite pe tineri gratuit prin Europa”, povestea sună aproape prea bine ca să fie adevărată. Uneori, formularea este și puțin înșelătoare: nu toate programele sunt vacanțe, nu orice cheltuială este plătită integral, iar înscrierea nu garantează automat un loc.
+
+Totuși, oportunitățile sunt cât se poate de reale. Unele acoperă transportul, altele includ cazarea, masa și chiar o sumă pentru cheltuieli personale. Diferența o face scopul călătoriei: explorare, schimb cultural, studiu sau voluntariat.
+
+Iată trei variante pe care merită să le știe orice familie cu adolescenți sau tineri adulți.
+
+---
+
+**🚆 1. DiscoverEU – Europa cu trenul, la 18 ani**
+
+DiscoverEU este probabil cel mai apropiat program de ideea unei călătorii oferite de Uniunea Europeană. Tinerii eligibili pot solicita un permis de călătorie pentru a descoperi Europa, în principal cu trenul.
+
+Programul se adresează, în mod obișnuit, tinerilor care împlinesc 18 ani în intervalul de naștere stabilit pentru fiecare rundă. Se completează o cerere online, există un chestionar, iar permisele sunt distribuite în limita contingentului alocat fiecărei țări.
+
+Important: permisul acoperă transportul eligibil, dar nu transformă întreaga călătorie într-o vacanță cu toate cheltuielile plătite. Cazarea, mesele, transportul urban și cheltuielile personale rămân, de regulă, în sarcina participantului. Beneficiarii primesc însă și un card de reduceri DiscoverEU.
+
+Pentru tinerii cu mai puține oportunități există și **DiscoverEU Inclusion Action**, o variantă organizată prin instituții și organizații, destinată persoanelor între 18 și 21 de ani care au nevoie de sprijin suplimentar pentru a putea participa.
+
+La data redactării acestui articol, următoarea rundă DiscoverEU este programată între **1 și 15 octombrie 2026**. Condițiile exacte trebuie verificate în regulamentul rundei înainte de înscriere.
+
+**Pe scurt:** este cea mai bună alegere pentru tânărul care vrea libertatea unui traseu european, dar poate susține costurile de cazare și masă.
+
+👉 [Vezi informațiile și regulamentul DiscoverEU](https://youth.europa.eu/discovereu_en)
+
+---
+
+**🤝 2. Schimburile de tineri Erasmus+ – nu trebuie să fii student**
+
+Una dintre cele mai răspândite confuzii despre Erasmus+ este că ar fi rezervat studenților. În realitate, schimburile de tineri sunt deschise participanților cu vârste între **13 și 30 de ani**.
+
+Un astfel de proiect aduce împreună grupuri din mai multe țări pentru câteva zile sau săptămâni. Programul poate include ateliere, jocuri de rol, activități în aer liber, dezbateri și proiecte pe teme precum mediul, cultura, sănătatea, incluziunea sau participarea civică.
+
+Grantul Erasmus+ sprijină transportul și costurile practice necesare schimbului. În proiectele concrete, cazarea și mesele sunt în mod obișnuit organizate în cadrul programului, dar condițiile diferă, iar uneori poate exista o contribuție proprie.
+
+De aceea, anunțul proiectului trebuie citit până la capăt: ce se rambursează, în ce limită, când se primesc banii și ce acte sunt necesare.
+
+Nu aplici ca la o agenție de turism și nici nu alegi pur și simplu un hotel. Participarea se face printr-o organizație, un ONG sau un grup implicat în proiect, iar programul zilnic face parte din experiență.
+
+**Pe scurt:** potrivit pentru adolescentul sau tânărul curios, sociabil și dispus să participe activ, nu doar să viziteze.
+
+👉 [Vezi informațiile oficiale despre schimburile Erasmus+](https://erasmus-plus.ec.europa.eu/opportunities/individuals/youth-exchanges-and-activities)
+
+---
+
+**💙 3. Corpul European de Solidaritate – locuiești în altă țară și faci voluntariat**
+
+Pentru tinerii între **18 și 30 de ani**, Corpul European de Solidaritate poate fi o experiență mult mai profundă decât o vacanță. Participanții se implică în proiecte de voluntariat în domenii precum educația, cultura, mediul, lucrul cu tinerii sau sprijinul comunitar.
+
+În proiectele de voluntariat sunt acoperite costurile de bază: drumul spre și dinspre proiect, cazarea, hrana, transportul local necesar activității, asigurarea și serviciile de sprijin. Voluntarul primește și bani de buzunar, conform regulilor și condițiilor proiectului.
+
+Tocmai de aceea, acesta este programul care seamănă cel mai mult cu ideea de „a trăi o perioadă în străinătate fără să ai nevoie de un buget mare”. Dar există o condiție esențială: nu pleci în concediu. Ai responsabilități, un program și o comunitate în care trebuie să te implici.
+
+Durata și activitățile diferă de la un proiect la altul. Înainte de acceptare trebuie verificate organizația, sarcinile, cazarea, orele de lucru, banii de buzunar și modul de decontare a transportului.
+
+**Pe scurt:** alegerea potrivită pentru tânărul care vrea să locuiască în altă țară, să capete experiență și să contribuie la un proiect real.
+
+👉 [Vezi proiectele și regulile Corpului European de Solidaritate](https://youth.europa.eu/solidarity/young-people/volunteering_en)
+
+---
+
+**🔎 Ce trebuie să verifici înainte să spui „este gratis”**
+
+O ofertă serioasă trebuie să răspundă clar la câteva întrebări:
+
+- Transportul este cumpărat de organizator sau rambursat ulterior?
+- Există o limită maximă de rambursare?
+- Cazarea și mesele sunt incluse integral?
+- Se cere o taxă de participare sau o contribuție proprie?
+- Cine este organizația coordonatoare și apare proiectul pe un portal oficial?
+- Este necesară păstrarea biletelor, facturilor și cărților de îmbarcare?
+- Pentru minori, cine îi însoțește și ce acorduri sunt necesare?
+
+Niciun program european legitim nu ar trebui prezentat ca un câștig garantat, fără criterii și fără obligații. Iar expresia „totul gratuit” trebuie privită cu prudență până când sunt citite condițiile proiectului concret.
+
+---
+
+**🧭 Unde se caută oportunitățile adevărate**
+
+Punctul de plecare sigur este **Portalul European pentru Tineret**, împreună cu paginile oficiale **Erasmus+**. Pentru schimburile de tineri, multe selecții sunt anunțate de ONG-uri și organizații locale, însă informațiile trebuie comparate cu regulile programului și cu datele organizației.
+
+Nu trimite bani, copii după acte sau date bancare unei pagini neverificate doar pentru că folosește sigla Uniunii Europene. Sigla nu este o garanție; proiectul, organizația și condițiile trebuie verificate separat.
+
+---
+
+**✨ Europa nu oferă doar bilete, ci contexte în care tinerii pot crește**
+
+DiscoverEU oferă libertatea drumului. Schimburile Erasmus+ oferă întâlnirea cu alți tineri și învățarea dincolo de școală. Corpul European de Solidaritate oferă experiența de a trăi și de a face voluntariat într-o altă comunitate.
+
+Niciuna dintre variante nu este pur și simplu o vacanță cadou. Dar, pentru tânărul potrivit, poate însemna ceva mai valoros: prima plecare fără părinți, prima prietenie internațională, prima experiență de viață într-o altă țară sau primul pas spre mai multă independență.
+
+*Informațiile au fost verificate la 22 septembrie 2026. Calendarul, eligibilitatea și finanțarea pot fi modificate; înainte de înscriere trebuie consultate regulile apelului și condițiile proiectului concret.*
+
+**Urban Zebra • Călătorește cu AD Travel**
+    `
+  },
+
+  {
     id: 15,
     title: "Moldova Nouă – locul în care am ajuns pentru baschet și pe care l-am descoperit din întâmplare",
     date: "21 Septembrie 2026",

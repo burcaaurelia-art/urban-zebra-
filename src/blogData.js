@@ -3,7 +3,7 @@ const blogPosts = [
     id: 16,
     title: "Nu doar DiscoverEU: 3 moduri reale prin care tinerii pot vedea Europa cu sprijin financiar",
     date: "22 Septembrie 2026",
-    image: "/images/tallin lubliana etc.jpg",
+    image: "/images/discovereu-tineri-europa.jpg",
     excerpt:
       "Permise de tren, schimburi internaționale și voluntariat finanțat: ce oportunități europene există cu adevărat și ce cheltuieli acoperă.",
     content: `

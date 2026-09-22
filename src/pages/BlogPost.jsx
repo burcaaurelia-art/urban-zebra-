@@ -7,6 +7,10 @@ function renderTravelGuide(content) {
     text
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*([^*\n]+)\*/g, '<em>$1</em>')
+      .replace(
+        /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
+        '<a href="$2" target="_blank" rel="noopener noreferrer" class="text-amber-400 font-semibold underline decoration-amber-400/50 underline-offset-4 hover:text-amber-300">$1 ↗</a>'
+      )
 
   const lines = content.trim().split('\n')
   const html = []
@@ -88,7 +92,7 @@ export default function BlogPost() {
       <div
         className="article-content leading-relaxed text-white/90 prose prose-invert max-w-none"
         dangerouslySetInnerHTML={{
-          __html: [14, 15].includes(post.id)
+          __html: [14, 15, 16].includes(post.id)
             ? renderTravelGuide(post.content)
             : post.content.replace(/\n/g, '<br/>')
         }}

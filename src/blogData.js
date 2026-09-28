@@ -1,5 +1,145 @@
 const blogPosts = [
   {
+    id: 17,
+    title: "Vacanțele s-au scumpit în 2026. La ce prețuri să ne așteptăm în 2027?",
+    date: "28 Septembrie 2026",
+    image: "/images/scumpire-pachete-turistice-romania-2026-2027.webp",
+    excerpt:
+      "De ce au crescut prețurile pachetelor turistice în 2026, ce arată datele economice și cum ne putem pregăti bugetul pentru vacanțele din 2027.",
+    content: `
+**Vacanțele s-au scumpit în 2026. La ce prețuri să ne așteptăm în 2027? ✈️**
+
+**28 septembrie 2026 • Analiză Urban Zebra**
+
+Pentru mulți români, căutarea vacanței din 2026 a venit cu aceeași întrebare: **de ce pare că același buget cumpără mai puțin decât anul trecut?**
+
+Răspunsul nu stă într-o singură taxă și nici într-un singur furnizor. Prețul unui pachet turistic adună transportul, cazarea, masa, transferurile, taxele și marja organizatorului. Când mai multe dintre aceste costuri cresc în același timp, diferența se vede în oferta finală.
+
+Important: nu există un procent unic de scumpire valabil pentru toate vacanțele. Un sejur în România, un charter în Antalya și o croazieră au structuri de cost foarte diferite. Destinația, perioada, aeroportul, hotelul și momentul rezervării pot schimba mult comparația.
+
+---
+
+**📈 Ce s-a întâmplat cu prețurile în 2026?**
+
+Datele publicate pentru august 2026 indicau o inflație anuală de **6,17% în România**, iar serviciile erau cu **11,2%** mai scumpe decât cu un an înainte. Aceste cifre nu înseamnă că fiecare pachet turistic s-a scumpit exact cu același procent, dar explică presiunea asupra costurilor din ospitalitate și transport.
+
+În practică, două oferte aparent identice pot evolua diferit. Un hotel poate majora tarifele, altul le poate păstra pentru rezervările Early Booking, iar un zbor charter poate fi influențat de combustibil, taxe aeroportuare și gradul de ocupare.
+
+De aceea, comparația corectă se face între pachete cu **aceeași perioadă, același tip de cameră, același regim de masă, aceleași bagaje și servicii incluse**.
+
+---
+
+**💶 De ce s-au scumpit pachetele turistice?**
+
+**1. Hotelurile au costuri mai mari**
+
+Energia, alimentele, salariile, mentenanța și serviciile externe intră în tariful camerei. În România, cota redusă de TVA aplicabilă, între altele, serviciilor de cazare a devenit **11% de la 1 august 2025**, ceea ce a adăugat o presiune fiscală față de nivelul anterior.
+
+**2. Transportul aerian rămâne sensibil la combustibil și taxe**
+
+Pentru pachetele cu avionul, costul zborului poate avea o pondere importantă. Combustibilul, taxele de aeroport, disponibilitatea aeronavelor și cererea de pe o anumită rută pot modifica prețul final.
+
+**3. Camerele bune și datele populare se ocupă primele**
+
+În vacanțele școlare, de sărbători și în vârful sezonului, cererea este mai mare. Pe măsură ce camerele ieftine se epuizează, rămân tipurile mai scumpe sau tarifele mai puțin avantajoase.
+
+**4. Cursul valutar poate influența costul în lei**
+
+Multe servicii turistice sunt negociate în euro sau dolari. Chiar dacă tariful extern rămâne neschimbat, suma plătită în lei poate varia.
+
+**5. Nu toate ofertele includ aceleași servicii**
+
+Un preț mai mic poate ascunde bagaje contra cost, transfer separat, mai puține mese sau o cameră inferioară. De aceea, prețul afișat la început nu este întotdeauna costul complet al vacanței.
+
+---
+
+**🔮 Ce estimări sunt pentru 2027?**
+
+Comisia Europeană estima, în prognoza publicată în mai 2026, o inflație medie armonizată de **7% pentru România în 2026**, urmată de o temperare la **3,7% în 2027**.
+
+Aceasta este o prognoză pentru economia generală, nu o estimare dedicată pachetelor turistice. Prin urmare, nu putem spune că toate vacanțele se vor scumpi cu 3,7%.
+
+Ca reper de buget, **estimarea Urban Zebra** este că pachetele comparabile pentru 2027 ar putea fi, într-un scenariu relativ stabil, cu aproximativ **3–7%** peste nivelurile din 2026. Aceasta este o estimare orientativă, nu o prognoză oficială și nu o garanție de preț.
+
+Pentru pachetele cu avionul, hotelurile foarte căutate și plecările din plin sezon, creșterea poate depăși această plajă dacă se majorează costurile de transport, taxele sau tarifele de cazare. În schimb, promoțiile Early Booking pot păstra unele oferte sub această medie.
+
+**Exemplu simplu:**
+
+- un pachet de **2.000 €**, majorat cu 5%, ar ajunge la **2.100 €**;
+- același pachet, majorat cu 8%, ar ajunge la **2.160 €**.
+
+Calculul este orientativ: 2.000 € × 1,05 = 2.100 €, respectiv 2.000 € × 1,08 = 2.160 €.
+
+---
+
+**🗓️ Early Booking sau Last Minute?**
+
+În 2026, piața a arătat două comportamente în paralel: turiști care au rezervat cu **6–9 luni înainte**, atrași de reducerile Early Booking, și turiști care au așteptat ofertele Last Minute.
+
+**Early Booking este de obicei mai potrivit dacă:**
+
+- călătorești în vacanțele școlare;
+- ai nevoie de o cameră de familie;
+- vrei un anumit hotel sau un anumit aeroport;
+- călătorești în grup;
+- vrei să plătești în tranșe, acolo unde contractul permite.
+
+**Last Minute poate funcționa dacă:**
+
+- ești flexibil cu hotelul și destinația;
+- poți pleca într-un interval scurt;
+- accepți că oferta dorită poate să nu mai fie disponibilă;
+- nu depinzi de o configurație rară de cameră.
+
+Last Minute nu înseamnă automat cel mai mic preț. Atunci când avionul și hotelul sunt aproape pline, tariful poate fi mai mare, nu mai mic.
+
+---
+
+**⚖️ Se poate modifica prețul după rezervare?**
+
+Pentru pachetele turistice, organizatorul poate majora prețul după încheierea contractului numai dacă această posibilitate este prevăzută în contract și dacă majorarea rezultă din anumite costuri permise de lege, precum combustibilul, taxele sau cursul de schimb.
+
+Majorarea trebuie comunicată și justificată și nu poate fi impusă cu mai puțin de **20 de zile înainte de plecare**. Dacă depășește **8% din prețul total al pachetului**, călătorul poate accepta schimbarea sau poate înceta contractul fără penalitate, în condițiile legii.
+
+De aceea, înainte de plată, citește condițiile contractuale și verifică exact ce este inclus.
+
+---
+
+**💡 Cum îți protejezi bugetul pentru 2027**
+
+- compară **costul total**, nu doar prețul de pornire;
+- verifică bagajele, transferurile, mesele, taxele și eventualele servicii plătite separat;
+- cere o ofertă pentru date apropiate, nu doar pentru o singură zi de plecare;
+- compară plecările din mai multe aeroporturi, dacă drumul până la ele nu anulează economia;
+- pentru familii și perioade foarte cerute, rezervă mai devreme;
+- păstrează o rezervă de buget pentru excursii, taxe locale și cheltuieli neincluse;
+- nu alege un hotel doar pentru că este cel mai ieftin: poziția, recenziile și serviciile pot schimba valoarea reală a ofertei.
+
+---
+
+**✨ Concluzie**
+
+Vacanțele din 2026 au fost influențate de inflație, costurile serviciilor, fiscalitate, transport și cerere. Pentru 2027, este posibil ca ritmul general al scumpirilor să încetinească, dar asta nu înseamnă automat că pachetele turistice vor deveni mai ieftine.
+
+Cea mai bună strategie rămâne comparația făcută din timp, pe servicii echivalente și pe costul complet. O vacanță bine aleasă nu este neapărat cea cu cel mai mic tarif afișat, ci aceea care oferă cel mai bun echilibru între buget, condiții și experiență.
+
+---
+
+**🌍 Vrei să comparăm variantele pentru vacanța ta din 2027?**
+
+Spune-ne perioada, bugetul, aeroportul de plecare și cine călătorește. Echipa **AD Travel** poate verifica pentru tine variantele disponibile și serviciile incluse.
+
+👉 [Scrie-ne pe WhatsApp](https://wa.me/40754612036) sau completează formularul [Cere ofertă](https://urban-zebra-blog.vercel.app/cere-oferta).
+
+**Surse consultate:** Institutul Național de Statistică – datele privind inflația din august 2026; [Comisia Europeană – prognoza economică pentru România](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/romania/economic-forecast-romania_en); [ANAF – modificările cotelor de TVA](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Cotele_de_TVA_09.2025.pdf); [Your Europe – drepturile călătorilor pentru pachetele turistice](https://europa.eu/youreurope/citizens/travel/holidays/package-travel/index_ro.htm).
+
+*Prețurile turistice sunt dinamice, iar prognozele economice se pot modifica. Estimarea de 3–7% reprezintă o analiză orientativă Urban Zebra, nu o ofertă comercială și nu o garanție privind tarifele din 2027.*
+
+**Urban Zebra • Călătorește cu AD Travel**
+    `
+  },
+
+  {
     id: 16,
     title: "Nu doar DiscoverEU: 3 moduri reale prin care tinerii pot vedea Europa cu sprijin financiar",
     date: "22 Septembrie 2026",

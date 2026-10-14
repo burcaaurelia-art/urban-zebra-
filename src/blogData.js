@@ -3,7 +3,7 @@ const blogPosts = [
     id: 18,
     title: "All Inclusive nu înseamnă același lucru peste tot: Turcia, Egipt sau Grecia?",
     date: "14 Octombrie 2026",
-    image: "/images/all-inclusive-turcia-egipt-grecia.webp",
+    image: "/images/all-inclusive-turcia-egipt-grecia-v2.webp",
     excerpt:
       "Mese, băuturi, plajă și servicii: ce diferențe poți întâlni în Turcia, Egipt și Grecia și ce trebuie verificat înainte de rezervare.",
     content: `

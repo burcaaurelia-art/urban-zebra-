@@ -1,5 +1,289 @@
 const blogPosts = [
   {
+    id: 18,
+    title: "All Inclusive nu înseamnă același lucru peste tot: Turcia, Egipt sau Grecia?",
+    date: "14 Octombrie 2026",
+    image: "/images/all-inclusive-turcia-egipt-grecia.webp",
+    excerpt:
+      "Mese, băuturi, plajă și servicii: ce diferențe poți întâlni în Turcia, Egipt și Grecia și ce trebuie verificat înainte de rezervare.",
+    content: `
+**All Inclusive nu înseamnă același lucru peste tot: Turcia, Egipt sau Grecia?**
+
+**14 octombrie 2026 • Ghid Urban Zebra**
+
+La prima vedere, lucrurile par simple: alegi un hotel cu All Inclusive, plătești pachetul și nu mai ai grija meselor sau a băuturilor.
+
+În realitate, expresia **„All Inclusive” nu garantează aceleași servicii în fiecare hotel și nici în fiecare țară**.
+
+Într-un resort din Turcia poți găsi restaurante deschise aproape permanent, gustări, cofetărie și divertisment până seara târziu. În Egipt, experiența poate fi construită mai mult în jurul resortului, al piscinelor și al plajei. În Grecia, All Inclusive este adesea mai simplu, cu un program clar și mai puține servicii între mese.
+
+Acestea sunt tendințe generale, nu reguli. Un hotel bun din Grecia poate oferi o experiență mai reușită decât un resort modest din Turcia, iar două hoteluri aflate unul lângă altul pot avea concepte complet diferite.
+
+De aceea, înainte să compari prețurile, trebuie să verifici **ce include concret fiecare pachet**.
+
+---
+
+**🇹🇷 Turcia: All Inclusive construit în jurul confortului**
+
+Turcia, în special zona Antalya, este una dintre destinațiile în care conceptul All Inclusive este foarte dezvoltat.
+
+Resorturile mari din Lara, Belek, Side, Kemer sau Alanya funcționează adesea ca mici orașe de vacanță: restaurante, piscine, plajă, cluburi pentru copii, spectacole și activități într-un singur complex.
+
+**🍽️ Mâncarea**
+
+În multe resorturi găsești:
+
+- bufet principal variat;
+- gustări între mese;
+- patiserie sau cofetărie;
+- înghețată în anumite intervale;
+- preparate pentru copii;
+- restaurante à la carte, uneori cu rezervare sau contra cost;
+- mâncare disponibilă până târziu.
+
+La hotelurile mai bune, varietatea poate fi impresionantă. Totuși, un bufet foarte mare nu înseamnă automat și calitate excelentă. Uneori există multe preparate, dar diferențele dintre ele sunt mici.
+
+**🍹 Băuturile**
+
+La conceptul All Inclusive standard sunt incluse, de regulă, băuturile locale stabilite de hotel.
+
+La Ultra All Inclusive pot apărea:
+
+- program mai lung al barurilor;
+- minibar alimentat periodic;
+- anumite băuturi internaționale;
+- cocktailuri mai variate;
+- servicii suplimentare pe plajă sau la piscină.
+
+Atenție: **„Ultra All Inclusive” nu are o definiție identică în toate resorturile**. La un hotel poate include băuturi internaționale, iar la altul doar un program mai lung și câteva servicii în plus.
+
+**🏖️ Plaja**
+
+Plajele diferă mult în funcție de zonă:
+
+- **Lara și Belek** – în general plaje late, cu nisip sau nisip amestecat cu pietricele;
+- **Side** – multe zone cu intrare mai lină în mare;
+- **Kemer** – peisaj spectaculos, dar frecvent plaje cu pietriș;
+- **Alanya** – calitatea plajei și intrarea în mare diferă mult de la un hotel la altul.
+
+În Turcia, un resort excelent nu garantează automat și plaja perfectă. Cele două trebuie analizate separat.
+
+**🎭 Serviciile și divertismentul**
+
+Turcia este potrivită celor care vor să aibă multe activități în hotel:
+
+- spectacole seara;
+- animație;
+- cluburi pentru copii;
+- aquaparkuri;
+- terenuri și activități sportive;
+- petreceri tematice.
+
+La resorturile premium, serviciul poate fi foarte atent. La hotelurile mari și mai accesibile, experiența poate deveni aglomerată în plin sezon.
+
+**Turcia este potrivită dacă:** vrei varietate, multe activități și un resort în care să găsești aproape tot ce ai nevoie.
+
+---
+
+**🇪🇬 Egipt: soare, resort și lumea spectaculoasă a Mării Roșii**
+
+În Egipt, All Inclusive este foarte popular deoarece multe hoteluri sunt amplasate în zone turistice construite în jurul resorturilor.
+
+Experiența diferă considerabil între Hurghada, Makadi Bay, Sahl Hasheesh, Soma Bay și Sharm el-Sheikh, dar și între hotelurile din aceeași zonă.
+
+**🍽️ Mâncarea**
+
+În majoritatea resorturilor sunt incluse cele trei mese principale, gustări și anumite băuturi.
+
+Diferențele dintre hoteluri se observă mai ales la:
+
+- calitatea ingredientelor;
+- diversitatea bufetului;
+- modul de prezentare;
+- curățenia restaurantului;
+- numărul restaurantelor à la carte;
+- existența meniurilor pentru copii sau pentru anumite diete.
+
+La resorturile mai accesibile, mâncarea poate deveni repetitivă. Hotelurile din lanțuri cunoscute oferă, în general, o experiență mai constantă, dar trebuie verificat fiecare resort separat.
+
+**🍹 Băuturile**
+
+În multe concepte All Inclusive sunt incluse băuturile alcoolice locale și băuturile nealcoolice servite în anumite baruri și intervale orare.
+
+Pot exista diferențe importante privind:
+
+- apa îmbuteliată;
+- sucurile proaspete;
+- cafeaua specială;
+- băuturile internaționale;
+- minibarul;
+- cocktailurile;
+- serviciile oferite după o anumită oră.
+
+Denumirea „Ultra All Inclusive” nu înseamnă neapărat că toate băuturile de import sunt incluse.
+
+**🏖️ Plaja și intrarea în mare**
+
+În Egipt, acesta este unul dintre cele mai importante lucruri de verificat.
+
+Un hotel poate avea o mare superbă și un recif spectaculos, dar accesul la apă să se facă numai de pe ponton. Alt resort poate avea o lagună cu nisip și intrare lină, potrivită pentru copii, dar fără un recif impresionant.
+
+Trebuie să verifici:
+
+- dacă intrarea este direct de pe plajă sau de pe ponton;
+- cât de adâncă este apa;
+- dacă sunt necesari pantofi speciali;
+- cât de mult se simte refluxul;
+- dacă zona este expusă vântului;
+- dacă există recif accesibil pentru snorkeling.
+
+În special în Sharm el-Sheikh și în anumite zone din Hurghada, fotografiile cu apa turcoaz nu spun întreaga poveste despre accesul în mare.
+
+**🎭 Serviciile și divertismentul**
+
+Multe resorturi egiptene oferă:
+
+- piscine și aquaparkuri;
+- echipe de animație;
+- spectacole;
+- club pentru copii;
+- centre de scufundări;
+- excursii și activități pe mare.
+
+Serviciul poate fi foarte atent, mai ales în resorturile bune, însă diferențele dintre hoteluri sunt mari. Clasificarea de cinci stele nu trebuie interpretată automat ca fiind identică cu cea a unui hotel european de cinci stele.
+
+**Egiptul este potrivit dacă:** vrei soare, un resort cu multe facilități și acces la Marea Roșie, dar ești dispus să verifici atent plaja și calitatea hotelului.
+
+---
+
+**🇬🇷 Grecia: un All Inclusive mai simplu, într-o vacanță orientată spre destinație**
+
+Grecia nu este cunoscută în primul rând pentru resorturile gigantice, ci pentru insule, plaje, sate, taverne și excursii.
+
+Există hoteluri All Inclusive foarte bune, dar conceptul este adesea mai simplu și mai bine delimitat decât în marile resorturi din Turcia.
+
+**🍽️ Mâncarea**
+
+În mod obișnuit, conceptul include:
+
+- mic dejun, prânz și cină;
+- gustări într-un anumit interval;
+- băuturi la mesele principale;
+- uneori înghețată sau gustări pentru copii.
+
+Mâncarea poate avea mai multe influențe locale și mediteraneene, dar varietatea nu este întotdeauna la nivelul resorturilor mari din Turcia.
+
+Un avantaj poate fi faptul că hotelurile sunt mai mici și atmosfera mai liniștită. Dezavantajul este că între mese pot exista mai puține opțiuni.
+
+**🍹 Băuturile**
+
+Multe hoteluri includ:
+
+- bere și vin local;
+- băuturi răcoritoare;
+- cafea și ceai;
+- ouzo sau alte băuturi locale;
+- o listă limitată de cocktailuri.
+
+Băuturile internaționale, cafeaua specială și cocktailurile din afara meniului All Inclusive pot fi contra cost.
+
+Programul barurilor este adesea foarte clar, iar după ora stabilită băuturile se plătesc.
+
+**🏖️ Plaja**
+
+Grecia oferă unele dintre cele mai frumoase peisaje, însă trebuie verificat dacă:
+
+- hotelul este cu adevărat pe plajă;
+- între hotel și mare există un drum;
+- șezlongurile sunt incluse;
+- plaja este cu nisip, pietricele sau stânci;
+- intrarea în apă este potrivită pentru copii.
+
+În Grecia, expresia „aproape de plajă” poate însemna o plimbare de câteva minute, nu neapărat acces direct din resort.
+
+**🎭 Serviciile și divertismentul**
+
+Hotelurile grecești pot avea animație, spectacole și cluburi pentru copii, dar programul este adesea mai discret.
+
+Accentul cade mai mult pe:
+
+- relaxare;
+- atmosferă;
+- gastronomie locală;
+- plimbări;
+- explorarea insulei.
+
+Dacă vrei să închiriezi mașină, să vizitezi sate și să mănânci la taverne, merită să te întrebi dacă ai nevoie de All Inclusive sau dacă demipensiunea ar fi suficientă.
+
+**Grecia este potrivită dacă:** vrei să combini hotelul cu explorarea destinației și nu ai nevoie de activități și mâncare disponibile permanent.
+
+---
+
+**👀 Comparația dintr-o privire**
+
+| Ce contează pentru tine | Turcia | Egipt | Grecia |
+| --- | --- | --- | --- |
+| Varietatea mâncării | De obicei ridicată la resorturile bune | Diferă mult între hoteluri | De regulă mai simplă |
+| Gustări între mese | Frecvente în resorturile mari | Există, dar programul diferă | Mai limitate |
+| Băuturi internaționale | Uneori incluse la conceptele premium | Frecvent contra cost | De obicei limitate sau contra cost |
+| Aquapark și activități | Foarte răspândite | Multe resorturi pentru familii | Depinde mult de hotel |
+| Plajă | Diferă în funcție de zonă | Trebuie verificat accesul în mare | Poate fi superbă, dar nu întotdeauna direct la hotel |
+| Ieșiri din resort | Posibile, dar mulți turiști rămân în complex | Depind mult de amplasare | Recomandate pentru a descoperi insula |
+| Atmosferă | Resort complet și animat | Vacanță concentrată în jurul hotelului și al mării | Mai relaxată și orientată spre destinație |
+
+---
+
+**🔎 Ce trebuie să verifici înainte să rezervi**
+
+Nu te opri la denumirea regimului de masă. Cere sau citește conceptul exact al hotelului și verifică:
+
+- programul restaurantului principal;
+- orele pentru gustări;
+- ce băuturi sunt incluse;
+- dacă minibarul este gratuit;
+- câte restaurante à la carte pot fi folosite;
+- dacă este necesară rezervarea;
+- dacă șezlongurile și prosoapele sunt incluse;
+- cum se face accesul în mare;
+- ce piscine sunt încălzite;
+- programul clubului pentru copii;
+- ce servicii se plătesc separat.
+
+Conceptul All Inclusive se poate modifica de la un sezon la altul. Informațiile dintr-o recenzie mai veche sau dintr-un videoclip de pe internet pot să nu mai fie valabile la data călătoriei.
+
+---
+
+**✨ Care este cea mai bună alegere?**
+
+Nu există o țară care să ofere cel mai bun All Inclusive pentru toată lumea.
+
+**Alege Turcia** dacă vrei un resort complet, multă varietate și activități pentru întreaga familie.
+
+**Alege Egiptul** dacă pui accent pe soare, snorkeling, aquapark și vacanța petrecută în resort.
+
+**Alege Grecia** dacă îți dorești o atmosferă mai relaxată și vrei să combini timpul petrecut la hotel cu explorarea insulei.
+
+Cel mai important este să nu compari doar numărul de stele și prețul. Compară **plaja, conceptul de masă, băuturile, serviciile și recenziile recente**.
+
+Uneori, un All Inclusive mai simplu, dar bine executat, oferă o vacanță mai reușită decât un Ultra All Inclusive care promite foarte mult și livrează puțin.
+
+---
+
+**🌍 Nu știi ce variantă vi se potrivește?**
+
+Spune-ne perioada, bugetul, aeroportul de plecare, cine călătorește și ce contează cel mai mult pentru voi: plaja, mâncarea, aquaparkul, liniștea sau divertismentul.
+
+Echipa **AD Travel** poate compara variantele și conceptul fiecărui hotel, astfel încât să știți ce rezervați.
+
+👉 [Scrie-ne pe WhatsApp](https://wa.me/40754612036) sau completează formularul [„Cere ofertă”](https://urban-zebra-blog.vercel.app/cere-oferta).
+
+*Serviciile incluse diferă în funcție de hotel, sezon, tipul camerei și tariful rezervat. Verifică întotdeauna conceptul oficial și condițiile ofertei înainte de rezervare.*
+
+**Urban Zebra • Călătorește cu AD Travel**
+    `
+  },
+
+  {
     id: 17,
     title: "Vacanțele s-au scumpit în 2026. La ce prețuri să ne așteptăm în 2027?",
     date: "28 Septembrie 2026",

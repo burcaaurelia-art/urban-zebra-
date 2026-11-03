@@ -273,13 +273,13 @@ Uneori, un All Inclusive mai simplu, dar bine executat, oferă o vacanță mai r
 
 Spune-ne perioada, bugetul, aeroportul de plecare, cine călătorește și ce contează cel mai mult pentru voi: plaja, mâncarea, aquaparkul, liniștea sau divertismentul.
 
-Echipa **AD Travel** poate compara variantele și conceptul fiecărui hotel, astfel încât să știți ce rezervați.
+Te ajutăm să compari variantele și conceptul fiecărui hotel, astfel încât să știi ce rezervi.
 
 👉 [Scrie-ne pe WhatsApp](https://wa.me/40754612036) sau completează formularul [„Cere ofertă”](https://urban-zebra-blog.vercel.app/cere-oferta).
 
 *Serviciile incluse diferă în funcție de hotel, sezon, tipul camerei și tariful rezervat. Verifică întotdeauna conceptul oficial și condițiile ofertei înainte de rezervare.*
 
-**Urban Zebra • Călătorește cu AD Travel**
+**Urban Zebra • Idei și ghiduri de călătorie**
     `
   },
 
@@ -411,7 +411,7 @@ Cea mai bună strategie rămâne comparația făcută din timp, pe servicii echi
 
 **🌍 Vrei să comparăm variantele pentru vacanța ta din 2027?**
 
-Spune-ne perioada, bugetul, aeroportul de plecare și cine călătorește. Echipa **AD Travel** poate verifica pentru tine variantele disponibile și serviciile incluse.
+Spune-ne perioada, bugetul, aeroportul de plecare și cine călătorește. Te ajutăm să compari variantele disponibile și serviciile incluse.
 
 👉 [Scrie-ne pe WhatsApp](https://wa.me/40754612036) sau completează formularul [Cere ofertă](https://urban-zebra-blog.vercel.app/cere-oferta).
 
@@ -419,7 +419,7 @@ Spune-ne perioada, bugetul, aeroportul de plecare și cine călătorește. Echip
 
 *Prețurile turistice sunt dinamice, iar prognozele economice se pot modifica. Estimarea de 3–7% reprezintă o analiză orientativă Urban Zebra, nu o ofertă comercială și nu o garanție privind tarifele din 2027.*
 
-**Urban Zebra • Călătorește cu AD Travel**
+**Urban Zebra • Idei și ghiduri de călătorie**
     `
   },
 
@@ -529,7 +529,7 @@ Niciuna dintre variante nu este pur și simplu o vacanță cadou. Dar, pentru t�
 
 *Informațiile au fost verificate la 22 septembrie 2026. Calendarul, eligibilitatea și finanțarea pot fi modificate; înainte de înscriere trebuie consultate regulile apelului și condițiile proiectului concret.*
 
-**Urban Zebra • Călătorește cu AD Travel**
+**Urban Zebra • Idei și ghiduri de călătorie**
     `
   },
 
@@ -615,7 +615,7 @@ Moldova Nouă nu este încă o destinație turistică intens promovată. Poate t
 
 **Noi am ajuns acolo pentru un turneu de baschet. Moldova Nouă a fost bonusul. ❤️**
 
-**Urban Zebra • Călătorește cu AD Travel**
+**Urban Zebra • Idei și ghiduri de călătorie**
     `
   },
 
@@ -842,13 +842,13 @@ Răspunsul te va conduce, de cele mai multe ori, către alegerea potrivită.
 
 **🌍 Nu știi încă ce variantă să alegi?**
 
-Spune-ne perioada, bugetul, cine călătorește și ce îți dorești de la vacanță. Echipa **AD Travel** poate compara pentru tine variante de circuit, sejur și croazieră, astfel încât să alegi informat.
+Spune-ne perioada, bugetul, cine călătorește și ce îți dorești de la vacanță. Te ajutăm să compari variante de circuit, sejur și croazieră, astfel încât să alegi informat.
 
 👉 Completează formularul **„Cere ofertă”**, iar noi îți pregătim propunerile potrivite.
 
 *Serviciile incluse diferă în funcție de organizator, pachet, compania de croazieră și tariful ales. Verifică întotdeauna condițiile exacte ale ofertei înainte de rezervare.*
 
-**Urban Zebra • Călătorește cu AD Travel**
+**Urban Zebra • Idei și ghiduri de călătorie**
     `
   },
 
@@ -947,7 +947,7 @@ Secretul este să nu încercați să bifați tot. Alegeți atracțiile important
 
 ✨ **Vrei să transformi vizita la Energylandia într-o escapadă completă în Polonia?**
 
-AD Travel te poate ajuta cu transportul, cazarea și un program adaptat familiei tale. Completează formularul **„Cere ofertă”**, iar noi pregătim o variantă potrivită perioadei și bugetului tău.
+Te putem ajuta cu transportul, cazarea și un program adaptat familiei tale. Completează formularul **„Cere ofertă”**, iar noi pregătim o variantă potrivită perioadei și bugetului tău.
 
 *Informațiile și tarifele au fost verificate la 18 septembrie 2026. Programul, prețurile, promoțiile și regulile de acces se pot modifica.*
     `
@@ -1117,7 +1117,7 @@ Iar dacă ai nevoie de ajutor pentru:
 - optimizarea bugetului  
 - sau idei de itinerarii personalizate  
 
-✨ Echipa AD Travel te poate sprijini cu recomandări profesioniste!
+✨ Te putem sprijini cu recomandări potrivite pentru vacanța ta!
 
 
 ❤️ Bonus: devii parte dintr-o comunitate europeană!

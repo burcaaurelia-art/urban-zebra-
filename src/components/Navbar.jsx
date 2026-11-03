@@ -16,7 +16,7 @@ export default function Navbar() {
             </span>
           </span>
           <span className="mt-1 whitespace-nowrap text-[9px] font-medium tracking-[0.14em] text-white/55 transition-colors group-hover:text-white/75 sm:text-[10px]">
-            Călătorește cu AD Travel
+            Ghiduri și idei de călătorie
           </span>
         </Link>
 

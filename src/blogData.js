@@ -1,5 +1,107 @@
 const blogPosts = [
   {
+    id: 19,
+    title: "„Oscarurile turismului” 2026: cine a câștigat în Europa și ce urmează la marea finală",
+    date: "19 Noiembrie 2026",
+    image: "/images/oscarurile-turismului-europa-2026.webp",
+    excerpt:
+      "Portugalia, Grecia, Turcia și Italia se numără printre marii câștigători europeni ai World Travel Awards 2026. Vezi hotelurile premiate și linkurile lor oficiale.",
+    content: `
+**„Oscarurile turismului” 2026: cine a câștigat în Europa și ce urmează la marea finală**
+
+**19 noiembrie 2026 • Știri din turism**
+
+World Travel Awards sunt numite frecvent, în mod informal, **„Oscarurile turismului”**. Competiția premiază anual destinații, hoteluri, resorturi, companii aeriene și alte nume importante ale industriei.
+
+Gala europeană din 2026 a avut loc pe **17 octombrie, la Kotor, în Muntenegru**, iar câștigătorii regionali au fost deja anunțați. Marea finală mondială este programată pentru **12 decembrie 2026, în Tanzania**.
+
+---
+
+**🇵🇹 Portugalia, din nou în centrul atenției**
+
+Portugalia a primit titlul **Europe’s Leading Destination 2026**, confirmându-și poziția printre cele mai apreciate destinații ale continentului.
+
+Țara reușește să adune într-o singură vacanță orașe potrivite pentru city break, litoral, gastronomie, natură și insule spectaculoase. Algarve a fost desemnată **Europe’s Leading Beach Destination**, în timp ce Lisabona, Azore și Dark Sky Alqueva s-au remarcat în alte categorii europene.
+
+---
+
+**🏛️ Atena, alegerea pentru un city break european**
+
+Atena a câștigat titlul **Europe’s Leading City Break Destination 2026**. Capitala Greciei nu mai este doar o oprire înaintea vacanței pe insule: patrimoniul antic, cartierele animate, gastronomia și legăturile aeriene o transformă într-o destinație completă pentru câteva zile.
+
+---
+
+**🇲🇪 Muntenegru și Kotor, gazdele galei europene**
+
+Alegerea orașului Kotor pentru ceremonia europeană a adus din nou atenția asupra Muntenegrului. Golful Kotor combină peisajul montan cu orașe istorice și accesul la Marea Adriatică, fiind o alternativă interesantă pentru cei care caută o destinație mai compactă decât vecinele sale foarte cunoscute.
+
+---
+
+**🏨 Hotelurile și resorturile europene premiate în 2026**
+
+Mai jos găsești câteva dintre cele mai importante proprietăți câștigătoare. Numele hotelurilor duc către site-urile lor oficiale:
+
+- [Estoril Vintage Hotel – Portugalia](https://www.estorilvintage.com/) — **Europe’s Leading Hotel 2026**;
+- [Forte Village Resort – Italia](https://www.fortevillageresort.com/) — **Europe’s Leading Resort 2026**;
+- [Çırağan Palace Kempinski Istanbul – Turcia](https://www.kempinski.com/en/ciragan-palace) — **Europe’s Leading Luxury Hotel 2026**;
+- [Domes Miramare, Corfu – Grecia](https://domesresorts.com/domesmiramare/) — **Europe’s Leading Luxury Resort 2026**;
+- [Elounda Beach Hotel & Villas, Creta – Grecia](https://www.eloundabeach.gr/) — **Europe’s Leading Beach Resort 2026**;
+- [AMOH, Rodos – Grecia](https://www.amoh.com/) — **Europe’s Leading New Resort 2026**;
+- [Cullinan Belek – Turcia](https://www.cullinanhotels.com/) — **Europe’s Leading Luxury All-Inclusive Resort 2026**;
+- [Disneyland Paris](https://www.disneylandparis.com/) — **Europe’s Leading Theme Park Resort 2026**.
+
+Lista arată cât de variată este oferta europeană: hoteluri istorice, resorturi mediteraneene, proprietăți noi și complexe dedicate familiilor.
+
+---
+
+**✈️ Turkish Airlines, premiată la categoria companiilor aeriene**
+
+Turkish Airlines a primit titlul **Europe’s Leading Airline 2026**. Premiul reflectă vizibilitatea companiei și rețeaua sa amplă de conexiuni, însă alegerea unui zbor trebuie făcută în continuare după orar, bagaj inclus, aeroport, escală și condițiile concrete ale tarifului.
+
+---
+
+**🇷🇴 Cine a câștigat în România?**
+
+[The Marmorosch Bucharest, Autograph Collection](https://www.marriott.com/en-us/hotels/buhak-the-marmorosch-bucharest-autograph-collection/overview/) a fost desemnat **Romania’s Leading Hotel 2026**.
+
+Teleferic Grand Hotel din Poiana Brașov s-a aflat printre nominalizările pentru categoria **Europe’s Leading Hotel 2026**, însă premiul european a revenit Estoril Vintage Hotel. O nominalizare la nivel european rămâne totuși o recunoaștere importantă.
+
+În zona operatorilor de turism, Rolandia a primit titlul **Romania’s Leading Tour Operator 2026**, iar Christian Tour apare în palmaresul oficial la categoria **Romania’s Leading Online Travel Agency 2026**.
+
+---
+
+**🔎 Ce înseamnă aceste premii pentru turist?**
+
+Un premiu poate fi un punct bun de pornire atunci când cauți inspirație, dar nu înlocuiește verificarea ofertei concrete. World Travel Awards nu reprezintă un clasament științific și nici garanția că un hotel este potrivit pentru orice turist.
+
+Înainte de rezervare, verifică:
+
+- recenziile recente și tiparele care se repetă;
+- amplasarea exactă și accesul la plajă;
+- tipul camerei și vederea incluse în tarif;
+- mesele, băuturile și serviciile disponibile în perioada călătoriei;
+- renovările, lucrările sau facilitățile sezoniere;
+- costul total, inclusiv transportul și taxele.
+
+Un resort premiat pentru lux poate să nu fie alegerea ideală pentru o familie cu copii mici, iar un hotel celebru poate să nu ofere plaja pe care ți-o imaginezi.
+
+---
+
+**🌍 Ce urmează?**
+
+World Travel Awards Grand Final 2026 este programată pentru **12 decembrie, în Tanzania**. Atunci vor fi anunțați câștigătorii mondiali, iar proprietățile premiate în etapele regionale vor intra din nou în atenție.
+
+Vom reveni după gală cu rezultatele finale și cu o selecție a hotelurilor și destinațiilor care merită urmărite pentru vacanțele din 2027.
+
+👉 Lista completă și actualizările oficiale pot fi consultate pe [site-ul World Travel Awards](https://www.worldtravelawards.com/).
+
+*Premiile și serviciile hotelurilor pot fi actualizate. Verifică întotdeauna informațiile oficiale și condițiile exacte ale ofertei înainte de rezervare.*
+
+**Urban Zebra • Idei și ghiduri de călătorie**
+    `
+  },
+
+  {
     id: 18,
     title: "All Inclusive nu înseamnă același lucru peste tot: Turcia, Egipt sau Grecia?",
     date: "14 Octombrie 2026",
